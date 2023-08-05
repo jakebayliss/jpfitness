@@ -8,9 +8,9 @@ interface FooterProps {
 
 const Footer = (props: FooterProps) => {
     return <div className='w-full sticky bottom-0 bg-black text-white'>
-        <div className="flex justify-between">
+        <div className="flex justify-between items-center h-10 text-2xl">
             <Link href={props.previousPage}>⬅️</Link>
-            <Link href='/'>🏠</Link>
+            <Link href='/'>⏏️</Link>
             <Link href={props.nextPage}>➡️</Link>
         </div>
     </div>
