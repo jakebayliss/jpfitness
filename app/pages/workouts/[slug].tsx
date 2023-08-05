@@ -1,18 +1,18 @@
 import { GetStaticProps, GetStaticPaths  } from 'next';
 import path from 'path';
 import { promises as fs } from 'fs';
-import Markdown from 'markdown-to-jsx';
 import matter, { FrontMatterResult } from 'front-matter';
 import { IWorkout } from '@/interfaces/IWorkout';
 import Footer from '@/components/Footer';
+import ReactMarkdown from 'react-markdown'
 
 const Index = (props: any) => {
   return (
     <main>
       <div className='p-5'>
-        <h1 className='my-3 font-bold text-2xl'>Week {props.data?.attributes.week} - {props.data?.attributes.title}</h1>
-        <div>
-          <Markdown>{props.data?.body}</Markdown>
+        <h1 className='my-3 font-bold text-2xl'>Week {props.workout.week} - {props.workout.title}</h1>
+        <div className='prose'>
+          <ReactMarkdown>{props.workout.content}</ReactMarkdown>
         </div>
       </div>
       <Footer currentPageNumber={1} nextPage='week1-arms' previousPage='week1-welcome' />
@@ -21,21 +21,29 @@ const Index = (props: any) => {
 }
 
 export const getStaticProps: GetStaticProps = async (context) => {
-  if(context.params) {
-    var content = (await fs.readFile(`./content/${context.params.slug}.md`)).toString();
-    var data = matter(content) as FrontMatterResult<IWorkout>;
-
-    return {
-      props: {
-        data
-      }
-    }
+  if(!context.params) {
+    return;
   }
+
+  var workout = await getWorkout(context.params.slug as string);
 
   return {
-    props: {}
+    props: {
+      workout
+    }
   }
 }
+
+export const getWorkout = async (slug: string) => {
+  const content = (await fs.readFile(`./content/${slug}.md`)).toString();
+  const data = matter(content) as FrontMatterResult<IWorkout>;
+
+  return {
+      ...data.attributes,
+      content: data.body
+  }
+}
+
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const folder = path.join(process.cwd(), './content')
