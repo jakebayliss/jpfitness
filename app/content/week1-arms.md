@@ -7,7 +7,7 @@ week: 1
 Right, so here's my first day of the week laid out for you. Start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously. The girl who runs the online Pilates classes I do does this during her sessions and it helps more than you can imagine. I've also provided a written description if you'd rather read it before each set. I recommend 8-12 reps, 4 sets for every exercise.
 
 
-![video](https://github.com/jakebayliss/jpfitness/assets/32888060/2dfa7e10-4f47-4fca-a5c6-ef3bba305c27)
+https://github.com/jakebayliss/jpfitness/assets/32888060/2dfa7e10-4f47-4fca-a5c6-ef3bba305c27.mp4
 
 
 My main focus for arms is putting size on. However, I'm not looking to get enormous so I'm sure there are fitness professionals out there who may say what I'm doing isn't 100% correct by the books - but as I've already mentioned this program is simply what works for me and you guys have requested exactly that.
