@@ -25,10 +25,10 @@ const Index = ({workouts}: {
 }
  
 export async function getStaticProps() {
-  const folder = path.join(process.cwd(), '../workouts');
+  const folder = path.join(process.cwd(), './workouts');
   const filenames = await fs.readdir(folder);
   const workouts = filenames.filter(async f => f.endsWith('.md')).map(async f => {
-    var content = (await fs.readFile(`../workouts/${f}`)).toString();
+    var content = (await fs.readFile(`./workouts/${f}`)).toString();
     return {
       data: matter(content) as FrontMatterResult<IWorkout>,
       slug: f.replace('.md', '')

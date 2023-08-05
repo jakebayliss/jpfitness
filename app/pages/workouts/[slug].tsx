@@ -22,7 +22,7 @@ const Index = (props: any) => {
 
 export const getStaticProps: GetStaticProps = async (context) => {
   if(context.params) {
-    var content = (await fs.readFile(`../workouts/${context.params.slug}.md`)).toString();
+    var content = (await fs.readFile(`./workouts/${context.params.slug}.md`)).toString();
     var data = matter(content) as FrontMatterResult<IWorkout>;
 
     return {
@@ -38,7 +38,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const folder = path.join(process.cwd(), '../workouts')
+  const folder = path.join(process.cwd(), './workouts')
   const filenames = await fs.readdir(folder);
 
   return {
