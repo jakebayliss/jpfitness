@@ -1,5 +1,3 @@
-
-https://github.com/jakebayliss/jpfitness/assets/101162903/352c975d-88b8-452d-80d9-158997a67508
 ---
 title: "Arms"
 week: 1
