@@ -8,7 +8,7 @@ Right, so here's my first day of the week laid out for you. Start by watching an
 
 <figure class="video_container">
   <video controls="true">
-    <source src="https://github.com/jakebayliss/jpfitness/assets/32888060/2dfa7e10-4f47-4fca-a5c6-ef3bba305c27" type="video/mp4">
+    <source src="https://jpfitnessstorage.blob.core.windows.net/videos/364185523_6154705301304714_6582148476220312125_n.mp4" type="video/mp4">
   </video>
 </figure>
 

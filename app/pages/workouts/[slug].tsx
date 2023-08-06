@@ -49,7 +49,6 @@ export const getWorkout = async (slug: string) => {
 export const getStaticPaths: GetStaticPaths = async () => {
   const folder = path.join(process.cwd(), './content')
   const filenames = await fs.readdir(folder);
-  console.log(filenames);
   const slugs = filenames.map(s => s.replace('.md', ''));
 
   return {
