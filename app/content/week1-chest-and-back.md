@@ -10,6 +10,12 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 
 Incline DB Press: 
 
+
+
+https://github.com/jakebayliss/jpfitness/assets/101162903/ea5cb6bc-c14f-403e-98ad-c9875ef13d2f
+
+
+
 - Heavily influenced incline chest routine as I have always felt my lower chest grows faster than my upper - thus I like to focus on my upper and really go for that full look
 
 - Careful with your form picking up heavy dumbbells, I know better than most about annoying back pain caused from the gym
