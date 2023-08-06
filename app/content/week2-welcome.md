@@ -2,6 +2,8 @@
 title: "Welcome"
 order: 1
 week: 2
+nextPage: 'week2-arms'
+previousPage: 'week1-cardio'
 ---
 
 WEEK 2 BABYYYY let's get it!
