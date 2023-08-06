@@ -5,6 +5,7 @@ import matter, { FrontMatterResult } from 'front-matter';
 import { IWorkout } from '@/interfaces/IWorkout';
 import Footer from '@/components/Footer';
 import ReactMarkdown from 'react-markdown'
+import rehypeRaw from 'rehype-raw';
 
 const Index = (props: any) => {
   return (
@@ -12,7 +13,7 @@ const Index = (props: any) => {
       <div className='p-5'>
         <h1 className='my-3 font-bold text-2xl'>Week {props.workout.week} - {props.workout.title}</h1>
         <div className='prose'>
-          <ReactMarkdown>{props.workout.content}</ReactMarkdown>
+          <ReactMarkdown rehypePlugins={[rehypeRaw]}>{props.workout.content}</ReactMarkdown>
         </div>
       </div>
       <Footer currentPageNumber={1} nextPage='week1-arms' previousPage='week1-welcome' />
