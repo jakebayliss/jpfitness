@@ -2,6 +2,8 @@
 title: "Chest & Back"
 pageNumber: 4
 week: 1
+nextPage: 'week1-legs'
+previousPage: 'week1-arms'
 ---
 
 Day two!!!!! You got this babyy. As with Day 1, start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously.
@@ -11,8 +13,12 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 Incline DB Press: 
 
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/ea5cb6bc-c14f-403e-98ad-c9875ef13d2f" type="video/mp4">
+  </video>
+</figure>
 
-https://github.com/jakebayliss/jpfitness/assets/101162903/ea5cb6bc-c14f-403e-98ad-c9875ef13d2f
 
 
 
