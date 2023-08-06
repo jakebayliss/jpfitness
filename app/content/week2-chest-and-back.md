@@ -2,9 +2,17 @@
 title: "Chest & Back"
 order: 1
 week: 2
+nextPage: 'week2-legs'
+previousPage: 'week2-arms'
 ---
 
 Incline DB Press:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/bd252ef6-432b-4262-94e4-1abf2ad90b36" type="video/mp4">
+  </video>
+</figure>
 
 - Heavily influenced incline chest routine as I have always felt my lower chest grows faster than my upper - thus I like to focus on my upper and really go for that full look
 
@@ -20,6 +28,12 @@ Incline DB Press:
 
 TBar Rows: 
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/020282fd-4df4-43b4-9f2c-453d9984807c" type="video/mp4">
+  </video>
+</figure>
+
 - Form form form - don't go too heavy until you've got your form 100% down
 
 - Do not injure your back doing these, be extremely careful and if you have any doubts ask a gym employee for assistance
@@ -29,6 +43,12 @@ TBar Rows:
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
 Flat DB Press Superset DB Burners:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5b623dce-681b-4066-ba18-b7e0be72c57b" type="video/mp4">
+  </video>
+</figure>
 
 - Position your arms as close as you can to mine in the video - don't flair your elbows out and don't have them touching your obliques either - go in the middle
 
@@ -42,7 +62,11 @@ Flat DB Press Superset DB Burners:
 
 Cables (up & down)
 
-(Upward)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c0210bf8-9ee6-4800-b910-5776277e9497" type="video/mp4">
+  </video>
+</figure>
 
 - Killer superset, if I'm feeling frisky then I sometimes do a set of 10-15 pushups as a superset to really annihilate the chest
 
@@ -56,7 +80,12 @@ Cables (up & down)
 
 - I do 12.5kg in downward flys for 10 reps 
 
-(Downward)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/da2a3c73-eb8f-4ac2-ab6d-24fca3e48929" type="video/mp4">
+  </video>
+</figure>
+
 - As above, position yourself in the centre of the machine but this time don't step forward
 
 - Legs shoulder width apart, arms similar angle to above
@@ -69,6 +98,12 @@ Cables (up & down)
 
 Row Machine:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/be8a1dab-35ec-4dae-ba87-641fd450c4de" type="video/mp4">
+  </video>
+</figure>
+
 - Essential upper back exercise to give yourself that swole look
 
 - Strict form as always, make sure to pull all the way back, PAUSE, then slowly release back to an extended arm position
@@ -79,6 +114,12 @@ Row Machine:
 
 Bench:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
+  </video>
+</figure>
+
 - Just when you think you're done for the day I hit you with flat bench press
 
 - Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion
@@ -88,6 +129,12 @@ Bench:
 - Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
 Pull ups - last with final set being to failure:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
+  </video>
+</figure>
 
 - Final exercise!!! x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
 
