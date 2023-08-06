@@ -6,17 +6,19 @@ import { IWorkout } from '@/interfaces/IWorkout';
 import Footer from '@/components/Footer';
 import ReactMarkdown from 'react-markdown'
 import rehypeRaw from 'rehype-raw';
+import Header from '@/components/Header';
 
 const Index = (props: any) => {
   return (
     <main>
       <div className='p-5'>
+        <Header />
         <h1 className='my-3 font-bold text-2xl'>Week {props.workout.week} - {props.workout.title}</h1>
         <div className='prose'>
           <ReactMarkdown rehypePlugins={[rehypeRaw]}>{props.workout.content}</ReactMarkdown>
         </div>
       </div>
-      <Footer currentPageNumber={1} nextPage='week1-arms' previousPage='week1-welcome' />
+      <Footer currentPageNumber={props.workout.pageNumber} nextPage={props.workout.nextPage} previousPage={props.workout.previousPage} />
     </main>
   )
 }

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import path from 'path';
 import matter, { FrontMatterResult } from 'front-matter';
 import { IWorkout } from '@/interfaces/IWorkout';
+import Header from '@/components/Header';
 
 const Index = ({workouts}: {
     workouts: {
@@ -12,9 +13,10 @@ const Index = ({workouts}: {
   }) => {
   return (
     <main className='p-5'>
+      <Header />
       <h1 className='my-3 font-bold text-2xl'>Workouts</h1>
       <div>
-        {workouts.map((w, i) => (
+        {workouts.sort(x => x.data.attributes.pageNumber).map((w, i) => (
           <Link href={`/workouts/${w.slug}`} key={i}>
             <h3>Week {w.data.attributes.week} - {w.data.attributes.title}</h3>
           </Link>
