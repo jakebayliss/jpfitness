@@ -2,6 +2,8 @@
 title: "Cardio & Extras"
 order: 1
 week: 7
+nextPage: 'week8-welcome'
+previousPage: 'week7-shoulders'
 ---
 Week 7 - Swim:
 
