@@ -1,14 +1,20 @@
-  ---
+---
 title: "Chest & Back"
 order: 1
 week: 7
+nextPage: 'week7-legs'
+previousPage: 'week7-arms'
 ---
-
 Bench:
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
+  </video>
+</figure>
 
 - [WARM UP]
 
-- Just when you think you're done for the day I hit you with flat bench press
+- What a fkn start to Chest day - there's not much better in life than hitting flat-bench first up! 
 
 - Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion
 
@@ -16,29 +22,15 @@ Bench:
 
 - Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
-Incline Flys:
-
-- Straight into these after Incline DB, make sure you treat the transition as a superset
-
-- Slow and controlled is key, get your arms at the right angle so it's not ripping your shoulders but it's also engaging your chest as much as possible
-
-- Arm angle is also key - don't straight arm it but also don't chest press, find that sweet spot in-between to maximise chest gains while minimising the risk of shoulder injuries
-
-- I'm on 14kg dumbbells for incline flys
-
-T-Bar Rows:
-
-- Form form form - don't go too heavy until you've got your form 100% down
-
-- Do not injure your back doing these, be extremely careful and if you have any doubts ask a gym employee for assistance
-
-- For similar reasons to not doing deadlifts my T-bar row weight is not that high - I'm mainly concerned about form so will max out at around two plates
-
-- Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
-
 Incline DB Press: 
 
-- If you're feeling that your lower chest isn't getting enough love then now's the perfect time to sub out incline DB press with decline DB press - as always be careful with how heavy you go if it's your first time!
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/bd252ef6-432b-4262-94e4-1abf2ad90b36" type="video/mp4">
+  </video>
+</figure>
+
+- Now this may seem like a lot going straight from flat bench to incline DB but we're here to annihilate our chest & grow that bitch so let's smash it! 
 
 - Careful with your form picking up heavy dumbbells, I know better than most about annoying back pain caused from the gym
 
@@ -50,7 +42,45 @@ Incline DB Press:
 
 - I'm currently on 40kg dumbbells for incline press, 6 reps, working my way up to 8 reps gradually!
 
+T-Bar Rows:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/020282fd-4df4-43b4-9f2c-453d9984807c" type="video/mp4">
+  </video>
+</figure>
+
+- Form form form - don't go too heavy until you've got your form 100% down
+
+- Do not injure your back doing these, be extremely careful and if you have any doubts ask a gym employee for assistance
+
+- For similar reasons to not doing deadlifts my T-bar row weight is not that high - I'm mainly concerned about form so will max out at around two plates
+
+- Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
+
+Incline Flys:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/2f427229-a846-4885-a1c9-8bc46e6d4deb" type="video/mp4">
+  </video>
+</figure>
+
+- Straight into these after Incline DB, make sure you treat the transition as a superset
+
+- Slow and controlled is key, get your arms at the right angle so it's not ripping your shoulders but it's also engaging your chest as much as possible
+
+- Arm angle is also key - don't straight arm it but also don't chest press, find that sweet spot in-between to maximise chest gains while minimising the risk of shoulder injuries
+
+- I'm on 14kg dumbbells for incline flys
+
 Lat Pulldowns:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5e8962cd-27c9-42cf-8343-fa18049ad5be" type="video/mp4">
+  </video>
+</figure>
 
 - Very important to build your complete back and give you WINGS
 
@@ -61,8 +91,12 @@ Lat Pulldowns:
 - I like to use the lat pulldown machine at around 65kg currently for 8 reps, working my way up to controlled bodyweight pulldowns
 
 Cables (Up & Down):
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c0210bf8-9ee6-4800-b910-5776277e9497" type="video/mp4">
+  </video>
+</figure>
 
-(Upward)
 - Killer superset, if I'm feeling frisky then I sometimes do a set of 10-15 pushups as a superset to really annihilate the chest
 
 - Position the cables at or slightly above head height
@@ -75,7 +109,12 @@ Cables (Up & Down):
 
 - I do 12.5kg in downward flys for 10 reps 
 
-(Downward)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/da2a3c73-eb8f-4ac2-ab6d-24fca3e48929" type="video/mp4">
+  </video>
+</figure>
+
 - As above, position yourself in the centre of the machine but this time don't step forward
 
 - Legs shoulder width apart, arms similar angle to above
@@ -86,8 +125,12 @@ Cables (Up & Down):
 
 - I do 10.5kg for 8 reps in this direction
 
-
-Pull-Ups (Final set to failure!!)
+Pull-Ups (Final set to failure!!):
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
+  </video>
+</figure>
 
 - Final exercise!!! x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
 
