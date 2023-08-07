@@ -2,6 +2,8 @@
 title: "Welcome"
 order: 1
 week: 5
+nextPage: 'week5-arms'
+previousPage: 'week4-cardio'
 ---
 
 Week 5 means you're over the half way hump!! Congratulations for making it this far.
