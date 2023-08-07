@@ -8,7 +8,17 @@ previousPage: 'week2-welcome'
 
 21s Superset:
 
-NEED TO FIX SUPERSET
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b73a0568-9b4d-42b3-9da4-47bc65a17839" type="video/mp4">
+  </video>
+</figure>
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3d8f5a93-f287-4afe-bcab-344261bbe277" type="video/mp4">
+  </video>
+</figure>
 
 [WARM UP]
 
