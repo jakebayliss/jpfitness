@@ -12,6 +12,18 @@ My main focus for arms is putting size on. However, I'm not looking to get enorm
 
 21's Superset:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b73a0568-9b4d-42b3-9da4-47bc65a17839" type="video/mp4">
+  </video>
+</figure>
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3d8f5a93-f287-4afe-bcab-344261bbe277" type="video/mp4">
+  </video>
+</figure>
+
 [WARM UP]
 
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
