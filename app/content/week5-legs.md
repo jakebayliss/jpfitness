@@ -1,6 +1,5 @@
 ---
 title: "Legs"
-pageNumber: 5
 week: 5
 nextPage: 'week5-shoulders'
 previousPage: 'week5-chest-and-back'
