@@ -2,6 +2,8 @@
 title: "Cardio & Extras"
 order: 1
 week: 6
+nextPage: 'week7-welcome'
+previousPage: 'week6-shoulders'
 ---
 
 Week 6: HIIT Workout
