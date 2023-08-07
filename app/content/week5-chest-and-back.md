@@ -2,9 +2,17 @@
 title: "Chest & Back"
 order: 1
 week: 5
+nextPage: 'week5-legs'
+previousPage: 'week5-arms'
 ---
 
 Incline DB Press: 
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/bd252ef6-432b-4262-94e4-1abf2ad90b36" type="video/mp4">
+  </video>
+</figure>
 
 - [WARM UP]
 
@@ -22,6 +30,12 @@ Incline DB Press:
 
 Incline Flys:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/2f427229-a846-4885-a1c9-8bc46e6d4deb" type="video/mp4">
+  </video>
+</figure>
+
 - Straight into these after Incline DB, make sure you treat the transition as a superset
 
 - Slow and controlled is key, get your arms at the right angle so it's not ripping your shoulders but it's also engaging your chest as much as possible
@@ -32,6 +46,12 @@ Incline Flys:
 
 T-Bar Rows:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/020282fd-4df4-43b4-9f2c-453d9984807c" type="video/mp4">
+  </video>
+</figure>
+
 - Form form form - don't go too heavy until you've got your form 100% down
 
 - Do not injure your back doing these, be extremely careful and if you have any doubts ask a gym employee for assistance
@@ -41,6 +61,12 @@ T-Bar Rows:
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
 Cables (Up & Down):
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c0210bf8-9ee6-4800-b910-5776277e9497" type="video/mp4">
+  </video>
+</figure>
 
 (Upward)
 - Killer superset, if I'm feeling frisky then I sometimes do a set of 10-15 pushups as a superset to really annihilate the chest
@@ -55,6 +81,12 @@ Cables (Up & Down):
 
 - I do 12.5kg in downward flys for 10 reps 
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/da2a3c73-eb8f-4ac2-ab6d-24fca3e48929" type="video/mp4">
+  </video>
+</figure>
+
 (Downward)
 - As above, position yourself in the centre of the machine but this time don't step forward
 
@@ -68,6 +100,12 @@ Cables (Up & Down):
 
 Lat Pulldowns:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5e8962cd-27c9-42cf-8343-fa18049ad5be" type="video/mp4">
+  </video>
+</figure>
+
 - Very important to build your complete back and give you WINGS
 
 - Strict form as always, make sure to pull all the way down and engage your lats, don't pull with your arms/biceps
@@ -78,6 +116,12 @@ Lat Pulldowns:
 
 Bench:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
+  </video>
+</figure>
+
 - Just when you think you're done for the day I hit you with flat bench press
 
 - Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion
@@ -86,7 +130,13 @@ Bench:
 
 - Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
-Pull-Ups (Final set to failure!!)
+Pull-Ups (Final set to failure!!):
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
+  </video>
+</figure>
 
 - Final exercise!!! x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
 
