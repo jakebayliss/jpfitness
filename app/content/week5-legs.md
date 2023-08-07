@@ -1,15 +1,19 @@
 ---
 title: "Legs"
-order: 1
+pageNumber: 5
 week: 5
+nextPage: 'week5-shoulders'
+previousPage: 'week5-chest-and-back'
 ---
 
 Lunges (SS Free-weight squads):
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/9a93de59-479a-42ad-8fb7-32b2cbfcda1b">
+  </video>
+</figure>
 
-(Lunges)
-- [WARM UP] set with body weight then straight into it
-
-- By now you should be increasing your weight by a minimum of 2kg from your Week 1 weight!
+- Warm-up set with body weight then straight into it
 
 - Don't over-stride - keep stride length reasonable so you're not over extending, losing balance
 
@@ -18,8 +22,13 @@ Lunges (SS Free-weight squads):
 - Superset with bodyweight squats (mainly so I can still incorporate squats and reap some of their benefits)
 
 - I like to do ~14kg each arm, 10 reps each leg
+  
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/06cfac63-a57e-4ed6-8c0f-6798c54da65a" type="video/mp4">
+  </video>
+</figure>
 
-(Free-weight squats)
 - Feet shoulder width apart, bend your hips and knees simultaneously
 
 - Lean back into the squat - hinging at the hips, keep your back neutral and core engaged
@@ -27,6 +36,12 @@ Lunges (SS Free-weight squads):
 - I do bodyweight sets here as my lower back is injured!
 
 Leg Extensions:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/fa027411-fb21-4b6a-bb70-a1e65240fe92" type="video/mp4">
+  </video>
+</figure>
 
 - If you have a manual machine (as in the video) for these you're winning at life, the one at my gym is life changing - makes me want to do 10 sets
 
@@ -39,6 +54,12 @@ Leg Extensions:
 - I do 3, 20kg plates, 10 reps for 4 sets
 
 Leg Press Superset Calf Raises:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/22f8f9ed-ecfd-45f9-955c-30b4ba0874ea" type="video/mp4">
+  </video>
+</figure>
 
 - Back rest position is once again key - I like to have it configured so, when resting on the press, my legs are slightly bent (as in the video)
 
@@ -54,6 +75,12 @@ Leg Press Superset Calf Raises:
 
 Hamstring machine:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/eadc8eab-733e-44cd-a9e6-ee15fe6ba689" type="video/mp4">
+  </video>
+</figure>
+
 - Great exercise for adding inches to your legs, stabilising and supporting your back
 
 - Slow and controlled movements are required
@@ -63,6 +90,12 @@ Hamstring machine:
 - I am currently repping around 40kg for 10 reps
 
 Leg extension drop-set to finish:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/86cd70ba-cbe5-4af5-9818-811c6e45e7ab" type="video/mp4">
+  </video>
+</figure>
 
 - Similarly to the above leg extensions you want to position the machine so your knees are pivoting nicely off the bench
 
