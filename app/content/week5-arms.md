@@ -2,6 +2,8 @@
 title: "Arms"
 order: 1
 week: 5
+nextPage: 'week5-chest-and-back'
+previousPage: 'week5-welcome'
 ---
 
 21's Superset:
@@ -24,7 +26,12 @@ week: 5
 
 Dips Superset Hammer-Curls:
 
-(Dips)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/10a502b9-b9cd-43ef-91d0-e2ea20f2a932" type="video/mp4">
+  </video>
+</figure>
+
 - Definitely start these on an assisted machine.
 
 - Start with your elbows locked and arms straight, then slowly lower yourself to 90 degrees (the forearm/upper arm angle I reach in the vid) then power back up to vertical
@@ -37,7 +44,12 @@ Dips Superset Hammer-Curls:
 
 - I do 8-12 reps of body weight dips
 
-(Hammers)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/f4240a54-b95c-4551-b21d-2c54e3c8a9f5" type="video/mp4">
+  </video>
+</figure>
+
 - Lock your elbows into your obliques for best form
 
 - Slow reps down, maximise control
@@ -51,6 +63,12 @@ Dips Superset Hammer-Curls:
 - Currently on 16kg for 8 reps each arm
 
 Incline Bench Curls: 
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c2b7af0d-61fa-4786-971c-a21ee8eb86da" type="video/mp4">
+  </video>
+</figure>
 
 - Start with arms vertical, slowly curl upwards until you're at the natural 'top' of the rep as in video, slow release back down
 
@@ -70,7 +88,13 @@ Incline Bench Curls:
 
 Rope Pulldowns Superset Close-grip Curls:
 
-(Rope)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/d034ea62-251a-4606-b46e-96c21e475bd1" type="video/mp4">
+  </video>
+</figure>
+
+
 - Killer superset, lock those fkn elbows!!
 
 - Really pull OUTWARDS at the bottom of every rep to engage those tri's
@@ -81,7 +105,12 @@ Rope Pulldowns Superset Close-grip Curls:
 
 - Weight for these is highly dependant on what kind of cable machine you use. Some of them I'm ~20kg for 8 reps, others I do around 40kg
 
-(CG Curls)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
+  </video>
+</figure>
+
 - Lock elbows as per!!
 
 - Try minimise upper-body rocking, I know it's hard but try!
@@ -96,6 +125,12 @@ Rope Pulldowns Superset Close-grip Curls:
 
 Preacher Curls Superset Long Negatives:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0d63ceda-af2c-4b8f-a7a9-ae465842614d" type="video/mp4">
+  </video>
+</figure>
+
 - Slooooow negatives
 
 - Good tip is to set up the chair height perfectly for you. The height that feels best for me is demonstrated in the video and it's fairly low as I like my whole upper body locked in place
@@ -109,6 +144,12 @@ Preacher Curls Superset Long Negatives:
 - I currently do 12.5kg on either side of the bar for 8 reps then 4-6 ultra long negatives to finish each set
 
 Overhead Tricep Extensions:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/8e4d663f-e2a4-4f3c-8817-53d058dc9ccd" type="video/mp4">
+  </video>
+</figure>
 
 - Start low weight and work on your form
 
