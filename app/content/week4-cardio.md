@@ -2,6 +2,8 @@
 title: "Cardio & Extras"
 order: 1
 week: 4
+nextPage: 'week5-welcome'
+previousPage: 'week4-shoulders'
 ---
 
 Week 4: Outdoor Jogging

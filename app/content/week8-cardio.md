@@ -2,6 +2,7 @@
 title: "Cardio & Extras"
 order: 1
 week: 8
+previousPage: 'week8-shoulders'
 ---
 
 Week 8: HIIT Workout to finish your 8 week journey - this one's an absolute killer!!!! 

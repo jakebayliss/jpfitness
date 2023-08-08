@@ -2,16 +2,20 @@
 title: "Chest & Back"
 order: 1
 week: 8
+nextPage: 'week8-legs'
+previousPage: 'week8-arms'
 ---
 
 Incline DB Press:
 
-- [WARM UP]
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/bd252ef6-432b-4262-94e4-1abf2ad90b36" type="video/mp4">
+  </video>
+</figure>
 
-- Last chest & back sesh of the program, you know we're wrapping this shit up by starting with Incline bench baby!
+- Heavily influenced incline chest routine as I have always felt my lower chest grows faster than my upper - thus I like to focus on my upper and really go for that full look
 
-- Try and up your weight at LEAST 4kg from your original Week 1 weight
-  
 - Careful with your form picking up heavy dumbbells, I know better than most about annoying back pain caused from the gym
 
 - Bench angle determines where on your chest is activated - the higher up you go (to a certain point then it becomes majoritively shoulders) the more upper chest it works
@@ -24,6 +28,12 @@ Incline DB Press:
 
 TBar Rows: 
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/020282fd-4df4-43b4-9f2c-453d9984807c" type="video/mp4">
+  </video>
+</figure>
+
 - Form form form - don't go too heavy until you've got your form 100% down
 
 - Do not injure your back doing these, be extremely careful and if you have any doubts ask a gym employee for assistance
@@ -33,6 +43,12 @@ TBar Rows:
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
 Flat DB Press Superset DB Burners:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5b623dce-681b-4066-ba18-b7e0be72c57b" type="video/mp4">
+  </video>
+</figure>
 
 - Position your arms as close as you can to mine in the video - don't flair your elbows out and don't have them touching your obliques either - go in the middle
 
@@ -46,6 +62,12 @@ Flat DB Press Superset DB Burners:
 
 Row Machine:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/be8a1dab-35ec-4dae-ba87-641fd450c4de" type="video/mp4">
+  </video>
+</figure>
+
 - Essential upper back exercise to give yourself that swole look
 
 - Strict form as always, make sure to pull all the way back, PAUSE, then slowly release back to an extended arm position
@@ -55,6 +77,12 @@ Row Machine:
 - I'm currently on roughly 50kg for 10 reps\
 
 Pull ups - last with final set being to failure:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
+  </video>
+</figure>
 
 - x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
 
@@ -66,6 +94,12 @@ Pull ups - last with final set being to failure:
 
 Bench:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
+  </video>
+</figure>
+
 - Go FKN HEAVYYYYYYY!!! I want you doing MAX 6 reps - so find a weight where you can barely do 5 reps then push for that 6th - use a spot if you need! 
   
 - Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion
@@ -76,7 +110,11 @@ Bench:
 
 Cables (up & down) to finish:
 
-(Upward)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c0210bf8-9ee6-4800-b910-5776277e9497" type="video/mp4">
+  </video>
+</figure>
 
 - You MUST do the 15 push-ups in between sets today. So I want every set of cables superset with push ups for x4 total sets
 
@@ -90,7 +128,12 @@ Cables (up & down) to finish:
 
 - I do 12.5kg in downward flys for 10 reps 
 
-(Downward)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/da2a3c73-eb8f-4ac2-ab6d-24fca3e48929" type="video/mp4">
+  </video>
+</figure>
+
 - As above, position yourself in the centre of the machine but this time don't step forward
 
 - Legs shoulder width apart, arms similar angle to above

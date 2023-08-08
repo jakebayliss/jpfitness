@@ -2,11 +2,18 @@
 title: "Legs"
 order: 1
 week: 4
+nextPage: 'week4-shoulders'
+previousPage: 'week4-chest-and-back'
 ---
 
 Lunges (SS Free-weight squads):
 
-(Lunges)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/9a93de59-479a-42ad-8fb7-32b2cbfcda1b">
+  </video>
+</figure>
+
 - Warm-up set with body weight then straight into it
 
 - Don't over-stride - keep stride length reasonable so you're not over extending, losing balance
@@ -17,7 +24,12 @@ Lunges (SS Free-weight squads):
 
 - I like to do ~14kg each arm, 10 reps each leg
 
-(Free-weight squats)
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/06cfac63-a57e-4ed6-8c0f-6798c54da65a" type="video/mp4">
+  </video>
+</figure> 
+
 - Feet shoulder width apart, bend your hips and knees simultaneously
 
 - Lean back into the squat - hinging at the hips, keep your back neutral and core engaged
@@ -25,6 +37,12 @@ Lunges (SS Free-weight squads):
 - I do bodyweight sets here as my lower back is injured!
 
 Lateral Lunges:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/68bcf02b-c4da-4123-bd3d-daf340156726" type="video/mp4">
+  </video>
+</figure>
 
 - FORM FORM FORM
 
@@ -44,6 +62,12 @@ Lateral Lunges:
 
 Leg Press Superset Calf Raises:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/22f8f9ed-ecfd-45f9-955c-30b4ba0874ea" type="video/mp4">
+  </video>
+</figure>
+
 - Back rest position is once again key - I like to have it configured so, when resting on the press, my legs are slightly bent (as in the video)
 
 - This enables me to comfortably push off the safety holders and gives a nice smooth full range of motion during the set
@@ -57,6 +81,12 @@ Leg Press Superset Calf Raises:
 - I typically leg press x3 20kg plates either side and calf raise the same!
 
 Straight Leg Deadlift:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/d315dd30-d36f-4f52-9c42-0ac5ec7c9a89" type="video/mp4">
+  </video>
+</figure>
 
 - Potentially the most important exercise to get your form correct
 
@@ -75,6 +105,12 @@ Straight Leg Deadlift:
 - I rep around the 10kg mark for these with great caution to not do my back in again!
 
 Leg extension drop-set to finish:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/86cd70ba-cbe5-4af5-9818-811c6e45e7ab" type="video/mp4">
+  </video>
+</figure>
 
 - Similarly to the above leg extensions you want to position the machine so your knees are pivoting nicely off the bench
 

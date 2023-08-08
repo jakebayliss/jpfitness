@@ -2,8 +2,16 @@
 title: "Shoulders"
 order: 1
 week: 2
+nextPage: 'week2-cardio'
+previousPage: 'week2-legs'
 ---
 DB Press:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/083836a9-4110-43a9-bda0-ca5a93ae5229" type="video/mp4">
+  </video>
+</figure>
 
 - My personal preference is the seated part of the bench slightly inclined and the back of the bench not directly upright but also slightly inclined
 
@@ -16,6 +24,12 @@ DB Press:
 - I currently rep 30kg for 6 reps, 4 sets. Working on getting up to 10 reps before increasing weight!
 
 Cable Lateral Raises:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/af0aad18-47ee-4764-9519-ac7e84c397e1" type="video/mp4">
+  </video>
+</figure>
 
 - Set the cable machine at the lowest position
 
@@ -31,6 +45,12 @@ Cable Lateral Raises:
 
 Front & side head superset:
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/245d6990-2b83-4610-bf6f-a7307cf5fbad" type="video/mp4">
+  </video>
+</figure>
+
 - My favourite superset of shoulder day
 
 - Lateral raises: Pull up with your elbows, lock your arm angle as shown in the tutorial video, bring the dumbbells up to shoulder height but don't overextend
@@ -42,6 +62,12 @@ Front & side head superset:
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
 
 Face-Pulls:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5e581e2d-c989-441f-97ea-1c87537e04d8" type="video/mp4">
+  </video>
+</figure>
 
 - Amazing rear-delt exercise
 
@@ -58,6 +84,12 @@ Face-Pulls:
 - [WEIGHT REQUIRED]
 
 Smith Machine Press:
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/4a4ced9f-d379-49dd-893e-0c0d305c8ea7" type="video/mp4">
+  </video>
+</figure>
 
 - Bench positioning is key - have it in the center of the bar, completely upright with enough room so the bar touches your upper chest on the way down
 
