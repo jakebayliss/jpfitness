@@ -1,4 +1,4 @@
-  ---
+---
 title: "Chest & Back"
 order: 1
 week: 5
