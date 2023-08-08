@@ -9,7 +9,9 @@ The dreaded leg day has come round. As with Day 1, start by watching and listeni
 
 For many years after my lower back injury (which happened while squatting) my legs seriously lacked size, and I lacked motivation to train them. Firstly, I was scared my back would give way again, and I was reluctant to train them without including squats. However, they're now a part of my weekly routine and I'm learning to love training them once more. For those of you that would like to squat during my program I've included a section to next week (replacing your lunges next week with squats).
 
-Lunges (SS Free-weight squads):
+<details>
+<summary><b>Lunges SS Free-weight Squats</b></summary
+
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/9a93de59-479a-42ad-8fb7-32b2cbfcda1b">
@@ -38,7 +40,10 @@ Lunges (SS Free-weight squads):
 
 - I do bodyweight sets here as my lower back is injured!
 
-Leg Extensions:
+</details>
+
+<details>
+<summary><b>Leg Extensions:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -56,7 +61,10 @@ Leg Extensions:
 
 - I do 3, 20kg plates, 10 reps for 4 sets
 
-Leg Press Superset Calf Raises:
+</details>
+
+<details>
+<summary><b>Leg Press SS Calf Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -76,7 +84,10 @@ Leg Press Superset Calf Raises:
 
 - I typically leg press x3 20kg plates either side and calf raise the same!
 
-Hamstring machine:
+</details>
+
+<details>
+<summary><b>Hamstring Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -92,7 +103,10 @@ Hamstring machine:
 
 - I am currently repping around 40kg for 10 reps
 
-Leg extension drop-set to finish:
+</details>
+
+<details>
+<summary><b>Leg Extension Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -105,3 +119,5 @@ Leg extension drop-set to finish:
 - Machine required for these as it's much faster - x2 normal sets then x1 drop set: Start at your working weight for 6 reps, drop 2 pegs for 8 reps, 2 more pegs for 10 reps and finally 2 more pegs til failure
 
 - I'm currently doing 65kg to start with then dropping in increments of 8kg each time I drop set
+
+</details>

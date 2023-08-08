@@ -9,7 +9,8 @@ Shoulder day is hereeeee - because it's one of my favourite days I typically thr
 
 Shoulders have probably been my weakest (looks & strength wise) muscle group for my whole gym career, particularly at the start. Due to this, I would hit them x2 a week in the early stages of my gym career to catch them up with the rest of my body. During this process they quickly became one of my favourite body parts to train. This paid off tremendously when I picked up surfing as shoulder strength (and back) are key to paddling technique! They're also one of the main features visible in t-shirts so they're key to having a great physique.
 
-DB Press:
+<details>
+<summary><b>DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -29,7 +30,10 @@ DB Press:
 
 - I currently rep 30kg for 6 reps, 4 sets. Working on getting up to 10 reps before increasing weight!
 
-Arnie press:
+</details>
+
+<details>
+<summary><b>Arnie Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -49,7 +53,10 @@ Arnie press:
 
 - I rep 16kg dumbbells for these, 8-10 reps
 
-Front & side head superset:
+</details>
+
+<details>
+<summary><b>Front & Side Head SS:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -67,7 +74,10 @@ Front & side head superset:
 
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
 
-Standing press:
+</details
+
+<details>
+<summary><b>Standing Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -87,7 +97,10 @@ Standing press:
 
 - I do these with 7.5kg on either side of the bar but it's taken me a long time to get up to this weight
 
-Shoulder machine (drop-set):
+</details>
+
+<details>
+<summary><b>Shoulder Machine (DropSet):</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -100,3 +113,5 @@ Shoulder machine (drop-set):
 - Same rules as before apply for drop sets - start at your working weight for 8 reps, move up 2 pegs and do 10 reps, move up another 2 and do 12 etc
 
 - I rep ~45kg for my working weight then drop set from there!
+
+</details>

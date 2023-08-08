@@ -10,8 +10,8 @@ Day two!!!!! You got this babyy. As with Day 1, start by watching and listening 
 
 I'm using this program to fill out my Chest & Back. I love the look of a full chest and a naturally great back that looks good when you're walking around shirtless without tensing - so that's what this day is designed to achieve. Again, I like to keep the workouts high intensity - so short and sweet (warning, our pump today is gunna be outrageously good). As previously mentioned, I'd love to be deadlifting today but unfortunately can't - feel free to sub one back exercise out for deads if you love them!
 
-Incline DB Press: 
-
+<details>
+<summary><b>Incline DB Press:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -31,7 +31,10 @@ Incline DB Press:
 
 - I'm currently on 40kg dumbbells for incline press, 6 reps, working my way up to 8 reps gradually!
 
-Incline Flys:
+</details>
+
+<details>
+<summary><b>Incline flys:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -47,7 +50,10 @@ Incline Flys:
 
 - I'm on 14kg dumbbells for incline flys
 
-T-Bar Rows:
+</details>
+
+<details>
+<summary><b>T-bar Rows:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -63,7 +69,10 @@ T-Bar Rows:
 
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
-Cables (Up & Down):
+</details>
+
+<details>
+<summary><b>Cables up & down:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -83,6 +92,8 @@ Cables (Up & Down):
 
 - I do 12.5kg in downward flys for 10 reps
 
+</details>
+
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/da2a3c73-eb8f-4ac2-ab6d-24fca3e48929" type="video/mp4">
@@ -99,7 +110,8 @@ Cables (Up & Down):
 
 - I do 10.5kg for 8 reps in this direction
 
-Lat Pulldowns:
+<details>
+<summary><b>Lat Pulldowns:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -115,7 +127,10 @@ Lat Pulldowns:
 
 - I like to use the lat pulldown machine at around 65kg currently for 8 reps, working my way up to controlled bodyweight pulldowns
 
-Bench:
+</details>
+
+<details>
+<summary><b>Bench:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -131,7 +146,10 @@ Bench:
 
 - Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
-Pull-Ups (Final set to failure!!):
+</details>
+
+<details>
+<summary><b>Pull-ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -139,10 +157,14 @@ Pull-Ups (Final set to failure!!):
   </video>
 </figure>
 
-- Final exercise!!! x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
+- Final exercise!!! x4 sets of pull ups (preferrably non-assisted) but if you require assistance then that's perfectly fine too!
+
+- x3 working sets, x1 set til failure!
 
 - If you can only do a handful of reps that's totally fine too, keep at it and gradually build yourself up to 8-12 reps
 
 - Here I'm looking to pull up with the lats and back - not with your arms, get your head as high as possible and hold at the top
 
 - As many bodyweight reps as you can for 3 sets!
+
+</details>

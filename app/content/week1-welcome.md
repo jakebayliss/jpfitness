@@ -14,7 +14,8 @@ Now, compared to other training programs you'll notice some things a bit differe
 
 Comprehensive exercise guidance is provided in the Tutorial Video for each workout, additional description is provided in the side bar next to the video.
 
-Diet:
+<details>
+<summary><b>Diet:</b></summary
 
 - You'll notice I don't have any dietary advice in this workout program
 
@@ -32,13 +33,17 @@ Diet:
 
 - As mentioned consult a professional first but I'm always an email[INSTA DM] away if you'd like a general chat about such things!
 
-Weight Recommendations:
+</details>
+
+<details>
+<summary><b>Weight Recommendations:</b></summary
 
 - The framework I've found best over the years is starting with a weight you can barely hit 8 reps with, then stay on that weight til you're COMFORTABLY getting 10 reps, then increase weight so you barely hit 8 reps again, stay on them til you hit 10 and repeat repeat repeat!
 
 - This framework is to be applied only once you've got your form near-perfect in every exercise. Don't hurt yourself with poor form - it will completely hinder your workout career
 
-Terminology:
+<details>
+<summary><b>Terminology:</b></summary
 
 - Rep: Repitition, means one single up/down/forward/back movement (1 bicep curl is 1 rep)
 
@@ -52,7 +57,10 @@ Terminology:
 
 - Negatives: The part of each movement where you're not applying force/working - so for a bicep curl the negative is the way back down, from the top, to your starting position
 
-Tips:
+</details>
+
+<details>
+<summary><b>Tips:</b></summary
 
 - WARM UP: Warm-up tutorial videos are given below. Follow the corresponding video depending on which body area you're focussing on
 
@@ -84,17 +92,25 @@ Finally, if you need help understanding anything, want my assistance or personal
 
 Ok - now the boring stuff's out of the way - let's gym!!
 
+</details>
 
-# Warm-Ups
- Warming up is one of the most important parts of working out. It prevents injury and ensures you will be able to work out for many years to come.
 
-With upper body, I find the most crucial warm up to be your rotator cuff exercises.
+<details>
+<summary><b>Warm-Up videos:</b></summary
 
-Your rotator cuff is a group of muslces and tendons in your shoulders that allow your shoulders to rotate.
+- [TO BE PUT IN ITS OWN SECTION]
 
-It is fundamental for nearly all upper body exercises - healthy shoulders are so important for a long and prosperous gym career
+- Warming up is one of the most important parts of working out. It prevents injury and ensures you will be able to work out for many years to come.
 
-Stretching is a requirement regardless of the day you're doing - obviously you'll be stretching different muscles for different days at the gym.
+- With upper body, I find the most crucial warm up to be your rotator cuff exercises.
+
+- Your rotator cuff is a group of muslces and tendons in your shoulders that allow your shoulders to rotate.
+
+- It is fundamental for nearly all upper body exercises - healthy shoulders are so important for a long and prosperous gym career
+
+- Stretching is a requirement regardless of the day you're doing - obviously you'll be stretching different muscles for different days at the gym.
 
 Please follow the tutorial videos given below:
+
+</details>
 
