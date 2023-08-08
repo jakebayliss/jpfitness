@@ -9,7 +9,7 @@ previousPage: 'week4-chest-and-back'
 Lunges (SS Free-weight squads):
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/9a93de59-479a-42ad-8fb7-32b2cbfcda1b">
   </video>
 </figure>
@@ -25,7 +25,7 @@ Lunges (SS Free-weight squads):
 - I like to do ~14kg each arm, 10 reps each leg
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/06cfac63-a57e-4ed6-8c0f-6798c54da65a" type="video/mp4">
   </video>
 </figure> 
@@ -39,7 +39,7 @@ Lunges (SS Free-weight squads):
 Lateral Lunges:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/68bcf02b-c4da-4123-bd3d-daf340156726" type="video/mp4">
   </video>
 </figure>
@@ -63,7 +63,7 @@ Lateral Lunges:
 Leg Press Superset Calf Raises:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/22f8f9ed-ecfd-45f9-955c-30b4ba0874ea" type="video/mp4">
   </video>
 </figure>
@@ -83,7 +83,7 @@ Leg Press Superset Calf Raises:
 Straight Leg Deadlift:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/d315dd30-d36f-4f52-9c42-0ac5ec7c9a89" type="video/mp4">
   </video>
 </figure>
@@ -107,7 +107,7 @@ Straight Leg Deadlift:
 Leg extension drop-set to finish:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/86cd70ba-cbe5-4af5-9818-811c6e45e7ab" type="video/mp4">
   </video>
 </figure>

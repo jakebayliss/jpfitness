@@ -8,7 +8,7 @@ previousPage: 'week3-legs'
 Standing press:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/705dddbb-d186-4f2d-a628-4e337f90a28e" type="video/mp4">
   </video>
 </figure>
@@ -30,7 +30,7 @@ Standing press:
 Front & side head superset:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/245d6990-2b83-4610-bf6f-a7307cf5fbad" type="video/mp4">
   </video>
 </figure>
@@ -48,7 +48,7 @@ Front & side head superset:
 DB Press:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/083836a9-4110-43a9-bda0-ca5a93ae5229" type="video/mp4">
   </video>
 </figure>
@@ -66,7 +66,7 @@ DB Press:
 Shoulder machine (drop-set):
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/36fedfdc-0821-4c98-96a0-032d704f9ff1" type="video/mp4">
   </video>
 </figure>
@@ -92,7 +92,7 @@ Shoulders have probably been my weakest (looks & strength wise) muscle group for
 DB Press:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/083836a9-4110-43a9-bda0-ca5a93ae5229" type="video/mp4">
   </video>
 </figure>
@@ -112,7 +112,7 @@ DB Press:
 Arnie press:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b6d900d6-7865-4edc-8875-7aecc9e09653" type="video/mp4">
   </video>
 </figure>

@@ -9,7 +9,7 @@ previousPage: 'week6-arms'
 Incline DB Press:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/bd252ef6-432b-4262-94e4-1abf2ad90b36" type="video/mp4">
   </video>
 </figure>
@@ -29,7 +29,7 @@ Incline DB Press:
 TBar Rows: 
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/020282fd-4df4-43b4-9f2c-453d9984807c" type="video/mp4">
   </video>
 </figure>
@@ -45,7 +45,7 @@ TBar Rows:
 Flat DB Press Superset DB Burners:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5b623dce-681b-4066-ba18-b7e0be72c57b" type="video/mp4">
   </video>
 </figure>
@@ -63,7 +63,7 @@ Flat DB Press Superset DB Burners:
 Cables (up & down)
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c0210bf8-9ee6-4800-b910-5776277e9497" type="video/mp4">
   </video>
 </figure>
@@ -81,7 +81,7 @@ Cables (up & down)
 - I do 12.5kg in downward flys for 10 reps 
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/da2a3c73-eb8f-4ac2-ab6d-24fca3e48929" type="video/mp4">
   </video>
 </figure>
@@ -99,7 +99,7 @@ Cables (up & down)
 Row Machine:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/be8a1dab-35ec-4dae-ba87-641fd450c4de" type="video/mp4">
   </video>
 </figure>
@@ -115,7 +115,7 @@ Row Machine:
 Pull ups - last with final set being to failure:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
   </video>
 </figure>
@@ -131,7 +131,7 @@ Pull ups - last with final set being to failure:
 Bench:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
   </video>
 </figure>

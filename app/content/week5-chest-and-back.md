@@ -9,7 +9,7 @@ previousPage: 'week5-arms'
 Incline DB Press: 
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/bd252ef6-432b-4262-94e4-1abf2ad90b36" type="video/mp4">
   </video>
 </figure>
@@ -31,7 +31,7 @@ Incline DB Press:
 Incline Flys:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/2f427229-a846-4885-a1c9-8bc46e6d4deb" type="video/mp4">
   </video>
 </figure>
@@ -47,7 +47,7 @@ Incline Flys:
 T-Bar Rows:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/020282fd-4df4-43b4-9f2c-453d9984807c" type="video/mp4">
   </video>
 </figure>
@@ -63,7 +63,7 @@ T-Bar Rows:
 Cables (Up & Down):
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c0210bf8-9ee6-4800-b910-5776277e9497" type="video/mp4">
   </video>
 </figure>
@@ -82,7 +82,7 @@ Cables (Up & Down):
 - I do 12.5kg in downward flys for 10 reps 
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/da2a3c73-eb8f-4ac2-ab6d-24fca3e48929" type="video/mp4">
   </video>
 </figure>
@@ -101,7 +101,7 @@ Cables (Up & Down):
 Lat Pulldowns:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5e8962cd-27c9-42cf-8343-fa18049ad5be" type="video/mp4">
   </video>
 </figure>
@@ -117,7 +117,7 @@ Lat Pulldowns:
 Bench:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
   </video>
 </figure>
@@ -133,7 +133,7 @@ Bench:
 Pull-Ups (Final set to failure!!):
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
   </video>
 </figure>

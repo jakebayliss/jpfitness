@@ -8,7 +8,7 @@ previousPage: 'week4-legs'
 DB Press:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/083836a9-4110-43a9-bda0-ca5a93ae5229" type="video/mp4">
   </video>
 </figure>
@@ -26,7 +26,7 @@ DB Press:
 Front & side head superset:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/245d6990-2b83-4610-bf6f-a7307cf5fbad" type="video/mp4">
   </video>
 </figure>
@@ -44,7 +44,7 @@ Front & side head superset:
 Face-Pulls:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5e581e2d-c989-441f-97ea-1c87537e04d8" type="video/mp4">
   </video>
 </figure>
@@ -66,7 +66,7 @@ Face-Pulls:
 Cable Lateral Raises:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/af0aad18-47ee-4764-9519-ac7e84c397e1" type="video/mp4">
   </video>
 </figure>
@@ -87,7 +87,7 @@ Cable Lateral Raises:
 Smith Machine Press:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/4a4ced9f-d379-49dd-893e-0c0d305c8ea7" type="video/mp4">
   </video>
 </figure>

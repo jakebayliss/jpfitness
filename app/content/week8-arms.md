@@ -9,7 +9,7 @@ previousPage: 'week8-welcome'
 Dips Superset hammer curls:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/10a502b9-b9cd-43ef-91d0-e2ea20f2a932" type="video/mp4">
   </video>
 </figure>
@@ -29,7 +29,7 @@ Dips Superset hammer curls:
 - I do 8-12 reps of body weight dips
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/f4240a54-b95c-4551-b21d-2c54e3c8a9f5" type="video/mp4">
   </video>
 </figure>
@@ -49,7 +49,7 @@ Dips Superset hammer curls:
 V-Bar pulldowns superset Close Grip curls:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0a3e98b4-3e70-46c1-97f7-55d156d47b04" type="video/mp4">
   </video>
 </figure>
@@ -65,7 +65,7 @@ V-Bar pulldowns superset Close Grip curls:
 [WEIGHT]
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
   </video>
 </figure>
@@ -85,13 +85,13 @@ V-Bar pulldowns superset Close Grip curls:
 21s Superset:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b73a0568-9b4d-42b3-9da4-47bc65a17839" type="video/mp4">
   </video>
 </figure>
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3d8f5a93-f287-4afe-bcab-344261bbe277" type="video/mp4">
   </video>
 </figure>
@@ -113,7 +113,7 @@ V-Bar pulldowns superset Close Grip curls:
 Single Arm Cable Pulldowns superset Seated Single Arm Curls:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/6d885fd2-8947-477a-a9b5-6361f29f0760" type="video/mp4">
   </video>
 </figure>
@@ -130,7 +130,7 @@ Single Arm Cable Pulldowns superset Seated Single Arm Curls:
 [WEIGHT]
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/900ed14c-567e-4fc8-ae96-d162e8d0f517" type="video/mp4">
   </video>
 </figure>
@@ -151,7 +151,7 @@ Single Arm Cable Pulldowns superset Seated Single Arm Curls:
 Close-grip pull-ups til failure:
 
 <figure class="video_container">
-  <video controls="true">
+  <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b21211bc-4dbc-489d-91e2-7d1f18c017e0" type="video/mp4">
   </video>
 </figure>
