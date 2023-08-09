@@ -6,7 +6,8 @@ nextPage: 'week7-welcome'
 previousPage: 'week6-shoulders'
 ---
 
-Week 6: HIIT Workout
+<details>
+<summary><b>Week 6: HIIT Workout</b></summary
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 
@@ -52,8 +53,10 @@ Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
 
+</details>
 
-Alternatives:
+<details>
+<summary><b>Alternatives:</b></summary
 
 Swim:
 
@@ -177,3 +180,5 @@ Cooldown:
 - Static stretching for major muscle groups (quads, hamstrings, calves, etc.) for 5-7 minutes.
 
 - Aim for a total workout time of 30-45 mins
+
+</details>

@@ -6,7 +6,8 @@ nextPage: 'week8-cardio'
 previousPage: 'week8-legs'
 ---
 
-Smith Machine Press:
+<details>
+<summary><b>Smith Machine Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -28,7 +29,10 @@ Smith Machine Press:
 
 - I usually do 10-15kg either side, so today I'm doing 20kg! 
 
-Front & side head superset:
+</details>
+
+<details>
+<summary><b>Front & Side Head SS:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -46,7 +50,10 @@ Front & side head superset:
 
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
 
-Face-Pulls:
+</details>
+
+<details>
+<summary><b>Face-Pulls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -68,7 +75,10 @@ Face-Pulls:
 
 - [WEIGHT REQUIRED]
 
-Cable Lateral Raises:
+</details>
+
+<details>
+<summary><b>Cable Lateral Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -88,8 +98,10 @@ Cable Lateral Raises:
 
 - I rep ~peg 3 on the cable machine, so approximately 10kg at my gym
 
+</details>
 
-DB Press:
+<details>
+<summary><b>DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -108,4 +120,6 @@ DB Press:
 - Slow, controlled movements, not letting the dumbbells come below my shoulder line
 
 - I currently rep 30kg for 6 reps, 4 sets so today will be doing 32kg for 4 sets! It'll be fkn hard but so worth it
+
+</details>
 

@@ -5,7 +5,9 @@ week: 5
 nextPage: 'week6-welcome'
 previousPage: 'week5-shoulders'
 ---
-Week 5 - Swim:
+
+<details>
+<summary><b>Week 5: Swim</b></summary
 
 As you can see in the title this week we're back around to our swim. As always, there are alternatives below if you don't have access to a pool/don't want to swim!
 
@@ -104,7 +106,11 @@ Speed and Endurance Set (3 sets of slow up, fast back):
 Cool down:
 
 - Swim 6 lengths at a relaxed pace to finish
-Alternatives:
+
+</details>
+
+<details>
+<summary><b>Alternatives:</b></summary
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 
@@ -185,3 +191,5 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
+
+</details>

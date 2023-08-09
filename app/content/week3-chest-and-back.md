@@ -5,7 +5,11 @@ week: 3
 nextPage: 'week3-legs'
 previousPage: 'week3-arms'
 ---
-Bench:
+
+
+<details>
+<summary><b>Bench:</b></summary
+
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
@@ -22,7 +26,10 @@ Bench:
 
 - Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
-Incline DB Press: 
+</details>
+
+<details>
+<summary><b>Incline DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -42,7 +49,10 @@ Incline DB Press:
 
 - I'm currently on 40kg dumbbells for incline press, 6 reps, working my way up to 8 reps gradually!
 
-T-Bar Rows:
+</details>
+
+<details>
+<summary><b>T-Bar Rows:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -58,7 +68,11 @@ T-Bar Rows:
 
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
-Incline Flys:
+</details>
+
+
+<details>
+<summary><b>Incline Flys:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -74,7 +88,10 @@ Incline Flys:
 
 - I'm on 14kg dumbbells for incline flys
 
-Lat Pulldowns:
+</details>
+
+<details>
+<summary><b>Lat Pulldowns:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -90,7 +107,11 @@ Lat Pulldowns:
 
 - I like to use the lat pulldown machine at around 65kg currently for 8 reps, working my way up to controlled bodyweight pulldowns
 
-Cables (Up & Down):
+</details>
+
+<details>
+<summary><b>Cables (Up & Down):</b></summary
+
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c0210bf8-9ee6-4800-b910-5776277e9497" type="video/mp4">
@@ -125,7 +146,12 @@ Cables (Up & Down):
 
 - I do 10.5kg for 8 reps in this direction
 
-Pull-Ups (Final set to failure!!):
+</details>
+
+
+<details>
+<summary><b>Pull-Ups:</b></summary
+
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
@@ -139,3 +165,5 @@ Pull-Ups (Final set to failure!!):
 - Here I'm looking to pull up with the lats and back - not with your arms, get your head as high as possible and hold at the top
 
 - As many bodyweight reps as you can for 3 sets!
+
+</details>

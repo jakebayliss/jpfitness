@@ -9,7 +9,9 @@ On Cardio day I'm going to make suggestions based on what I do but I completely 
 
 Week 3's Day 5 is centred around Pilates! It has countless benefits and you leave each session feeling absolutely amazing. The lady I use (who I've linked below) has endless workouts to choose from each targeting a specific body part (some whole body workouts are great too). Enjoy!
 
-Week 3: Online Pilates Class
+
+<details>
+<summary><b>Week 3: Online Pilates Class</b></summary
 
 - I recommend Move With Nicole on Youtube: https://www.youtube.com/@MoveWithNicole
 
@@ -23,7 +25,11 @@ Week 3: Online Pilates Class
 
 - Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me!
 
-Alternatives: 
+</details>
+
+
+<details>
+<summary><b>Alternatives:</b></summary
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 
@@ -187,3 +193,4 @@ Cooldown:
 
 - Aim for a total workout time of 30-45 mins
 
+</details>

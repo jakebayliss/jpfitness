@@ -51,7 +51,7 @@ Comprehensive exercise guidance is provided in the Tutorial Video for each worko
 
 - Failure: Keep going until you can't do another rep - push your muscles to the point of failure
 
-- Superset: Means combining multiple exercises into one set - you finish 8 reps of one exercise then immediately start the next, only once you've finished all exercises do you get a rest. For example, a "21s superset" would include bicep curls, tricep extensions and close grip bench so 3 exercises in total
+- Superset or SS: Means combining multiple exercises into one set - you finish 8 reps of one exercise then immediately start the next, only once you've finished all exercises do you get a rest. For example, a "21s superset" would include bicep curls, tricep extensions and close grip bench so 3 exercises in total
 
 - Drop-set: Start at your normal weight and do 8 reps, then lower the weight (if on a pulley system, drop the weight by 2 pegs) and do 10 reps, drop another 2 pegs and do 12 reps, drop another 2 and go to failure!
 

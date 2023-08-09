@@ -5,7 +5,9 @@ week: 3
 nextPage: 'week3-cardio'
 previousPage: 'week3-legs'
 ---
-Standing press:
+
+<details>
+<summary><b>Standing Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -27,7 +29,10 @@ Standing press:
 
 - I do these with 7.5kg on either side of the bar but it's taken me a long time to get up to this weight
 
-Front & side head superset:
+</details>
+
+<details>
+<summary><b>Front & Side Head SS:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -45,7 +50,10 @@ Front & side head superset:
 
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
 
-DB Press:
+</details>
+
+<details>
+<summary><b>DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -63,7 +71,10 @@ DB Press:
 
 - I currently rep 30kg for 6 reps, 4 sets. Working on getting up to 10 reps before increasing weight!
 
-Shoulder machine (drop-set):
+</details>
+
+<details>
+<summary><b>Shoulder Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -77,39 +88,10 @@ Shoulder machine (drop-set):
 
 - I rep ~45kg for my working weight then drop set from there!
 
-Arnie press:
----
-title: "Shoulders"
-pageNumber: 6
-week: 1
-nextPage: 'week1-cardio'
-previousPage: 'week1-legs'
----
-Shoulder day is hereeeee - because it's one of my favourite days I typically throw it in after legs as motivation to get through leg day hahah. As with all other days start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously.
+</details>
 
-Shoulders have probably been my weakest (looks & strength wise) muscle group for my whole gym career, particularly at the start. Due to this, I would hit them x2 a week in the early stages of my gym career to catch them up with the rest of my body. During this process they quickly became one of my favourite body parts to train. This paid off tremendously when I picked up surfing as shoulder strength (and back) are key to paddling technique! They're also one of the main features visible in t-shirts so they're key to having a great physique.
-
-DB Press:
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/083836a9-4110-43a9-bda0-ca5a93ae5229" type="video/mp4">
-  </video>
-</figure>
-
-- [WARM UP]
-
-- My personal preference is the seated part of the bench slightly inclined and the back of the bench not directly upright but also slightly inclined
-
-- This makes my movements feel a lot less restricted and puts less direct pressure on my joints
-
-- I'm also pushing forward fairly strongly with both legs for maximum stability
-
-- Slow, controlled movements, not letting the dumbbells come below my shoulder line
-
-- I currently rep 30kg for 6 reps, 4 sets. Working on getting up to 10 reps before increasing weight!
-
-Arnie press:
+<details>
+<summary><b>Arnie Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -128,3 +110,5 @@ Arnie press:
 - Smooth controlled transitional movement from your standard shoulder press down into the rotational component
 
 - I rep 16kg dumbbells for these, 8-10 reps
+
+</details>

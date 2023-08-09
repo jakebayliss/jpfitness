@@ -5,7 +5,8 @@ nextPage: 'week7-cardio'
 previousPage: 'week7-legs'
 ---
 
-DB Press:
+<details>
+<summary><b>DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -25,7 +26,10 @@ DB Press:
 
 - I currently rep 30kg for 6 reps, 4 sets. Working on getting up to 10 reps before increasing weight!
 
-Arnie press:
+</details>
+
+<details>
+<summary><b>Arnie Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -45,7 +49,10 @@ Arnie press:
 
 - I rep 16kg dumbbells for these, 8-10 reps
 
-Standing press:
+</details>
+
+<details>
+<summary><b>Standing Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -65,7 +72,10 @@ Standing press:
 
 - I do these with 7.5kg on either side of the bar but it's taken me a long time to get up to this weight
 
-Shoulder machine (drop-set):
+</details>
+
+<details>
+<summary><b>Shoulder Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -79,8 +89,10 @@ Shoulder machine (drop-set):
 
 - I rep ~45kg for my working weight then drop set from there!
 
+</details>
 
-Front & side head superset:
+<details>
+<summary><b>Front & Side Head SS:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -97,4 +109,6 @@ Front & side head superset:
 - Front raises: Slow and controlled movement, arms slightly angled, bring plate to at least head height if not higher - don't sway your movements, pull with your front delts
 
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
+
+</details>
 

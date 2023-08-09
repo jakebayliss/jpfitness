@@ -5,7 +5,10 @@ week: 7
 nextPage: 'week7-shoulders'
 previousPage: 'week7-chest-and-back'
 ---
-Lunges (SS Free-weight squads):
+
+<details>
+<summary><b>Lunges SS Free-weight Squats:</b></summary
+
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/9a93de59-479a-42ad-8fb7-32b2cbfcda1b">
@@ -36,7 +39,10 @@ Lunges (SS Free-weight squads):
 
 - I do bodyweight sets here as my lower back is injured!
 
-Hamstring machine:
+</details>
+
+<details>
+<summary><b>Hamstring Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -52,14 +58,16 @@ Hamstring machine:
 
 - I am currently repping around 40kg for 10 reps
 
-Leg Extensions:
+</details>
+
+<details>
+<summary><b>Leg Extensions:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/fa027411-fb21-4b6a-bb70-a1e65240fe92" type="video/mp4">
   </video>
 </figure>
-
 
 - If you have a manual machine (as in the video) for these you're winning at life, the one at my gym is life changing - makes me want to do 10 sets
 
@@ -71,7 +79,10 @@ Leg Extensions:
 
 - I do 3, 20kg plates, 10 reps for 4 sets
 
-Leg Press Superset Calf Raises:
+</details>
+
+<details>
+<summary><b>Leg Press SS Calf Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -91,7 +102,10 @@ Leg Press Superset Calf Raises:
 
 - I typically leg press x3 20kg plates either side and calf raise the same!
 
-Leg extension drop-set to finish:
+</details>
+
+<details>
+<summary><b>Leg Extension Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -104,3 +118,5 @@ Leg extension drop-set to finish:
 - Machine required for these as it's much faster - x2 normal sets then x1 drop set: Start at your working weight for 6 reps, drop 2 pegs for 8 reps, 2 more pegs for 10 reps and finally 2 more pegs til failure
 
 - I'm currently doing 65kg to start with then dropping in increments of 8kg each time I drop set
+
+</details>

@@ -6,7 +6,8 @@ nextPage: 'week4-chest-and-back'
 previousPage: 'week4-welcome'
 --- 
 
-21s Superset:
+<details>
+<summary><b>21s Superset:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -36,7 +37,10 @@ previousPage: 'week4-welcome'
 
 - I rep 25kg, 21 reps bicep curls, 8-10 reps overhead extensions and failure for close grip bench
 
-V-Bar pulldowns superset Close Grip curls:
+</details>
+
+<details>
+<summary><b>V-Bar Pulldowns SS CG Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -70,7 +74,10 @@ V-Bar pulldowns superset Close Grip curls:
 
 - As above, they're amazing to drop-set!
 
-Dips Superset hammer curls:
+</details>
+
+<details>
+<summary><b>Dips SS Hammers:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -110,7 +117,10 @@ Dips Superset hammer curls:
 
 [WEIGHT]
 
-Single Arm Cable Pulldowns superset Seated Single Arm Curls:
+</details>
+
+<details>
+<summary><b>Single-Arm Pulldowns SS Seated Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -133,6 +143,7 @@ Single Arm Cable Pulldowns superset Seated Single Arm Curls:
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/900ed14c-567e-4fc8-ae96-d162e8d0f517" type="video/mp4">
   </video>
 </figure>
+
 - Try perform these isolated curls on a bench right near your cable extensions
 
 - Lock your elbow firmly into your leg and curl normally
@@ -145,7 +156,10 @@ Single Arm Cable Pulldowns superset Seated Single Arm Curls:
 
 - I typically rep 8-10kg and do 4 sets of the Superset
 
-Close-grip pull-ups til failure:
+</details>
+
+<details>
+<summary><b>CG Pull-ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -162,3 +176,5 @@ Close-grip pull-ups til failure:
 - Go for failure every set, it doesn’t matter if this is 3, 6 or 20 reps - burn yourself out we're at the end of an amazing arms day here
 
 - Weight - N/A, each set til FAILURE BABY
+
+</details>

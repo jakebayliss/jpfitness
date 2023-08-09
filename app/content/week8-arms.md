@@ -6,7 +6,8 @@ nextPage: 'week8-chest-and-back'
 previousPage: 'week8-welcome'
 --- 
 
-Dips Superset hammer curls:
+<details>
+<summary><b>Dips SS Hammers:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -46,7 +47,11 @@ Dips Superset hammer curls:
 
 - Currently on 16kg for 8 reps each arm
 
-V-Bar pulldowns superset Close Grip curls:
+</details>
+
+<details>
+<summary><b>V-Bar Pulldowns SS CG Curls:</b></summary
+
 
 <figure class="video_container">
   <video controls={true}>
@@ -82,7 +87,10 @@ V-Bar pulldowns superset Close Grip curls:
 
 [WEIGHT]
 
-21s Superset:
+</details>
+
+<details>
+<summary><b>21s Superset:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -110,7 +118,10 @@ V-Bar pulldowns superset Close Grip curls:
 
 - I rep 25kg, 21 reps bicep curls, 8-10 reps overhead extensions and failure for close grip bench
 
-Single Arm Cable Pulldowns superset Seated Single Arm Curls:
+</details>
+
+<details>
+<summary><b>Single Arm Pulldowns SS Isolated Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -118,7 +129,6 @@ Single Arm Cable Pulldowns superset Seated Single Arm Curls:
   </video>
 </figure>
 
-(Pulldown)
 - Amazing exercise for building that outer head and increasing arm thickness
 
 - Tip is to stand right in the centre of the cable and extend outwards at an angle
@@ -127,7 +137,6 @@ Single Arm Cable Pulldowns superset Seated Single Arm Curls:
 
  -As with all tricep exercises SQUEEZE at the bottom
 
-[WEIGHT]
 
 <figure class="video_container">
   <video controls={true}>
@@ -135,7 +144,6 @@ Single Arm Cable Pulldowns superset Seated Single Arm Curls:
   </video>
 </figure>
 
-(Isolated curls)
 - Try perform these isolated curls on a bench right near your cable extensions
 
 - Lock your elbow firmly into your leg and curl normally
@@ -148,7 +156,10 @@ Single Arm Cable Pulldowns superset Seated Single Arm Curls:
 
 - I typically rep 8-10kg and do 4 sets of the Superset
 
-Close-grip pull-ups til failure:
+</details>
+
+<details>
+<summary><b>CG Pull-Ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -165,3 +176,5 @@ Close-grip pull-ups til failure:
 - Go for failure every set, it doesn’t matter if this is 3, 6 or 20 reps - burn yourself out we're at the end of an amazing arms day here
 
 - Weight - N/A, each set til FAILURE BABY
+
+</details>

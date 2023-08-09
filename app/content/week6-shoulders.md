@@ -5,7 +5,8 @@ week: 6
 nextPage: 'week6-cardio'
 previousPage: 'week6-legs'
 ---
-DB Press:
+<details>
+<summary><b>DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -23,7 +24,10 @@ DB Press:
 
 - I currently rep 30kg for 6 reps, 4 sets. Working on getting up to 10 reps before increasing weight!
 
-Front & side head superset:
+</details>
+
+<details>
+<summary><b>Front & Side Head SS:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -41,7 +45,10 @@ Front & side head superset:
 
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
 
-Cable Lateral Raises:
+</details>
+
+<details>
+<summary><b>Cable Lateral Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -61,8 +68,10 @@ Cable Lateral Raises:
 
 - I rep ~peg 3 on the cable machine, so approximately 10kg at my gym
 
+</details>
 
-Face-Pulls:
+<details>
+<summary><b>Face-Pulls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -84,7 +93,10 @@ Face-Pulls:
 
 - [WEIGHT REQUIRED]
 
-Smith Machine Press:
+</details>
+
+<details>
+<summary><b>Smith Machine Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -103,3 +115,5 @@ Smith Machine Press:
 - I rep 10-15kg either side for 12 reps depending on how pumped I'm feeling that day!
 
 - An amazing finisher is doing your last set (4th set) to failure so you leave the gym absolutely destroyed!
+
+</details>

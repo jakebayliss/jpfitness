@@ -6,7 +6,8 @@ nextPage: 'week4-shoulders'
 previousPage: 'week4-chest-and-back'
 ---
 
-Lunges (SS Free-weight squads):
+<details>
+<summary><b>Lunges SS Free-Weight Squats:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -36,7 +37,10 @@ Lunges (SS Free-weight squads):
 
 - I do bodyweight sets here as my lower back is injured!
 
-Lateral Lunges:
+</details>
+
+<details>
+<summary><b>Lateral Lunges:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -60,7 +64,10 @@ Lateral Lunges:
 
 - I do no weight because of my lower back but once you've got your form locked I recommend starting by holding a 5kg plate and working your way up!
 
-Leg Press Superset Calf Raises:
+</details>
+
+<details>
+<summary><b>Leg Press SS Calf Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -80,7 +87,10 @@ Leg Press Superset Calf Raises:
 
 - I typically leg press x3 20kg plates either side and calf raise the same!
 
-Straight Leg Deadlift:
+</details>
+
+<details>
+<summary><b>Straight-Leg Deadlifts:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -104,7 +114,10 @@ Straight Leg Deadlift:
 
 - I rep around the 10kg mark for these with great caution to not do my back in again!
 
-Leg extension drop-set to finish:
+</details>
+
+<details>
+<summary><b>Leg Extension Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -117,3 +130,5 @@ Leg extension drop-set to finish:
 - Machine required for these as it's much faster - x2 normal sets then x1 drop set: Start at your working weight for 6 reps, drop 2 pegs for 8 reps, 2 more pegs for 10 reps and finally 2 more pegs til failure
 
 - I'm currently doing 65kg to start with then dropping in increments of 8kg each time I drop set
+
+</details>

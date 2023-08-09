@@ -6,7 +6,8 @@ nextPage: 'week3-chest-and-back'
 previousPage: 'week3-welcome'
 ---
 
-Preacher Curls Superset Long Negatives:
+<details>
+<summary><b>Preacher Curls SS Long Negatives:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -28,7 +29,10 @@ Preacher Curls Superset Long Negatives:
 
 - I currently do 12.5kg on either side of the bar for 8 reps then 4-6 ultra long negatives to finish each set
 
-Dips Superset Hammer-Curls:
+</details>
+
+<details>
+<summary><b>Dips SS Hammer Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -66,7 +70,11 @@ Dips Superset Hammer-Curls:
 
 - Currently on 16kg for 8 reps each arm
 
-Incline Bench Curls: 
+</details>
+
+
+<details>
+<summary><b>Incline Bench Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -90,7 +98,11 @@ Incline Bench Curls:
 
 - I use 10-12kg dumbbells for 12 reps
 
-21's Superset:
+</details>
+
+
+<details>
+<summary><b>21s Superset:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -118,7 +130,10 @@ Incline Bench Curls:
 
 - I rep 25kg, 21 reps bicep curls, 8-10 reps overhead extensions and failure for close grip bench
 
-Rope Pulldowns Superset Close-grip Curls:
+</details>
+
+<details>
+<summary><b>Rope Pulldowns SS CG Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -141,6 +156,7 @@ Rope Pulldowns Superset Close-grip Curls:
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
   </video>
 </figure>
+
 - Lock elbows as per!!
 
 - Try minimise upper-body rocking, I know it's hard but try!
@@ -153,8 +169,11 @@ Rope Pulldowns Superset Close-grip Curls:
 
 - [WEIGHT]
 
+</details>
 
-Overhead Tricep Extensions:
+<details>
+<summary><b>Overhead Tricep Extensions:</b></summary
+
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/8e4d663f-e2a4-4f3c-8817-53d058dc9ccd" type="video/mp4">
@@ -168,3 +187,5 @@ Overhead Tricep Extensions:
 - Alternate arms with no breaks inbetween
 
 - I'm do 10kg for overhead tricep extensions but this is limited by my minor left elbow injury, I'm sure you guys can do more!
+
+</details>

@@ -6,7 +6,8 @@ nextPage: 'week5-chest-and-back'
 previousPage: 'week5-welcome'
 ---
 
-21's Superset:
+<details>
+<summary><b>21s Superset:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -36,7 +37,10 @@ previousPage: 'week5-welcome'
 
 - I rep 25kg, 21 reps bicep curls, 8-10 reps overhead extensions and failure for close grip bench
 
-Dips Superset Hammer-Curls:
+</details>
+
+<details>
+<summary><b>Dips SS Hammers:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -74,7 +78,10 @@ Dips Superset Hammer-Curls:
 
 - Currently on 16kg for 8 reps each arm
 
-Incline Bench Curls: 
+</details>
+
+<details>
+<summary><b>Incline Bench Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -98,7 +105,10 @@ Incline Bench Curls:
 
 - I use 10-12kg dumbbells for 12 reps
 
-Rope Pulldowns Superset Close-grip Curls:
+</details>
+
+<details>
+<summary><b>Rope Extensions SS CG Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -135,7 +145,8 @@ Rope Pulldowns Superset Close-grip Curls:
 
 - [WEIGHT]
 
-Preacher Curls Superset Long Negatives:
+<details>
+<summary><b>Preacher Curls SS Long Negatives:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -155,7 +166,8 @@ Preacher Curls Superset Long Negatives:
 
 - I currently do 12.5kg on either side of the bar for 8 reps then 4-6 ultra long negatives to finish each set
 
-Overhead Tricep Extensions:
+<details>
+<summary><b>Overhead Extensions:</b></summary
 
 <figure class="video_container">
   <video controls={true}>

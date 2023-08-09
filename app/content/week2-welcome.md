@@ -16,7 +16,10 @@ Week 2 is an essential motivation week. I understand that some days may be tough
 
 As previously mentioned feel free to Email me at joshuawpaine@gmail.com - make sure to include FITNESS PROGAM as the subject so I see your email!
 
-Arms: 
+<details>
+<summary><b>Tips:</b></summary 
+
+Arms:
 
 - This week's arm day is similar to last week's with minor modifications. We're still targeting bi's and tri's but this time we're including isolated single arm preacher curls as well as single arm tricep extensions. The preachers are amazing for increasing specifically your bicep height and thus arm size, while the single arm extensions target that outer (and most visible) tricep head. 
 
@@ -42,7 +45,8 @@ Cardio:
 
 Ok - now the boring stuff's out of the way - let's gym!!
 
-Warm Ups:
+<details>
+<summary><b>Warm-ups:</b></summary
 
 Warming up is one of the most important parts of working out. It prevents injury and ensures you will be able to work out for many years to come.
 
@@ -55,6 +59,8 @@ It is fundamental for nearly all upper body exercises - healthy shoulders are so
 Stretching is a requirement regardless of the day you're doing - obviously you'll be stretching different muscles for different days at the gym.
 
 Please follow the tutorial videos given below:
+
+</details>
 
 
 

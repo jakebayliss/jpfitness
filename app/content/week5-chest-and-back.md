@@ -6,7 +6,8 @@ nextPage: 'week5-legs'
 previousPage: 'week5-arms'
 ---
 
-Incline DB Press: 
+<details>
+<summary><b>Incline DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -28,7 +29,10 @@ Incline DB Press:
 
 - I'm currently on 40kg dumbbells for incline press, 6 reps, working my way up to 8 reps gradually!
 
-Incline Flys:
+</details>
+
+<details>
+<summary><b>Incline Flys:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -44,7 +48,10 @@ Incline Flys:
 
 - I'm on 14kg dumbbells for incline flys
 
-T-Bar Rows:
+</details>
+
+<details>
+<summary><b>T-Bar Rows:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -60,7 +67,10 @@ T-Bar Rows:
 
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
-Cables (Up & Down):
+</details>
+
+<details>
+<summary><b>Cables (Up & Down):</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -68,7 +78,6 @@ Cables (Up & Down):
   </video>
 </figure>
 
-(Upward)
 - Killer superset, if I'm feeling frisky then I sometimes do a set of 10-15 pushups as a superset to really annihilate the chest
 
 - Position the cables at or slightly above head height
@@ -87,7 +96,6 @@ Cables (Up & Down):
   </video>
 </figure>
 
-(Downward)
 - As above, position yourself in the centre of the machine but this time don't step forward
 
 - Legs shoulder width apart, arms similar angle to above
@@ -98,7 +106,10 @@ Cables (Up & Down):
 
 - I do 10.5kg for 8 reps in this direction
 
-Lat Pulldowns:
+<details>
+
+<details>
+<summary><b>Lat Pulldowns:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -114,7 +125,10 @@ Lat Pulldowns:
 
 - I like to use the lat pulldown machine at around 65kg currently for 8 reps, working my way up to controlled bodyweight pulldowns
 
-Bench:
+</details>
+
+<details>
+<summary><b>Bench:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -130,7 +144,10 @@ Bench:
 
 - Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
-Pull-Ups (Final set to failure!!):
+</details>
+
+<details>
+<summary><b>Pull-Ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -145,3 +162,5 @@ Pull-Ups (Final set to failure!!):
 - Here I'm looking to pull up with the lats and back - not with your arms, get your head as high as possible and hold at the top
 
 - As many bodyweight reps as you can for 3 sets!
+
+</details>

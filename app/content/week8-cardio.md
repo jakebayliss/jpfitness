@@ -5,7 +5,10 @@ week: 8
 previousPage: 'week8-shoulders'
 ---
 
-Week 8: HIIT Workout to finish your 8 week journey - this one's an absolute killer!!!! 
+<details>
+<summary><b>Week 8: HIIT Workout</b></summary
+
+- HIIT Workout to finish your 8 week journey - this one's an absolute killer!!!! 
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 
@@ -51,7 +54,10 @@ Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
 
-Alternatives:
+</details>
+
+<details>
+<summary><b>Alternatives:</b></summary
 
 Swim:
 
@@ -174,3 +180,5 @@ Cooldown:
 - Static stretching for major muscle groups (quads, hamstrings, calves, etc.) for 5-7 minutes.
 
 - Aim for a total workout time of 30-45 mins
+
+</details>

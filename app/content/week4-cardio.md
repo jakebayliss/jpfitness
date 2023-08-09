@@ -6,7 +6,8 @@ nextPage: 'week5-welcome'
 previousPage: 'week4-shoulders'
 ---
 
-Week 4: Outdoor Jogging
+<details>
+<summary><b>Week 4: Outdoor Jogging</b></summary
 
 Warm-up:
 
@@ -30,7 +31,10 @@ Cooldown:
 
 - Aim for a total workout time of 30-45 mins
 
-Alternatives:
+</details>
+
+<details>
+<summary><b>Alternatives:</b></summary
 
 HIIT Class:
 
@@ -176,3 +180,5 @@ Online Pilates:
 - [MoveWithNicole](https://www.youtube.com/@MoveWithNicole)
 
 - She has great workouts for the whole body, legs, abs, upper body, lower body and stretching - I like to try incorporate minimum one workout per week
+
+</details>

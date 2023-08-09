@@ -13,7 +13,8 @@ Unlike last week none of you should have a valid excuse to skip this one ;)
 
 Let's get into it!!
 
-Week 2: HIIT Workout
+<details>
+<summary><b>Week 2: HIIT Workout</b></summary>
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 
@@ -59,7 +60,10 @@ Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
 
-Alternatives:
+</details>
+
+<details>
+<summary><b>Alternatives:</b></summary>
 
 Swim:
 
@@ -183,3 +187,4 @@ Cooldown:
 
 - Aim for a total workout time of 30-45 mins
 
+</details>

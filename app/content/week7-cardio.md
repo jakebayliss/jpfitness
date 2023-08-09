@@ -5,7 +5,9 @@ week: 7
 nextPage: 'week8-welcome'
 previousPage: 'week7-shoulders'
 ---
-Week 7 - Swim:
+
+<details>
+<summary><b>Week 7: Swim</b></summary
 
 Aaaaaand we're back in the pool! Try and jump up a tier of workout difficulty. So if you've been sticking to the easy one hit the intermediate (same if you've been playing it safe with intermediate). It'll be considerably harder but you'll be feeling so fkn good walking away from the pool afterwards!
 
@@ -97,7 +99,10 @@ Cool down:
 
 - Swim 6 lengths at a relaxed pace to finish
 
-Alternatives:
+</details>
+
+<details>
+<summary><b>Alternatives:</b></summary
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 
@@ -179,3 +184,5 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
+
+</details>

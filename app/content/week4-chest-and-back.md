@@ -6,7 +6,8 @@ nextPage: 'week4-legs'
 previousPage: 'week4-arms'
 ---
 
-Incline DB Press:
+<details>
+<summary><b>Incline DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -30,7 +31,10 @@ Incline DB Press:
 
 - I'm currently on 40kg dumbbells for incline press, 6 reps, working my way up to 8 reps gradually!
 
-Flat DB Press Superset DB Burners:
+</details>
+
+<details>
+<summary><b>Flat DB Press SS Burners:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -48,7 +52,10 @@ Flat DB Press Superset DB Burners:
 
 - I'm currently on roughly 25kg for this superset - any heavier and the burner set becomes nearly impossible for me!
 
-TBar Rows: 
+</details>
+
+<details>
+<summary><b>T-Bar Rows:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -64,7 +71,10 @@ TBar Rows:
 
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
-Bench:
+</details>
+
+<details>
+<summary><b>Bench:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -78,7 +88,10 @@ Bench:
 
 - Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
-Row Machine:
+</details>
+
+<details>
+<summary><b>Row Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -92,9 +105,12 @@ Row Machine:
 
 - Amazing point to include your dropset for today - do 3 working sets then dropset the last (4th) set baby!!
 
-- I'm currently on roughly 50kg for 10 reps\
+- I'm currently on roughly 50kg for 10 reps!
 
-Cables (up & down)
+</details>
+
+<details>
+<summary><b>Cables (Up & Down):</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -130,7 +146,10 @@ Cables (up & down)
 
 - I do 10.5kg for 8 reps in this direction
 
-Pull ups - last with final set being to failure:
+</details>
+
+<details>
+<summary><b>Pull-Ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -145,3 +164,5 @@ Pull ups - last with final set being to failure:
 - Here I'm looking to pull up with the lats and back - not with your arms, get your head as high as possible and hold at the top
 
 - As many bodyweight reps as you can for 3 sets!
+
+</details>

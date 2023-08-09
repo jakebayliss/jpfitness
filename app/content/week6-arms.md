@@ -6,7 +6,8 @@ nextPage: 'week6-chest-and-back'
 previousPage: 'week6-welcome'
 --- 
 
-V-Bar pulldowns superset Close Grip curls:
+<details>
+<summary><b>V-Bar Pulldowns SS CG Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -42,9 +43,12 @@ V-Bar pulldowns superset Close Grip curls:
 
 - As above, they're amazing to drop-set!
 
-Single Arm Cable Pulldowns superset Seated Single Arm Curls:
+</details>
 
-figure class="video_container">
+<details>
+<summary><b>Single Arm Pulldowns SS Isolated Curls:</b></summary
+
+<figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/6d885fd2-8947-477a-a9b5-6361f29f0760" type="video/mp4">
   </video>
@@ -78,7 +82,10 @@ figure class="video_container">
 
 - I typically rep 8-10kg and do 4 sets of the Superset
 
-Dips Superset hammer curls:
+</details>
+
+<details>
+<summary><b>Dips SS Hammers:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -97,6 +104,7 @@ Dips Superset hammer curls:
 - If you can't dip your bodyweight then use the assisted machine that most gyms provide
 
 - I do 8-12 reps of body weight dips
+
 
 <figure class="video_container">
   <video controls={true}>
@@ -118,8 +126,10 @@ Dips Superset hammer curls:
 
 [WEIGHT]
 
+</details>
 
-21s Superset:
+<details>
+<summary><b>21s Superset:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -147,7 +157,10 @@ Dips Superset hammer curls:
 
 - I rep 25kg, 21 reps bicep curls, 8-10 reps overhead extensions and failure for close grip bench
 
-Close-grip pull-ups til failure:
+</details>
+
+<details>
+<summary><b>CG Pull-Ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -164,3 +177,5 @@ Close-grip pull-ups til failure:
 - Go for failure every set, it doesn’t matter if this is 3, 6 or 20 reps - burn yourself out we're at the end of an amazing arms day here
 
 - Weight - N/A, each set til FAILURE BABY
+
+</details>
