@@ -15,7 +15,7 @@ const Header = () => {
     }
 
     return (
-        <div>
+        <div className="text-white absolute">
             <nav className="relative flex justify-between items-center">
                 <div className="lg:hidden">
                     <button ref={burgerRef} className="navbar-burger flex items-center p-2" onClick={() => handleOpen()}>

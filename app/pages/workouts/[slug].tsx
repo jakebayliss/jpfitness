@@ -10,11 +10,11 @@ import Header from '@/components/Header';
 
 const Index = (props: any) => {
   return (
-    <main>
-      <div className='p-5'>
+    <main className='min-h-[calc(100vh-40px)]'>
+      <div className='min-h-[calc(100vh-40px)]'>
         <Header />
-        <h1 className='my-3 font-bold text-2xl'>Week {props.workout.week} - {props.workout.title}</h1>
-        <div className='prose'>
+        <h1 className='page-title p-6 font-bold text-4xl text-white text-center'>Week {props.workout.week} - {props.workout.title}</h1>
+        <div className='prose p-3 text-justify'>
           <ReactMarkdown rehypePlugins={[rehypeRaw]}>{props.workout.content}</ReactMarkdown>
         </div>
       </div>
