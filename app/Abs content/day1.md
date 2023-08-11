@@ -23,6 +23,12 @@ Ab circuit explanation:
 <details>
 <summary><b>Medicine Ball Legs Taps</b></summary>
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/82848c8b-e546-40d5-9ef3-a3cfd65e452d" type="video/mp4">
+  </video>
+</figure>
+
 - Position yourself so the medicine ball is approximately under your calves
 
 - Extend legs all the way out, don't let your feet touch the floor
@@ -38,6 +44,12 @@ Ab circuit explanation:
 <details>
 <summary><b>Medicine Ball Situps</b></summary>
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/a7fdeee1-1fd6-4a81-a095-d87d0d8f480a" type="video/mp4">
+  </video>
+</figure>
+
 - Controlled movements - don't go too heavy as you'll start using every part of your body other than your abs to try get it completed 
 
 - Extend those arms as you come down, don't let the ball touch the floor
@@ -50,6 +62,12 @@ Ab circuit explanation:
 
 <details>
 <summary><b>Oblique Extensions</b></summary>
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/d4ac702d-cbcd-4b9e-bc58-d956ae1fdd6f" type="video/mp4">
+  </video>
+</figure>
 
 - The biggest take home message is to keep your back as I keep mine in the video
 
@@ -64,7 +82,13 @@ Ab circuit explanation:
 </details>
 
 <details>
-<summary><b>Incline Situps</b></summary>
+<summary><b>Decline Situps</b></summary>
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/68c3ff30-695f-45b8-a806-2483596740ae" type="video/mp4">
+  </video>
+</figure>
 
 - The biggest tip is the point of rotation: Rotate once your upper body is PARALLEL with the bench angle - DON'T COME ALL THE WAY UP
 
@@ -80,6 +104,12 @@ Ab circuit explanation:
 
 <details>
 <summary><b>Leg Extensions</b></summary>
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/2462ce5e-6b90-4c47-8cd6-655aef7827b7" type="video/mp4">
+  </video>
+</figure>
 
 - By far my favourite Ab exercise! 
 
