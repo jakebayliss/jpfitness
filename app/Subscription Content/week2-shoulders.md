@@ -7,14 +7,7 @@ previousPage: 'week2-legs'
 ---
 
 <details>
-<summary><b>Notes</b></summary
-
-Compared to Week 1 shoulders we're including a couple of different exercise variations. One of them being seated Smith Machine press - which is one of my long-term favourite shoulder exercises. It's so good to do at the end of your session because of the rigidness of the Smith Machines movement it isolates and really targets your front shoulder head - giving you a fkn massive pump and unreal burn. 
-
-</details>
-
-<details>
-<summary><b>DB Press</b></summary
+<summary><b>DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -35,7 +28,7 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 </details>
 
 <details>
-<summary><b>Cable Lateral Raises</b></summary
+<summary><b>Cable Lateral Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -58,7 +51,7 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 </details>
 
 <details>
-<summary><b>Front & Side Head SS</b></summary
+<summary><b>Front & Side Head SS:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -104,7 +97,7 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 </details>
 
 <details>
-<summary><b>Smith Machine Press</b></summary
+<summary><b>Smith Machine Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>

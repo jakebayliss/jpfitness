@@ -1,61 +1,21 @@
 ---
 title: "Arms"
 order: 1
-week: 2
-nextPage: 'week2-chest-and-back'
-previousPage: 'week2-welcome'
+week: 8
+nextPage: 'week8-chest-and-back'
+previousPage: 'week8-welcome'
 --- 
 
 <details>
-<summary><b>Notes</b></summary>
-
-This week's arm day is similar to last week's with minor modifications. We're still targeting bi's and tri's but this time we're including isolated single arm preacher curls as well as single arm tricep extensions. The preachers are amazing for increasing specifically your bicep height and thus arm size, while the single arm extensions target that outer (and most visible) tricep head. 
-
-Try increase (even by the smallest amount) the weight you did last week for the core movements. I understand it may be too early but perhaps your form is better this time round and the movements feel more natural. If so, chuck some hype music on and bump that shit up!!!! 
-
-</details>
-
-<details>
-<summary><b>21's Superset</b></summary>
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b73a0568-9b4d-42b3-9da4-47bc65a17839" type="video/mp4">
-  </video>
-</figure>
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3d8f5a93-f287-4afe-bcab-344261bbe277" type="video/mp4">
-  </video>
-</figure>
-
-[WARM UP]
-
-- Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
-
-- Form is incredibly important to ensure your bi's are constantly engaged
-
-- Always go to failure on close grip part
-
-- Short rest between sets, get that blood flowing
-
-- Depending on your bicep/tricep strength I would recommend a weight ~1/3 your bodyweight
-
-- Lock your elbows when doing your overheads, it's essential for tricep engagement
-
-- I rep 25kg, 21 reps bicep curls, 8-10 reps overhead extensions and failure for close grip bench
-
-</details>
-
-<details>
-<summary><b>Dips SS Hammer Curls</b></summary>
+<summary><b>Dips SS Hammers:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/10a502b9-b9cd-43ef-91d0-e2ea20f2a932" type="video/mp4">
   </video>
 </figure>
+
+-[WARM UP]
 
 - Definitely start these on an assisted machine.
 
@@ -90,7 +50,8 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 </details>
 
 <details>
-<summary><b>V-Bar pulldowns SS CG Curls</b></summary>
+<summary><b>V-Bar Pulldowns SS CG Curls:</b></summary
+
 
 <figure class="video_container">
   <video controls={true}>
@@ -124,14 +85,43 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 
 - As above, they're amazing to drop-set!
 
-- [WEIGHT]
-
+[WEIGHT]
 
 </details>
 
+<details>
+<summary><b>21s Superset:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b73a0568-9b4d-42b3-9da4-47bc65a17839" type="video/mp4">
+  </video>
+</figure>
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3d8f5a93-f287-4afe-bcab-344261bbe277" type="video/mp4">
+  </video>
+</figure>
+
+- Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
+
+- Form is incredibly important to ensure your bi's are constantly engaged
+
+- Always go to failure on close grip part
+
+- Short rest between sets, get that blood flowing
+
+- Depending on your bicep/tricep strength I would recommend a weight ~1/3 your bodyweight
+
+- Lock your elbows when doing your overheads, it's essential for tricep engagement
+
+- I rep 25kg, 21 reps bicep curls, 8-10 reps overhead extensions and failure for close grip bench
+
+</details>
 
 <details>
-<summary><b>Single Arm Extensions SS Seated Curls</b></summary>
+<summary><b>Single Arm Pulldowns SS Isolated Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -139,7 +129,6 @@ Try increase (even by the smallest amount) the weight you did last week for the 
   </video>
 </figure>
 
-(Pulldown)
 - Amazing exercise for building that outer head and increasing arm thickness
 
 - Tip is to stand right in the centre of the cable and extend outwards at an angle
@@ -148,7 +137,6 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 
  -As with all tricep exercises SQUEEZE at the bottom
 
-[WEIGHT]
 
 <figure class="video_container">
   <video controls={true}>
@@ -171,7 +159,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 </details>
 
 <details>
-<summary><b>Close-grip Pullups</b></summary>
+<summary><b>CG Pull-Ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>

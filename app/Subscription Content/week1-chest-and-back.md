@@ -1,20 +1,17 @@
 ---
 title: "Chest & Back"
-order: 1
-week: 2
-nextPage: 'week2-legs'
-previousPage: 'week2-arms'
+pageNumber: 4
+week: 1
+nextPage: 'week1-legs'
+previousPage: 'week1-arms'
 ---
 
-<details>
-<summary><b>Notes</b></summary>
+Day two!!!!! You got this babyy. As with Day 1, start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously.
 
-This week's chest and back session has more focus on your upper back via doing double rows (one T-bar exercise and one machine exercise). Chest is also burnt out by the amazing flat DB press superset which absolutely annihilates your pecs. Considering we're one week further into our journey I would be expecting either a slight weight increase (if you've mastered the form of each exercise) or if you're staying at the same weight then pushing for +2 reps on all exercises.
-
-</details>
+I'm using this program to fill out my Chest & Back. I love the look of a full chest and a naturally great back that looks good when you're walking around shirtless without tensing - so that's what this day is designed to achieve. Again, I like to keep the workouts high intensity - so short and sweet (warning, our pump today is gunna be outrageously good). As previously mentioned, I'd love to be deadlifting today but unfortunately can't - feel free to sub one back exercise out for deads if you love them!
 
 <details>
-<summary><b>Incline DB Press</b></summary>
+<summary><b>Incline DB Press:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -37,7 +34,26 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>T-bar Rows</b></summary>
+<summary><b>Incline flys:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/2f427229-a846-4885-a1c9-8bc46e6d4deb" type="video/mp4">
+  </video>
+</figure>
+
+- Straight into these after Incline DB, make sure you treat the transition as a superset
+
+- Slow and controlled is key, get your arms at the right angle so it's not ripping your shoulders but it's also engaging your chest as much as possible
+
+- Arm angle is also key - don't straight arm it but also don't chest press, find that sweet spot in-between to maximise chest gains while minimising the risk of shoulder injuries
+
+- I'm on 14kg dumbbells for incline flys
+
+</details>
+
+<details>
+<summary><b>T-bar Rows:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -56,28 +72,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Flat DB SS Dumbbell Burners</b></summary>
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5b623dce-681b-4066-ba18-b7e0be72c57b" type="video/mp4">
-  </video>
-</figure>
-
-- Position your arms as close as you can to mine in the video - don't flair your elbows out and don't have them touching your obliques either - go in the middle
-
-- Keep dumbbells angled at 45 degrees as I have, not straight in line with your shoulders as most people do
-
-- Bring dumbbells back down in-line with your chest, pause briefly then EXPLODE and push upwards til your elbows are locked once again
-
-- Once you've done 8 reps lock the dumbbells together (as demonstrated in the video) and go to failure with this burner set
-
-- I'm currently on roughly 25kg for this superset - any heavier and the burner set becomes nearly impossible for me!
-
-</details>
-
-<details>
-<summary><b>Cables (Up & Down)</b></summary>
+<summary><b>Cables up & down:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -95,7 +90,9 @@ This week's chest and back session has more focus on your upper back via doing d
 
 - Lock your arms in place and pull with your chest, squeezing as hard as you can as your hands touch
 
-- I do 12.5kg in downward flys for 10 reps 
+- I do 12.5kg in downward flys for 10 reps
+
+</details>
 
 <figure class="video_container">
   <video controls={true}>
@@ -113,29 +110,27 @@ This week's chest and back session has more focus on your upper back via doing d
 
 - I do 10.5kg for 8 reps in this direction
 
-</details>
-
 <details>
-<summary><b>Row Machine</b></summary>
+<summary><b>Lat Pulldowns:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/be8a1dab-35ec-4dae-ba87-641fd450c4de" type="video/mp4">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5e8962cd-27c9-42cf-8343-fa18049ad5be" type="video/mp4">
   </video>
 </figure>
 
-- Essential upper back exercise to give yourself that swole look
+- Very important to build your complete back and give you WINGS
 
-- Strict form as always, make sure to pull all the way back, PAUSE, then slowly release back to an extended arm position
+- Strict form as always, make sure to pull all the way down and engage your lats, don't pull with your arms/biceps
 
-- Amazing point to include your dropset for today - do 3 working sets then dropset the last (4th) set baby!!
+- Squeeze as hard as you can at the bottom for maximum effectiveness
 
-- I'm currently on roughly 50kg for 10 reps!
+- I like to use the lat pulldown machine at around 65kg currently for 8 reps, working my way up to controlled bodyweight pulldowns
 
 </details>
 
 <details>
-<summary><b>Bench</b></summary>
+<summary><b>Bench:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -154,7 +149,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Pull-ups</b></summary>
+<summary><b>Pull-ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -162,9 +157,9 @@ This week's chest and back session has more focus on your upper back via doing d
   </video>
 </figure>
 
-- Final exercise!!! x3 working sets and x1 set til failure 
+- Final exercise!!! x4 sets of pull ups (preferrably non-assisted) but if you require assistance then that's perfectly fine too!
 
-- The working sets are preferrably non-assisted but if you do need to use the assisted machine that's fine too!
+- x3 working sets, x1 set til failure!
 
 - If you can only do a handful of reps that's totally fine too, keep at it and gradually build yourself up to 8-12 reps
 
@@ -173,4 +168,3 @@ This week's chest and back session has more focus on your upper back via doing d
 - As many bodyweight reps as you can for 3 sets!
 
 </details>
-

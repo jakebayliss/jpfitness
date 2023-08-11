@@ -5,9 +5,6 @@ week: 1
 nextPage: 'week2-welcome'
 previousPage: 'week1-shoulders'
 ---
-<details>
-<summary><b>Notes</b></summary
-
 Well here we are, the end of the week and some people's worst enemy. Don't worry, we're in this boat together - I'm not a fan of MOST versions of cardio. I can tolerate ones that are social, fitness mixed in with an activity, a sport etc.
 
 Firstly I would highly recommend signing up to a local sports team, maybe indoor soccer, basketball or local touch rugby team. These are essentially 'free' cardio because it requires minimal motivation on your end, much less than trying to convince yourself to go on a 30 minute run.
@@ -25,8 +22,6 @@ A great addition is also a HIIT (High Intensity Interval Training) park workout.
 As the weeks progress we will explore all these options together - how exciting!
 
 On Cardio day I'm going to make suggestions based on what I do but I completely understand that not everyone has the same access to facilities as I do (swimming pool, fitness classes etc). Thus, unlike the other days of the program, you do not need to follow this section exactly. If you don't like swimming or aren't signed up to a pool, or if you don't want to fork out money for a fitness class then you don't have to - there are plenty of alternative options available (as listed above). Something as simple as a 30 minute run or long hike with friends will do the same trick (depending on your fitness goals).
-
-</details>
 
 <details>
 <summary><b>Week 1: Swim</b></summary>
@@ -122,7 +117,7 @@ Cool down:
 </details>
   
 <details>
-<summary><b>Alternatives</b></summary>
+<summary><b>Alternatives:</b></summary>
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 

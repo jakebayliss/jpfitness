@@ -1,20 +1,13 @@
 ---
 title: "Chest & Back"
 order: 1
-week: 2
-nextPage: 'week2-legs'
-previousPage: 'week2-arms'
+week: 6
+nextPage: 'week6-legs'
+previousPage: 'week6-arms'
 ---
 
 <details>
-<summary><b>Notes</b></summary>
-
-This week's chest and back session has more focus on your upper back via doing double rows (one T-bar exercise and one machine exercise). Chest is also burnt out by the amazing flat DB press superset which absolutely annihilates your pecs. Considering we're one week further into our journey I would be expecting either a slight weight increase (if you've mastered the form of each exercise) or if you're staying at the same weight then pushing for +2 reps on all exercises.
-
-</details>
-
-<details>
-<summary><b>Incline DB Press</b></summary>
+<summary><b>Incline DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -37,7 +30,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>T-bar Rows</b></summary>
+<summary><b>T-Bar Rows:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -53,10 +46,10 @@ This week's chest and back session has more focus on your upper back via doing d
 
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
-</details>
+</detials>
 
 <details>
-<summary><b>Flat DB SS Dumbbell Burners</b></summary>
+<summary><b>Flat DB Press SS Burners:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -77,7 +70,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Cables (Up & Down)</b></summary>
+<summary><b>Cables (Up & Down):</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -116,7 +109,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Row Machine</b></summary>
+<summary><b>Row Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -135,7 +128,26 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Bench</b></summary>
+<summary><b>Pull-Ups:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
+  </video>
+</figure>
+
+- x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
+
+- If you can only do a handful of reps that's totally fine too, keep at it and gradually build yourself up to 8-12 reps
+
+- Here I'm looking to pull up with the lats and back - not with your arms, get your head as high as possible and hold at the top
+
+- As many bodyweight reps as you can for 3 sets!
+
+</details>
+
+<details>
+<summary><b>Bench:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -152,25 +164,3 @@ This week's chest and back session has more focus on your upper back via doing d
 - Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
 </details>
-
-<details>
-<summary><b>Pull-ups</b></summary>
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0f958bb8-56d0-4fea-b417-13ba49ad6869" type="video/mp4">
-  </video>
-</figure>
-
-- Final exercise!!! x3 working sets and x1 set til failure 
-
-- The working sets are preferrably non-assisted but if you do need to use the assisted machine that's fine too!
-
-- If you can only do a handful of reps that's totally fine too, keep at it and gradually build yourself up to 8-12 reps
-
-- Here I'm looking to pull up with the lats and back - not with your arms, get your head as high as possible and hold at the top
-
-- As many bodyweight reps as you can for 3 sets!
-
-</details>
-

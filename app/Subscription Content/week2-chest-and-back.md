@@ -7,14 +7,7 @@ previousPage: 'week2-arms'
 ---
 
 <details>
-<summary><b>Notes</b></summary>
-
-This week's chest and back session has more focus on your upper back via doing double rows (one T-bar exercise and one machine exercise). Chest is also burnt out by the amazing flat DB press superset which absolutely annihilates your pecs. Considering we're one week further into our journey I would be expecting either a slight weight increase (if you've mastered the form of each exercise) or if you're staying at the same weight then pushing for +2 reps on all exercises.
-
-</details>
-
-<details>
-<summary><b>Incline DB Press</b></summary>
+<summary><b>Incline DB Press:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -37,7 +30,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>T-bar Rows</b></summary>
+<summary><b>T-bar Rows:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -56,7 +49,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Flat DB SS Dumbbell Burners</b></summary>
+<summary><b>Flat DB SS Dumbbell Burners:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -77,7 +70,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Cables (Up & Down)</b></summary>
+<summary><b>Cables (Up & Down):</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -116,7 +109,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Row Machine</b></summary>
+<summary><b>Row Machine:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -135,7 +128,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Bench</b></summary>
+<summary><b>Bench:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -154,7 +147,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>Pull-ups</b></summary>
+<summary><b>Pull-ups:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

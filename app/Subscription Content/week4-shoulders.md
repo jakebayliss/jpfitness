@@ -1,20 +1,13 @@
 ---
 title: "Shoulders"
 order: 1
-week: 2
-nextPage: 'week2-cardio'
-previousPage: 'week2-legs'
+week: 4
+nextPage: 'week4-cardio'
+previousPage: 'week4-legs'
 ---
 
 <details>
-<summary><b>Notes</b></summary
-
-Compared to Week 1 shoulders we're including a couple of different exercise variations. One of them being seated Smith Machine press - which is one of my long-term favourite shoulder exercises. It's so good to do at the end of your session because of the rigidness of the Smith Machines movement it isolates and really targets your front shoulder head - giving you a fkn massive pump and unreal burn. 
-
-</details>
-
-<details>
-<summary><b>DB Press</b></summary
+<summary><b>DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -35,30 +28,7 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 </details>
 
 <details>
-<summary><b>Cable Lateral Raises</b></summary
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/af0aad18-47ee-4764-9519-ac7e84c397e1" type="video/mp4">
-  </video>
-</figure>
-
-- Set the cable machine at the lowest position
-
-- Grab a handle attachment piece and latch it on
-
-- Start on an extremely low weight so you perfect your form first
-
-- Pull upwards with your shoulder - don't let your arm rotate and sneakily use your tri's, back or any other muscle for the raise
-
-- Hold at the top slightly then slowly lower back down to resting position, repeat for sets of 8-12!
-
-- I rep ~peg 3 on the cable machine, so approximately 10kg at my gym
-
-</details>
-
-<details>
-<summary><b>Front & Side Head SS</b></summary
+<summary><b>Front & Side Head SS:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -104,7 +74,30 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 </details>
 
 <details>
-<summary><b>Smith Machine Press</b></summary
+<summary><b>Cable Lateral Raises:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/af0aad18-47ee-4764-9519-ac7e84c397e1" type="video/mp4">
+  </video>
+</figure>
+
+- Set the cable machine at the lowest position
+
+- Grab a handle attachment piece and latch it on
+
+- Start on an extremely low weight so you perfect your form first
+
+- Pull upwards with your shoulder - don't let your arm rotate and sneakily use your tri's, back or any other muscle for the raise
+
+- Hold at the top slightly then slowly lower back down to resting position, repeat for sets of 8-12!
+
+- I rep ~peg 3 on the cable machine, so approximately 10kg at my gym
+
+</details>
+
+<details>
+<summary><b>Smith Machine Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>

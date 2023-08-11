@@ -1,27 +1,21 @@
 ---
 title: "Legs"
 order: 1
-week: 2
-nextPage: 'week2-shoulders'
-previousPage: 'week2-chest-and-back'
+week: 3
+nextPage: 'week3-shoulders'
+previousPage: 'week3-chest-and-back'
 ---
 
 <details>
-<summary><b>Notes</b></summary
-
-Week 2 leg day - time to throw on some size. Legs are such an important muscle group and have amazing fundamental exercises that do need to be repeated. Remember, if you're following my program exactly then proceed with the lunges and bodyweight squats superset - if you are comfortable squatting with weight then sub out my lunges routine and add in squats instead - this is completely up to you and your ability!
-
-</details>
-
-<details>
-<summary><b>Lunges SS Free-weight Squats</b></summary
-
+<summary><b>Lunges SS Free-weight Squats:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/9a93de59-479a-42ad-8fb7-32b2cbfcda1b">
   </video>
 </figure>
+
+- [WARM UP]
 
 - Warm-up set with body weight then straight into it
 
@@ -32,8 +26,7 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 - Superset with bodyweight squats (mainly so I can still incorporate squats and reap some of their benefits)
 
 - I like to do ~14kg each arm, 10 reps each leg
-
-
+  
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/06cfac63-a57e-4ed6-8c0f-6798c54da65a" type="video/mp4">
@@ -49,7 +42,7 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 </details>
 
 <details>
-<summary><b>Leg Press SS Calf Raises</b></summary
+<summary><b>Leg Press SS Calf Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -72,61 +65,47 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 </details>
 
 <details>
-<summary><b>Lateral Lunges</b></summary
+<summary><b>Leg Extensions:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/68bcf02b-c4da-4123-bd3d-daf340156726" type="video/mp4">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/fa027411-fb21-4b6a-bb70-a1e65240fe92" type="video/mp4">
   </video>
 </figure>
 
-- FORM FORM FORM
+- If you have a manual machine (as in the video) for these you're winning at life, the one at my gym is life changing - makes me want to do 10 sets
 
-- I can't stress this enough for lateral lunges - form is so important
+- Slow and controlled movements
 
-- Start legs together with the foot you're going to be stepping with SLIGHTLY in front of your back foot
+- Powerful positive motion, slow negatives
 
-- Step out so your front foot is slightly in front of your back foot, the previous step helps ensure this happens every rep
+- Key is bench positioning - you need to have your back rest set so that your knees are hinging around the edge of the seat - as in the video
 
-- Now, lean back with your hips keeping your core upright and solid throughout
-
-- Imagine there's a bench behind you that you're trying to sit on
-
-- Don't use any weight until you're 100% confident with your form!
-
-- I do no weight because of my lower back but once you've got your form locked I recommend starting by holding a 5kg plate and working your way up!
+- I do 3, 20kg plates, 10 reps for 4 sets
 
 </details>
 
 <details>
-<summary><b>Straight Leg Deadlift</b></summary
+<summary><b>Hamstring Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/d315dd30-d36f-4f52-9c42-0ac5ec7c9a89" type="video/mp4">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/eadc8eab-733e-44cd-a9e6-ee15fe6ba689" type="video/mp4">
   </video>
 </figure>
 
-- Potentially the most important exercise to get your form correct
+- Great exercise for adding inches to your legs, stabilising and supporting your back
 
-- You can see in the video how much I'm looking at the camera to ensure my form is correct
+- Slow and controlled movements are required
 
-- Firstly, stand shoulder width apart and bend your knees
+- If your gym has a flat hamstring machine then use it! I only use this seated version as mine doesn't have one
 
-- Sit backwards with your hips and keep your back in a neutral position
-
-- Don't allow your back to overextend (arch forwards) on the way down
-
-- Stop around sock/ankle height so you don't go too far and force your back to over extend
-
-- Pull upwards using your hamstrings and back
-
-- I rep around the 10kg mark for these with great caution to not do my back in again!
+- I am currently repping around 40kg for 10 reps
 
 </details>
 
 <details>
-<summary><b>Leg Extension Machine</b></summary
+<summary><b>Leg Extension Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>

@@ -1,20 +1,35 @@
 ---
 title: "Chest & Back"
 order: 1
-week: 2
-nextPage: 'week2-legs'
-previousPage: 'week2-arms'
+week: 3
+nextPage: 'week3-legs'
+previousPage: 'week3-arms'
 ---
 
-<details>
-<summary><b>Notes</b></summary>
 
-This week's chest and back session has more focus on your upper back via doing double rows (one T-bar exercise and one machine exercise). Chest is also burnt out by the amazing flat DB press superset which absolutely annihilates your pecs. Considering we're one week further into our journey I would be expecting either a slight weight increase (if you've mastered the form of each exercise) or if you're staying at the same weight then pushing for +2 reps on all exercises.
+<details>
+<summary><b>Bench:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
+  </video>
+</figure>
+
+- [WARM UP]
+
+- What a fkn start to Chest day - there's not much better in life than hitting flat-bench first up! 
+
+- Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion
+
+- If you're unsure or not confident in yourself as you're just starting out then get someone friendly in the gym to come assist/spot you!
+
+- Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
 
 </details>
 
 <details>
-<summary><b>Incline DB Press</b></summary>
+<summary><b>Incline DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -22,7 +37,7 @@ This week's chest and back session has more focus on your upper back via doing d
   </video>
 </figure>
 
-- Heavily influenced incline chest routine as I have always felt my lower chest grows faster than my upper - thus I like to focus on my upper and really go for that full look
+- Now this may seem like a lot going straight from flat bench to incline DB but we're here to annihilate our chest & grow that bitch so let's smash it! 
 
 - Careful with your form picking up heavy dumbbells, I know better than most about annoying back pain caused from the gym
 
@@ -37,7 +52,7 @@ This week's chest and back session has more focus on your upper back via doing d
 </details>
 
 <details>
-<summary><b>T-bar Rows</b></summary>
+<summary><b>T-Bar Rows:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -55,29 +70,47 @@ This week's chest and back session has more focus on your upper back via doing d
 
 </details>
 
+
 <details>
-<summary><b>Flat DB SS Dumbbell Burners</b></summary>
+<summary><b>Incline Flys:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5b623dce-681b-4066-ba18-b7e0be72c57b" type="video/mp4">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/2f427229-a846-4885-a1c9-8bc46e6d4deb" type="video/mp4">
   </video>
 </figure>
 
-- Position your arms as close as you can to mine in the video - don't flair your elbows out and don't have them touching your obliques either - go in the middle
+- Straight into these after Incline DB, make sure you treat the transition as a superset
 
-- Keep dumbbells angled at 45 degrees as I have, not straight in line with your shoulders as most people do
+- Slow and controlled is key, get your arms at the right angle so it's not ripping your shoulders but it's also engaging your chest as much as possible
 
-- Bring dumbbells back down in-line with your chest, pause briefly then EXPLODE and push upwards til your elbows are locked once again
+- Arm angle is also key - don't straight arm it but also don't chest press, find that sweet spot in-between to maximise chest gains while minimising the risk of shoulder injuries
 
-- Once you've done 8 reps lock the dumbbells together (as demonstrated in the video) and go to failure with this burner set
-
-- I'm currently on roughly 25kg for this superset - any heavier and the burner set becomes nearly impossible for me!
+- I'm on 14kg dumbbells for incline flys
 
 </details>
 
 <details>
-<summary><b>Cables (Up & Down)</b></summary>
+<summary><b>Lat Pulldowns:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/5e8962cd-27c9-42cf-8343-fa18049ad5be" type="video/mp4">
+  </video>
+</figure>
+
+- Very important to build your complete back and give you WINGS
+
+- Strict form as always, make sure to pull all the way down and engage your lats, don't pull with your arms/biceps
+
+- Squeeze as hard as you can at the bottom for maximum effectiveness
+
+- I like to use the lat pulldown machine at around 65kg currently for 8 reps, working my way up to controlled bodyweight pulldowns
+
+</details>
+
+<details>
+<summary><b>Cables (Up & Down):</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -115,46 +148,9 @@ This week's chest and back session has more focus on your upper back via doing d
 
 </details>
 
-<details>
-<summary><b>Row Machine</b></summary>
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/be8a1dab-35ec-4dae-ba87-641fd450c4de" type="video/mp4">
-  </video>
-</figure>
-
-- Essential upper back exercise to give yourself that swole look
-
-- Strict form as always, make sure to pull all the way back, PAUSE, then slowly release back to an extended arm position
-
-- Amazing point to include your dropset for today - do 3 working sets then dropset the last (4th) set baby!!
-
-- I'm currently on roughly 50kg for 10 reps!
-
-</details>
 
 <details>
-<summary><b>Bench</b></summary>
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
-  </video>
-</figure>
-
-- Just when you think you're done for the day I hit you with flat bench press
-
-- Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion
-
-- If you're unsure or not confident in yourself as you're just starting out then get someone friendly in the gym to come assist/spot you!
-
-- Typically rep 70kg after a long chest session for 3-4 sets - I'm usually absolutely ruined at this stage of the workout so 4 sets is sometimes beyond me!
-
-</details>
-
-<details>
-<summary><b>Pull-ups</b></summary>
+<summary><b>Pull-Ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -162,9 +158,7 @@ This week's chest and back session has more focus on your upper back via doing d
   </video>
 </figure>
 
-- Final exercise!!! x3 working sets and x1 set til failure 
-
-- The working sets are preferrably non-assisted but if you do need to use the assisted machine that's fine too!
+- Final exercise!!! x3 sets of pull ups (preferably non-assisted) but if you require assistance then that's perfectly fine too!
 
 - If you can only do a handful of reps that's totally fine too, keep at it and gradually build yourself up to 8-12 reps
 
@@ -173,4 +167,3 @@ This week's chest and back session has more focus on your upper back via doing d
 - As many bodyweight reps as you can for 3 sets!
 
 </details>
-

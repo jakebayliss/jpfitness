@@ -1,25 +1,14 @@
 ---
 title: "Cardio & Extras"
 order: 1
-week: 2
-nextPage: 'week3-welcome'
-previousPage: 'week2-shoulders'
+week: 8
+previousPage: 'week8-shoulders'
 ---
-<details>
-<summary><b>Notes</b></summary>
-
-My cardio recommendations don't change week to week - you just need to hold yourself accountable and make sure you're completing SOME form of cardio. I don't mind how you choose to do so, it could be a hike with friends, the stair machine at the gym, laps of a pool or a local sport - it's entirely up to you.
-
-Last week we focussed on swimming, this week the main event is a park (or similar environment) HIIT workout. I understand that some of you may have done this workout last week as you opted for it instead of the swim. If so, feel free to switch it up (to one of the listed alternatives below) or to repeat the same workout. There's certainly no harm in doing the same HIIT workout twice - its list of benefits are endless so go for gold!!!
-
-Unlike last week none of you should have a valid excuse to skip this one ;)
-
-Let's get into it!!
-
-</details>
 
 <details>
-<summary><b>Week 2: HIIT Workout</b></summary>
+<summary><b>Week 8: HIIT Workout</b></summary
+
+- HIIT Workout to finish your 8 week journey - this one's an absolute killer!!!! 
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 
@@ -33,27 +22,27 @@ Let's get into it!!
 
 Workout:
 
-- [Place markers 25m apart, do all your exercises at one marker and use the other as your point of reference for sprints]
+- [Place markers 30m apart, do all your exercises at one marker and use the other as your point of reference for sprints]
 
-- I place my water bottle where I am and hat (or other item) at ~25m away
+- I place my water bottle where I am and hat (or other item) at ~30m away
 
-- x10 push-ups
+- x20 push-ups
 
-- x10 jump-squats [Normal body weight squats - jump at the top]
+- x20 jump-squats [Normal body weight squats - jump at the top]
 
-- x20 mountain climbers [lie in a plank position and raise your knee to your chest, repeat 20 times (10 per leg) at a rapid pace]
+- x40 mountain climbers [lie in a plank position and raise your knee to your chest, repeat 20 times (10 per leg) at a rapid pace]
 
-- x1 25m sprint, 25m jog back to starting position
+- x1 30m sprint, 30m jog back to starting position
 
 - 45 second rest
 
 REPEAT 3 TIMES
 
-- x10 burpees [basically a push-up superset with a jump-squat]
+- x20 burpees [basically a push-up superset with a jump-squat]
 
 - x20 body-weight squats
 
-- Lunge 25m (to your reference point)
+- Lunge 30m (to your reference point)
 
 - Sprint back
 
@@ -68,7 +57,7 @@ Cool-down:
 </details>
 
 <details>
-<summary><b>Alternatives</b></summary>
+<summary><b>Alternatives:</b></summary
 
 Swim:
 

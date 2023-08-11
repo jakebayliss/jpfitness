@@ -1,22 +1,13 @@
 ---
 title: "Arms"
 order: 1
-week: 2
-nextPage: 'week2-chest-and-back'
-previousPage: 'week2-welcome'
+week: 4
+nextPage: 'week4-chest-and-back'
+previousPage: 'week4-welcome'
 --- 
 
 <details>
-<summary><b>Notes</b></summary>
-
-This week's arm day is similar to last week's with minor modifications. We're still targeting bi's and tri's but this time we're including isolated single arm preacher curls as well as single arm tricep extensions. The preachers are amazing for increasing specifically your bicep height and thus arm size, while the single arm extensions target that outer (and most visible) tricep head. 
-
-Try increase (even by the smallest amount) the weight you did last week for the core movements. I understand it may be too early but perhaps your form is better this time round and the movements feel more natural. If so, chuck some hype music on and bump that shit up!!!! 
-
-</details>
-
-<details>
-<summary><b>21's Superset</b></summary>
+<summary><b>21s Superset:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -30,7 +21,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
   </video>
 </figure>
 
-[WARM UP]
+- [WARM UP]
 
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
@@ -49,7 +40,44 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 </details>
 
 <details>
-<summary><b>Dips SS Hammer Curls</b></summary>
+<summary><b>V-Bar Pulldowns SS CG Curls:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0a3e98b4-3e70-46c1-97f7-55d156d47b04" type="video/mp4">
+  </video>
+</figure>
+
+- Lock elbows for the duration of your set
+
+- Don't let your hands come too far above elbow height to ensure triceps are constantly engaged
+
+- Hold bar at the edge and push outwards at the bottom while you SQUEEZE
+
+- Ensure you're squeezing every rep - burn those triceps baby
+
+[WEIGHT]
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
+  </video>
+</figure>
+
+- Lock elbows as per!!
+
+ -Try minimise upper-body rocking, I know it's hard but try!
+
+ -Arms are spaced extremely close to one another, inside elbow-width apart with pinky fingers almost touching
+
+- Close grip curls are amazing for increasing the size of the peak of your bicep - which is what we're chasing baby!
+
+- As above, they're amazing to drop-set!
+
+</details>
+
+<details>
+<summary><b>Dips SS Hammers:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -87,51 +115,12 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 
 - Currently on 16kg for 8 reps each arm
 
-</details>
-
-<details>
-<summary><b>V-Bar pulldowns SS CG Curls</b></summary>
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0a3e98b4-3e70-46c1-97f7-55d156d47b04" type="video/mp4">
-  </video>
-</figure>
-
-- Lock elbows for the duration of your set
-
-- Don't let your hands come too far above elbow height to ensure triceps are constantly engaged
-
-- Hold bar at the edge and push outwards at the bottom while you SQUEEZE
-
-- Ensure you're squeezing every rep - burn those triceps baby
-
 [WEIGHT]
 
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
-  </video>
-</figure>
-
-- Lock elbows as per!!
-
- -Try minimise upper-body rocking, I know it's hard but try!
-
- -Arms are spaced extremely close to one another, inside elbow-width apart with pinky fingers almost touching
-
-- Close grip curls are amazing for increasing the size of the peak of your bicep - which is what we're chasing baby!
-
-- As above, they're amazing to drop-set!
-
-- [WEIGHT]
-
-
 </details>
 
-
 <details>
-<summary><b>Single Arm Extensions SS Seated Curls</b></summary>
+<summary><b>Single-Arm Pulldowns SS Seated Curls:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -139,7 +128,6 @@ Try increase (even by the smallest amount) the weight you did last week for the 
   </video>
 </figure>
 
-(Pulldown)
 - Amazing exercise for building that outer head and increasing arm thickness
 
 - Tip is to stand right in the centre of the cable and extend outwards at an angle
@@ -171,7 +159,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 </details>
 
 <details>
-<summary><b>Close-grip Pullups</b></summary>
+<summary><b>CG Pull-ups:</b></summary
 
 <figure class="video_container">
   <video controls={true}>

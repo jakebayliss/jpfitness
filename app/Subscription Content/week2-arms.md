@@ -7,16 +7,7 @@ previousPage: 'week2-welcome'
 --- 
 
 <details>
-<summary><b>Notes</b></summary>
-
-This week's arm day is similar to last week's with minor modifications. We're still targeting bi's and tri's but this time we're including isolated single arm preacher curls as well as single arm tricep extensions. The preachers are amazing for increasing specifically your bicep height and thus arm size, while the single arm extensions target that outer (and most visible) tricep head. 
-
-Try increase (even by the smallest amount) the weight you did last week for the core movements. I understand it may be too early but perhaps your form is better this time round and the movements feel more natural. If so, chuck some hype music on and bump that shit up!!!! 
-
-</details>
-
-<details>
-<summary><b>21's Superset</b></summary>
+<summary><b>21's Superset:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -49,7 +40,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 </details>
 
 <details>
-<summary><b>Dips SS Hammer Curls</b></summary>
+<summary><b>Dips SS Hammer Curls:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -90,7 +81,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 </details>
 
 <details>
-<summary><b>V-Bar pulldowns SS CG Curls</b></summary>
+<summary><b>V-Bar pulldowns SS CG Curls:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -131,7 +122,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 
 
 <details>
-<summary><b>Single Arm Extensions SS Seated Curls</b></summary>
+<summary><b>Single Arm Extensions SS Seated Curls:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -171,7 +162,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 </details>
 
 <details>
-<summary><b>Close-grip Pullups</b></summary>
+<summary><b>Close-grip Pullups:</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

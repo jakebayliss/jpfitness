@@ -1,21 +1,13 @@
 ---
 title: "Legs"
 order: 1
-week: 2
-nextPage: 'week2-shoulders'
-previousPage: 'week2-chest-and-back'
+week: 4
+nextPage: 'week4-shoulders'
+previousPage: 'week4-chest-and-back'
 ---
 
 <details>
-<summary><b>Notes</b></summary
-
-Week 2 leg day - time to throw on some size. Legs are such an important muscle group and have amazing fundamental exercises that do need to be repeated. Remember, if you're following my program exactly then proceed with the lunges and bodyweight squats superset - if you are comfortable squatting with weight then sub out my lunges routine and add in squats instead - this is completely up to you and your ability!
-
-</details>
-
-<details>
-<summary><b>Lunges SS Free-weight Squats</b></summary
-
+<summary><b>Lunges SS Free-Weight Squats:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -33,12 +25,11 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 
 - I like to do ~14kg each arm, 10 reps each leg
 
-
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/06cfac63-a57e-4ed6-8c0f-6798c54da65a" type="video/mp4">
   </video>
-</figure>
+</figure> 
 
 - Feet shoulder width apart, bend your hips and knees simultaneously
 
@@ -49,30 +40,7 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 </details>
 
 <details>
-<summary><b>Leg Press SS Calf Raises</b></summary
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/22f8f9ed-ecfd-45f9-955c-30b4ba0874ea" type="video/mp4">
-  </video>
-</figure>
-
-- Back rest position is once again key - I like to have it configured so, when resting on the press, my legs are slightly bent (as in the video)
-
-- This enables me to comfortably push off the safety holders and gives a nice smooth full range of motion during the set
-
-- Don't go too heavy if it's your first time doing leg press - start off with no weight to get used to the machine and the safety mechanism then start to stack up weight as you see fit!
-
-- If you're properly positioned (as above) then once you lock the machine back in its starting position you can begin calf raises without any adjustments
-
-- This is great because you don't need to disengage the safety to do calf raises now!
-
-- I typically leg press x3 20kg plates either side and calf raise the same!
-
-</details>
-
-<details>
-<summary><b>Lateral Lunges</b></summary
+<summary><b>Lateral Lunges:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -99,7 +67,30 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 </details>
 
 <details>
-<summary><b>Straight Leg Deadlift</b></summary
+<summary><b>Leg Press SS Calf Raises:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/22f8f9ed-ecfd-45f9-955c-30b4ba0874ea" type="video/mp4">
+  </video>
+</figure>
+
+- Back rest position is once again key - I like to have it configured so, when resting on the press, my legs are slightly bent (as in the video)
+
+- This enables me to comfortably push off the safety holders and gives a nice smooth full range of motion during the set
+
+- Don't go too heavy if it's your first time doing leg press - start off with no weight to get used to the machine and the safety mechanism then start to stack up weight as you see fit!
+
+- If you're properly positioned (as above) then once you lock the machine back in its starting position you can begin calf raises without any adjustments
+  
+- This is great because you don't need to disengage the safety to do calf raises now!
+
+- I typically leg press x3 20kg plates either side and calf raise the same!
+
+</details>
+
+<details>
+<summary><b>Straight-Leg Deadlifts:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -126,7 +117,7 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 </details>
 
 <details>
-<summary><b>Leg Extension Machine</b></summary
+<summary><b>Leg Extension Machine:</b></summary
 
 <figure class="video_container">
   <video controls={true}>

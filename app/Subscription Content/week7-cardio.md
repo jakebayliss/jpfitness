@@ -1,35 +1,15 @@
 ---
 title: "Cardio & Extras"
-pageNumber: 3
-week: 1
-nextPage: 'week2-welcome'
-previousPage: 'week1-shoulders'
+order: 1
+week: 7
+nextPage: 'week8-welcome'
+previousPage: 'week7-shoulders'
 ---
-<details>
-<summary><b>Notes</b></summary
-
-Well here we are, the end of the week and some people's worst enemy. Don't worry, we're in this boat together - I'm not a fan of MOST versions of cardio. I can tolerate ones that are social, fitness mixed in with an activity, a sport etc.
-
-Firstly I would highly recommend signing up to a local sports team, maybe indoor soccer, basketball or local touch rugby team. These are essentially 'free' cardio because it requires minimal motivation on your end, much less than trying to convince yourself to go on a 30 minute run.
-
-If this isn't possible or it's not your thing I would then say sign up to a local lap pool. It's insanely good for every part of you - breathing, heart-rate, muscle definition, muscle building, weight loss - you name it. Also, for someone who's weary about knee health in old age like myself it's much less taxing on your bones/body than running on concrete for an hour.
-
-Fitness classes are next on my list. Recently, I've been attending Barry's Bootcamp classes here and there and they're insanely good. Like I said with playing sport, it's essentially a 'free' workout because you don't have to motivate yourself (you have a professional trainer yelling at you through a mic for that exact reason!!). If you've signed up/have access to a fitness class then you can sub out the 'Outdoor Jogging' sessions with Fitness Class sessions instead! However, I understand these aren't possible for some people for a variety of reasons hence this is only an option!
-
-Not cardio related but definitely classified as 'other' or 'non-gym'. Recently I've been doing 30-45 minute Pilates classes once/twice a week on Youtube. I find this great for a switch up from my normal routine, also it's fantastic for flexibility, muscle tone (particularly core muscles), muscular control etc - the list goes on!
-
-Hiking and walking aren't as strenuous but are certainly good for the health, and your mental health.
-
-A great addition is also a HIIT (High Intensity Interval Training) park workout. You get to work out outside, ramp up your heart rate and burn body fat all while in a beautiful park/location!
-
-As the weeks progress we will explore all these options together - how exciting!
-
-On Cardio day I'm going to make suggestions based on what I do but I completely understand that not everyone has the same access to facilities as I do (swimming pool, fitness classes etc). Thus, unlike the other days of the program, you do not need to follow this section exactly. If you don't like swimming or aren't signed up to a pool, or if you don't want to fork out money for a fitness class then you don't have to - there are plenty of alternative options available (as listed above). Something as simple as a 30 minute run or long hike with friends will do the same trick (depending on your fitness goals).
-
-</details>
 
 <details>
-<summary><b>Week 1: Swim</b></summary>
+<summary><b>Week 7: Swim</b></summary
+
+Aaaaaand we're back in the pool! Try and jump up a tier of workout difficulty. So if you've been sticking to the easy one hit the intermediate (same if you've been playing it safe with intermediate). It'll be considerably harder but you'll be feeling so fkn good walking away from the pool afterwards!
 
 Tips
 
@@ -120,9 +100,9 @@ Cool down:
 - Swim 6 lengths at a relaxed pace to finish
 
 </details>
-  
+
 <details>
-<summary><b>Alternatives</b></summary>
+<summary><b>Alternatives:</b></summary
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 
@@ -157,6 +137,7 @@ Cooldown:
 - Static stretching for major muscle groups (quads, hamstrings, calves, etc.) for 5-7 minutes.
 
 - Aim for a total workout time of 30-45 mins
+
 
 HIIT Workout:
 
@@ -203,3 +184,5 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
+
+</details>

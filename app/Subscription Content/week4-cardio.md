@@ -1,25 +1,42 @@
 ---
 title: "Cardio & Extras"
 order: 1
-week: 2
-nextPage: 'week3-welcome'
-previousPage: 'week2-shoulders'
+week: 4
+nextPage: 'week5-welcome'
+previousPage: 'week4-shoulders'
 ---
+
 <details>
-<summary><b>Notes</b></summary>
+<summary><b>Week 4: Outdoor Jogging</b></summary
 
-My cardio recommendations don't change week to week - you just need to hold yourself accountable and make sure you're completing SOME form of cardio. I don't mind how you choose to do so, it could be a hike with friends, the stair machine at the gym, laps of a pool or a local sport - it's entirely up to you.
+Warm-up:
 
-Last week we focussed on swimming, this week the main event is a park (or similar environment) HIIT workout. I understand that some of you may have done this workout last week as you opted for it instead of the swim. If so, feel free to switch it up (to one of the listed alternatives below) or to repeat the same workout. There's certainly no harm in doing the same HIIT workout twice - its list of benefits are endless so go for gold!!!
+- Light dynamic stretching (leg swings, arm circles, etc.) for 5-7 minutes while walking
+  
+Main Workout:
 
-Unlike last week none of you should have a valid excuse to skip this one ;)
+- Jog at a steady pace for 30 minutes.
 
-Let's get into it!!
+- At the 10 minute mark, jog slightly faster for 2 minutes (about a 10% increase in speed)
+
+- Recover by relaxing with 1 minute of easy-paced recovery jogging
+  
+- At the 20 minute mark, repeat the fast jog for 2 minutes with a 1 minut recovery after
+   
+Cooldown:
+
+- Slow jog or brisk walk for 5 minutes.
+  
+- Static stretching for major muscle groups (quads, hamstrings, calves, etc.) for 5-7 minutes.
+
+- Aim for a total workout time of 30-45 mins
 
 </details>
 
 <details>
-<summary><b>Week 2: HIIT Workout</b></summary>
+<summary><b>Alternatives:</b></summary
+
+HIIT Class:
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 
@@ -64,11 +81,6 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
-
-</details>
-
-<details>
-<summary><b>Alternatives</b></summary>
 
 Swim:
 
@@ -160,6 +172,7 @@ Cool down:
 
 - Swim 6 lengths at a relaxed pace to finish
 
+
 Online Pilates:
 
 - I recommend Move With Nicole on Youtube:
@@ -167,29 +180,5 @@ Online Pilates:
 - [MoveWithNicole](https://www.youtube.com/@MoveWithNicole)
 
 - She has great workouts for the whole body, legs, abs, upper body, lower body and stretching - I like to try incorporate minimum one workout per week
-
-Outdoor Jogging:
-
-Warm-up:
-
-- Light dynamic stretching (leg swings, arm circles, etc.) for 5-7 minutes while walking
-  
-Main Workout:
-
-- Jog at a steady pace for 30 minutes.
-
-- At the 10 minute mark, jog slightly faster for 2 minutes (about a 10% increase in speed)
-
-- Recover by relaxing with 1 minute of easy-paced recovery jogging
-  
-- At the 20 minute mark, repeat the fast jog for 2 minutes with a 1 minut recovery after
-   
-Cooldown:
-
-- Slow jog or brisk walk for 5 minutes.
-  
-- Static stretching for major muscle groups (quads, hamstrings, calves, etc.) for 5-7 minutes.
-
-- Aim for a total workout time of 30-45 mins
 
 </details>

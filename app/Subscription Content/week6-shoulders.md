@@ -1,20 +1,12 @@
 ---
 title: "Shoulders"
 order: 1
-week: 2
-nextPage: 'week2-cardio'
-previousPage: 'week2-legs'
+week: 6
+nextPage: 'week6-cardio'
+previousPage: 'week6-legs'
 ---
-
 <details>
-<summary><b>Notes</b></summary
-
-Compared to Week 1 shoulders we're including a couple of different exercise variations. One of them being seated Smith Machine press - which is one of my long-term favourite shoulder exercises. It's so good to do at the end of your session because of the rigidness of the Smith Machines movement it isolates and really targets your front shoulder head - giving you a fkn massive pump and unreal burn. 
-
-</details>
-
-<details>
-<summary><b>DB Press</b></summary
+<summary><b>DB Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -35,7 +27,28 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 </details>
 
 <details>
-<summary><b>Cable Lateral Raises</b></summary
+<summary><b>Front & Side Head SS:</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/245d6990-2b83-4610-bf6f-a7307cf5fbad" type="video/mp4">
+  </video>
+</figure>
+
+- My favourite superset of shoulder day
+
+- Lateral raises: Pull up with your elbows, lock your arm angle as shown in the tutorial video, bring the dumbbells up to shoulder height but don't overextend
+
+- Strong legs as a foundation for a great exercise
+
+- Front raises: Slow and controlled movement, arms slightly angled, bring plate to at least head height if not higher - don't sway your movements, pull with your front delts
+
+- I rep 12kg for lateral raises and typically do front raises with a 20kg plate
+
+</details>
+
+<details>
+<summary><b>Cable Lateral Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -54,27 +67,6 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 - Hold at the top slightly then slowly lower back down to resting position, repeat for sets of 8-12!
 
 - I rep ~peg 3 on the cable machine, so approximately 10kg at my gym
-
-</details>
-
-<details>
-<summary><b>Front & Side Head SS</b></summary
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/245d6990-2b83-4610-bf6f-a7307cf5fbad" type="video/mp4">
-  </video>
-</figure>
-
-- My favourite superset of shoulder day
-
-- Lateral raises: Pull up with your elbows, lock your arm angle as shown in the tutorial video, bring the dumbbells up to shoulder height but don't overextend
-
-- Strong legs as a foundation for a great exercise
-
-- Front raises: Slow and controlled movement, arms slightly angled, bring plate to at least head height if not higher - don't sway your movements, pull with your front delts
-
-- I rep 12kg for lateral raises and typically do front raises with a 20kg plate
 
 </details>
 
@@ -104,7 +96,7 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 </details>
 
 <details>
-<summary><b>Smith Machine Press</b></summary
+<summary><b>Smith Machine Press:</b></summary
 
 <figure class="video_container">
   <video controls={true}>

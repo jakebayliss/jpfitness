@@ -1,35 +1,22 @@
 ---
 title: "Cardio & Extras"
-pageNumber: 3
-week: 1
-nextPage: 'week2-welcome'
-previousPage: 'week1-shoulders'
+order: 1
+week: 5
+nextPage: 'week6-welcome'
+previousPage: 'week5-shoulders'
 ---
-<details>
-<summary><b>Notes</b></summary
-
-Well here we are, the end of the week and some people's worst enemy. Don't worry, we're in this boat together - I'm not a fan of MOST versions of cardio. I can tolerate ones that are social, fitness mixed in with an activity, a sport etc.
-
-Firstly I would highly recommend signing up to a local sports team, maybe indoor soccer, basketball or local touch rugby team. These are essentially 'free' cardio because it requires minimal motivation on your end, much less than trying to convince yourself to go on a 30 minute run.
-
-If this isn't possible or it's not your thing I would then say sign up to a local lap pool. It's insanely good for every part of you - breathing, heart-rate, muscle definition, muscle building, weight loss - you name it. Also, for someone who's weary about knee health in old age like myself it's much less taxing on your bones/body than running on concrete for an hour.
-
-Fitness classes are next on my list. Recently, I've been attending Barry's Bootcamp classes here and there and they're insanely good. Like I said with playing sport, it's essentially a 'free' workout because you don't have to motivate yourself (you have a professional trainer yelling at you through a mic for that exact reason!!). If you've signed up/have access to a fitness class then you can sub out the 'Outdoor Jogging' sessions with Fitness Class sessions instead! However, I understand these aren't possible for some people for a variety of reasons hence this is only an option!
-
-Not cardio related but definitely classified as 'other' or 'non-gym'. Recently I've been doing 30-45 minute Pilates classes once/twice a week on Youtube. I find this great for a switch up from my normal routine, also it's fantastic for flexibility, muscle tone (particularly core muscles), muscular control etc - the list goes on!
-
-Hiking and walking aren't as strenuous but are certainly good for the health, and your mental health.
-
-A great addition is also a HIIT (High Intensity Interval Training) park workout. You get to work out outside, ramp up your heart rate and burn body fat all while in a beautiful park/location!
-
-As the weeks progress we will explore all these options together - how exciting!
-
-On Cardio day I'm going to make suggestions based on what I do but I completely understand that not everyone has the same access to facilities as I do (swimming pool, fitness classes etc). Thus, unlike the other days of the program, you do not need to follow this section exactly. If you don't like swimming or aren't signed up to a pool, or if you don't want to fork out money for a fitness class then you don't have to - there are plenty of alternative options available (as listed above). Something as simple as a 30 minute run or long hike with friends will do the same trick (depending on your fitness goals).
-
-</details>
 
 <details>
-<summary><b>Week 1: Swim</b></summary>
+<summary><b>Week 5: Swim</b></summary
+
+As you can see in the title this week we're back around to our swim. As always, there are alternatives below if you don't have access to a pool/don't want to swim!
+
+If you're swimming this week then I want you to think back to Week 1. How hard was the workout that you chose? If you went easy was it too easy? If you went intermediate was it to easy? If so, I want you to push yourself and do the harder version of the workout (if possible). If you found the easy one hard then that's fine, it takes a while to build up your swimming stamina. As long as you're doing your best to push your body and get your heart rate up then I'm both happy for you and proud of you! 
+
+- Again, this is not professional fitness advice it's simply what I typically do for cardio and it works for me! An obvious disclaimer is that if you are not a confident swimmer, or can't swim, then please do one of the alternative workouts provided. I would personally classify a confident swimmer as someone who can swim freestyle for 100m without stopping.
+
+- As with week 1, I've provided 3 different swimming workouts (easy, intermediate and hard). Feel free to choose which ever will be good for you. If you've never swam for fitness before then please start with the easy workout and work your way up to more difficult ones as the program progresses (as you repeat it). If you're a strong swimmer then please proceed with either the intermediate or hard workout!! 
+
 
 Tips
 
@@ -44,6 +31,7 @@ Tips
 - Breathe when your arm is 'recovering' out of the water, so quickly rotate your head for a breath as the arm on that side is out of the water
 
 - Look down and slightly forward and kick with your toes pointed! 
+
 
 Easy Swim Workout:
 
@@ -120,9 +108,9 @@ Cool down:
 - Swim 6 lengths at a relaxed pace to finish
 
 </details>
-  
+
 <details>
-<summary><b>Alternatives</b></summary>
+<summary><b>Alternatives:</b></summary
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 
@@ -203,3 +191,5 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
+
+</details>

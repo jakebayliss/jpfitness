@@ -7,14 +7,7 @@ previousPage: 'week2-chest-and-back'
 ---
 
 <details>
-<summary><b>Notes</b></summary
-
-Week 2 leg day - time to throw on some size. Legs are such an important muscle group and have amazing fundamental exercises that do need to be repeated. Remember, if you're following my program exactly then proceed with the lunges and bodyweight squats superset - if you are comfortable squatting with weight then sub out my lunges routine and add in squats instead - this is completely up to you and your ability!
-
-</details>
-
-<details>
-<summary><b>Lunges SS Free-weight Squats</b></summary
+<summary><b>Lunges SS Free-weight Squats:</b></summary
 
 
 <figure class="video_container">
@@ -49,7 +42,7 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 </details>
 
 <details>
-<summary><b>Leg Press SS Calf Raises</b></summary
+<summary><b>Leg Press SS Calf Raises:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -72,7 +65,7 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 </details>
 
 <details>
-<summary><b>Lateral Lunges</b></summary
+<summary><b>Lateral Lunges:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -99,7 +92,7 @@ Week 2 leg day - time to throw on some size. Legs are such an important muscle g
 </details>
 
 <details>
-<summary><b>Straight Leg Deadlift</b></summary
+<summary><b>Straight Leg Deadlift:</b></summary
 
 <figure class="video_container">
   <video controls={true}>
