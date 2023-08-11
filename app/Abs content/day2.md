@@ -14,6 +14,12 @@ As with Day 1, it's a continuous circuit - you do the first exercise, then the n
 <details>
 <summary><b>Bicycle Kicks</b></summary>
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/f24664ed-717c-49a8-adaa-1b9d9a27a8d4" type="video/mp4">
+  </video>
+</figure>
+
 - Start lying flat on the ground, raise both legs off the ground and engage your core so your head is also off the ground, supported by your hands behind your head
 
 - Bring one knee in to your chest and simultaneously bring your opposite elbow in to touch that knee (as in the video)
@@ -28,6 +34,12 @@ As with Day 1, it's a continuous circuit - you do the first exercise, then the n
 
 <details>
 <summary><b>Oblique Planks</b></summary>
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/2540ad81-5c46-4363-b262-f9ce7e670a12" type="video/mp4">
+  </video>
+</figure>
 
 - Start in a plank position - basically a push up but on your elbows 
 
@@ -46,6 +58,12 @@ As with Day 1, it's a continuous circuit - you do the first exercise, then the n
 <details>
 <summary><b>Side-plank Thrusts</b></summary>
 
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/4faa6ea0-3612-46c1-9d52-567b0c18e591" type="video/mp4">
+  </video>
+</figure>
+
 - Begin lying on your side, supporting your bodyweight with your elbow
 
 - Ensure your back is straight and your body forms a straight line from your head to the toes
@@ -62,6 +80,12 @@ As with Day 1, it's a continuous circuit - you do the first exercise, then the n
 
 <details>
 <summary><b>Alternating Toe-Taps</b></summary>
+
+<figure class="video_container">
+  <video controls="true">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/1b2d35d9-6a28-402a-b602-e47cfd55ca83" type="video/mp4">
+  </video>
+</figure>
 
 - These are a killer finisher to our rotation
 
