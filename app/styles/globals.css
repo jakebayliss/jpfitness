@@ -8,7 +8,7 @@
   --background-end-rgb: 255, 255, 255;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
@@ -17,13 +17,7 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: #EFF2FF;
 }
 
 .burger::before, .burger::after {
@@ -62,4 +56,24 @@ body {
 .mobile-nav.open {
   transform: translateX(0%);
   transition: 0.3s ease-in-out transform;
+}
+
+details {
+  padding: 16px;
+  background-color: white;
+  border-radius: 6px;
+  margin: 4px;
+}
+
+summary {
+  color: #8497EB;
+  font-size: 20px;
+}
+
+.page-title {
+  background-color: #8497EB;
+}
+
+ul {
+  padding-left: 8px !important;
 }
