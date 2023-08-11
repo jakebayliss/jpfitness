@@ -44,7 +44,7 @@ As with Day 1, it's a continuous circuit - you do the first exercise, then the n
 </details>
 
 <details>
-<summary><b>Side-plank Thrusts:</b></summary>
+<summary><b>Side-plank Thrusts</b></summary>
 
 - Begin lying on your side, supporting your bodyweight with your elbow
 

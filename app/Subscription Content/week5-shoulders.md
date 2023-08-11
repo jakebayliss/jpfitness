@@ -6,7 +6,7 @@ previousPage: 'week5-legs'
 ---
 
 <details>
-<summary><b>DB Press:</b></summary
+<summary><b>DB Press</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -29,7 +29,7 @@ previousPage: 'week5-legs'
 </details>
 
 <details>
-<summary><b>Arnie Press:</b></summary
+<summary><b>Arnie Press</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -52,7 +52,7 @@ previousPage: 'week5-legs'
 </details>
 
 <details>
-<summary><b>Front & Side Head SS:</b></summary
+<summary><b>Front & Side Head SS</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -71,7 +71,7 @@ previousPage: 'week5-legs'
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
 
 <details>
-<summary><b>Standind Press:</b></summary
+<summary><b>Standind Press</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -94,7 +94,7 @@ previousPage: 'week5-legs'
 </details>
 
 <details>
-<summary><b>Shoulder Machine:</b></summary
+<summary><b>Shoulder Machine</b></summary
 
 <figure class="video_container">
   <video controls={true}>

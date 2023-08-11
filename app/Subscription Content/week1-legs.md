@@ -43,7 +43,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Extensions:</b></summary
+<summary><b>Leg Extensions</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -64,7 +64,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Press SS Calf Raises:</b></summary
+<summary><b>Leg Press SS Calf Raises</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -87,7 +87,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Hamstring Machine:</b></summary
+<summary><b>Hamstring Machine</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -106,7 +106,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Extension Machine:</b></summary
+<summary><b>Leg Extension Machine</b></summary
 
 <figure class="video_container">
   <video controls={true}>

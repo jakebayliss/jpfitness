@@ -79,7 +79,7 @@ Compared to Week 1 shoulders we're including a couple of different exercise vari
 </details>
 
 <details>
-<summary><b>Face-Pulls:</b></summary
+<summary><b>Face-Pulls</b></summary
 
 <figure class="video_container">
   <video controls={true}>

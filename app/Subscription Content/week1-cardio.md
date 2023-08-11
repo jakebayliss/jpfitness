@@ -117,7 +117,7 @@ Cool down:
 </details>
   
 <details>
-<summary><b>Alternatives:</b></summary>
+<summary><b>Alternatives</b></summary>
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 

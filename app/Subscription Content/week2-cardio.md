@@ -63,7 +63,7 @@ Cool-down:
 </details>
 
 <details>
-<summary><b>Alternatives:</b></summary>
+<summary><b>Alternatives</b></summary>
 
 Swim:
 

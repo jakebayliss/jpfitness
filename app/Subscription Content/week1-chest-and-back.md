@@ -11,7 +11,7 @@ Day two!!!!! You got this babyy. As with Day 1, start by watching and listening 
 I'm using this program to fill out my Chest & Back. I love the look of a full chest and a naturally great back that looks good when you're walking around shirtless without tensing - so that's what this day is designed to achieve. Again, I like to keep the workouts high intensity - so short and sweet (warning, our pump today is gunna be outrageously good). As previously mentioned, I'd love to be deadlifting today but unfortunately can't - feel free to sub one back exercise out for deads if you love them!
 
 <details>
-<summary><b>Incline DB Press:</b></summary>
+<summary><b>Incline DB Press</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -34,7 +34,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>Incline flys:</b></summary
+<summary><b>Incline flys</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -53,7 +53,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>T-bar Rows:</b></summary
+<summary><b>T-bar Rows</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -72,7 +72,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>Cables up & down:</b></summary
+<summary><b>Cables up & down</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -111,7 +111,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 - I do 10.5kg for 8 reps in this direction
 
 <details>
-<summary><b>Lat Pulldowns:</b></summary
+<summary><b>Lat Pulldowns</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -130,7 +130,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>Bench:</b></summary
+<summary><b>Bench</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -149,7 +149,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>Pull-ups:</b></summary
+<summary><b>Pull-ups</b></summary
 
 <figure class="video_container">
   <video controls={true}>

@@ -7,7 +7,7 @@ previousPage: 'week3-legs'
 ---
 
 <details>
-<summary><b>Standing Press:</b></summary
+<summary><b>Standing Press</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -32,7 +32,7 @@ previousPage: 'week3-legs'
 </details>
 
 <details>
-<summary><b>Front & Side Head SS:</b></summary
+<summary><b>Front & Side Head SS</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -53,7 +53,7 @@ previousPage: 'week3-legs'
 </details>
 
 <details>
-<summary><b>DB Press:</b></summary
+<summary><b>DB Press</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -74,7 +74,7 @@ previousPage: 'week3-legs'
 </details>
 
 <details>
-<summary><b>Shoulder Machine:</b></summary
+<summary><b>Shoulder Machine</b></summary
 
 <figure class="video_container">
   <video controls={true}>
@@ -91,7 +91,7 @@ previousPage: 'week3-legs'
 </details>
 
 <details>
-<summary><b>Arnie Press:</b></summary
+<summary><b>Arnie Press</b></summary
 
 <figure class="video_container">
   <video controls={true}>

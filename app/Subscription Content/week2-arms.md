@@ -7,7 +7,7 @@ previousPage: 'week2-welcome'
 --- 
 
 <details>
-<summary><b>21's Superset:</b></summary>
+<summary><b>21's Superset</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -40,7 +40,7 @@ previousPage: 'week2-welcome'
 </details>
 
 <details>
-<summary><b>Dips SS Hammer Curls:</b></summary>
+<summary><b>Dips SS Hammer Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -81,7 +81,7 @@ previousPage: 'week2-welcome'
 </details>
 
 <details>
-<summary><b>V-Bar pulldowns SS CG Curls:</b></summary>
+<summary><b>V-Bar pulldowns SS CG Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -122,7 +122,7 @@ previousPage: 'week2-welcome'
 
 
 <details>
-<summary><b>Single Arm Extensions SS Seated Curls:</b></summary>
+<summary><b>Single Arm Extensions SS Seated Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -162,7 +162,7 @@ previousPage: 'week2-welcome'
 </details>
 
 <details>
-<summary><b>Close-grip Pullups:</b></summary>
+<summary><b>Close-grip Pullups</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

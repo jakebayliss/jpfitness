@@ -29,7 +29,7 @@ Week 3's Day 5 is centred around Pilates! It has countless benefits and you leav
 
 
 <details>
-<summary><b>Alternatives:</b></summary
+<summary><b>Alternatives</b></summary
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 

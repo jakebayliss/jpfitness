@@ -7,7 +7,7 @@ previousPage: 'week2-arms'
 ---
 
 <details>
-<summary><b>Incline DB Press:</b></summary>
+<summary><b>Incline DB Press</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -30,7 +30,7 @@ previousPage: 'week2-arms'
 </details>
 
 <details>
-<summary><b>T-bar Rows:</b></summary>
+<summary><b>T-bar Rows</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -49,7 +49,7 @@ previousPage: 'week2-arms'
 </details>
 
 <details>
-<summary><b>Flat DB SS Dumbbell Burners:</b></summary>
+<summary><b>Flat DB SS Dumbbell Burners</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -70,7 +70,7 @@ previousPage: 'week2-arms'
 </details>
 
 <details>
-<summary><b>Cables (Up & Down):</b></summary>
+<summary><b>Cables (Up & Down)</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -109,7 +109,7 @@ previousPage: 'week2-arms'
 </details>
 
 <details>
-<summary><b>Row Machine:</b></summary>
+<summary><b>Row Machine</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -128,7 +128,7 @@ previousPage: 'week2-arms'
 </details>
 
 <details>
-<summary><b>Bench:</b></summary>
+<summary><b>Bench</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -147,7 +147,7 @@ previousPage: 'week2-arms'
 </details>
 
 <details>
-<summary><b>Pull-ups:</b></summary>
+<summary><b>Pull-ups</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
