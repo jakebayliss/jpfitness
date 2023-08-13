@@ -27,6 +27,7 @@ namespace FunctionApp
 			var json = await req.ReadAsStringAsync();
 			var request = JsonSerializer.Deserialize<User>(json);
             var result = await _mediator.Send(request);
+			
 			var response = req.CreateResponse(HttpStatusCode.OK);
 
             return response;
