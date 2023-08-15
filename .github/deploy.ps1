@@ -31,14 +31,14 @@ $parameters | ConvertTo-Json -Depth 100 | Out-File ./azuredeploy.parameters.json
 
 Write-Host "Running What-If on bicep"
 az deployment group what-if `
-  --template-file .\bicep\azuredeploy.bicep `
+  --template-file .\.github\bicep\azuredeploy.bicep `
   -g $resourceGroup `
   --parameters '@azuredeploy.parameters.json'
 
 if ($deploy -eq $true) {
   Write-Host "Deploying bicep"
   $output = (az deployment group create `
-    --template-file .\bicep\azuredeploy.bicep `
+    --template-file .\.github\bicep\azuredeploy.bicep `
     -g $resourceGroup `
     --name "$($deploymentName)" `
     --mode Incremental `
