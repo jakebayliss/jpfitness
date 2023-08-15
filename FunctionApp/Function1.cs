@@ -1,5 +1,6 @@
 using System.Net;
 using System.Text.Json;
+using Application.Users.Commands.AddUser;
 using Domain.Entities;
 using MediatR;
 using Microsoft.Azure.Functions.Worker;
@@ -20,12 +21,12 @@ namespace FunctionApp
 		}
 
 		[Function("Function1")]
-        public async Task<HttpResponseData> Run([HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequestData req)
+        public async Task<HttpResponseData> Run([HttpTrigger(AuthorizationLevel.Function, "post")] HttpRequestData req)
         {
             _logger.LogInformation("C# HTTP trigger function processed a request.");
 
 			var json = await req.ReadAsStringAsync();
-			var request = JsonSerializer.Deserialize<User>(json);
+			var request = JsonSerializer.Deserialize<AddUserCommand>(json);
             var result = await _mediator.Send(request);
 			
 			var response = req.CreateResponse(HttpStatusCode.OK);
