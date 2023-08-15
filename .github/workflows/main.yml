@@ -1,0 +1,95 @@
+name: Main
+
+on:
+  push:
+    branches: [ main ]
+
+env:
+  DOTNET_VERSION: 7.0.x
+  NODE_VERSION: 14.x
+  resourceGroup: jpfitness
+
+jobs:
+  buildIAC:
+    runs-on: windows-latest
+    name: 'Build IAC'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Azure Login
+        uses: Azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+          enable-AzPSSession: true
+
+      - name: Build Bicep
+        shell: pwsh
+        run: .github/build.ps1
+        
+      - name: Bicep What-If
+        shell: pwsh
+        run: .github/deploy.ps1 -resourceGroup '${{ env.resourceGroup }}' -sqlAdministratorLoginPassword ${{ secrets.SQLADMINPASSWORD }}
+      
+      - name: Clean Bicep
+        shell: pwsh
+        run: .github/clean.ps1
+  
+  buildApi:
+    runs-on: windows-latest
+    name: 'Build Api'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup DotNet - ${{ env.DOTNET_VERSION }}
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Build Api
+        shell: pwsh
+        run: |
+          pushd './.'
+          dotnet build --configuration Release --output ./api
+          popd
+      
+      - name: Upload Artifact - Api
+        uses: actions/upload-artifact@v3
+        with:
+          name: api
+          path: ./api
+          if-no-files-found: error
+
+  deployDev:
+    runs-on: windows-latest
+    name: 'Deploy'
+    needs: [buildIAC,buildApi]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Azure Login
+        uses: Azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+          enable-AzPSSession: true
+
+      - name: Bicep Deploy
+        shell: pwsh
+        run: .github/deploy.ps1 -resourceGroup '${{ env.resourceGroup }}' -sqlAdministratorLoginPassword ${{ secrets.SQLADMINPASSWORD }} -deploy
+
+      - name: Download Artifact - Api
+        uses: actions/download-artifact@v3
+        with:
+          name: api
+
+      - name: ls
+        shell: pwsh
+        run: ls
+      
+      - name: Deploy Api
+        uses: azure/webapps-deploy@v2
+        with: 
+          app-name: ${{ env.resourceGroup }}-api
+          package: .
