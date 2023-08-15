@@ -7,7 +7,8 @@ namespace Infrastructure.Persistence;
 
 public class ApplicationDbContext : DbContext, IApplicationDbContext
 {
-    public ApplicationDbContext(
+	public ApplicationDbContext() { } 
+	public ApplicationDbContext(
         DbContextOptions<ApplicationDbContext> options)
         : base(options)
     {
@@ -21,4 +22,11 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
 
         base.OnModelCreating(builder);
     }
+
+	protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+	{
+		optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=jpfitness;Trusted_Connection=True;MultipleActiveResultSets=true;");
+		
+		base.OnConfiguring(optionsBuilder);
+	}
 }
