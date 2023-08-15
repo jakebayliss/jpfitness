@@ -2,7 +2,7 @@
 title: "Chest & Back"
 order: 1
 week: 6
-nextPage: 'week6-legs'
+nextPage: 'week6-legs-and-abs'
 previousPage: 'week6-arms'
 ---
 

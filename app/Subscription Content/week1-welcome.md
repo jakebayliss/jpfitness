@@ -2,11 +2,11 @@
 title: "Welcome"
 week: 1
 pageNumber: 1
-nextPage: 'week1-arms'
+nextPage: 'week1-arms-and-abs'
 ---
 
 # Welcome - Week 1
-WELCOME!!!! Thanks for making the amazing decision to subscribe to my fitness program! The main thing I need to warn all you guys of is that this is not professional fitness advice, I don't have any personal training/fitness instructor courses under my belt - this is simply my best advice based entirely off what has worked for me for multiple years now. Also, I have a pretty bad lower back, it pops out nearly every single time I do any kind of weighted squats or any deadlifts heavier than ~20kg so therefore I've adapted my regime to not include either of those exercises, and to be extremely careful with my form on particular back exercises/when picking up heavy weights. The majority of you won't have such a problem so feel free to add in squats & deadlifts as you see fit on their respective days.
+WELCOME!!!! Thanks for making the amazing decision to subscribe to my fitness program! The main thing I need to warn all you guys of is that this is not professional fitness advice, I don't have any personal training/fitness instructor courses under my belt - this is simply my best advice based entirely off what has worked for me for multiple years now. Also, I have a pretty bad lower back, it pops out nearly every single time I do any kind of weighted squats or any deadlifts heavier than ~20kg so therefore I've adapted my regime to not include either of those exercises, and to be extremely careful with my form on particular back exercises/when picking up heavy weights. The majority of you won't have such a problem so feel free to add in squats & deadlifts as you see fit on their respective days. 
 
 This program is designed specifically for lean muscle gain. The number of repititions I do are for muslce gain, while the cardio day along with multiple ab routines per week are to stay lean. This is not a bulking program nor a cutting program. The overall program duration is 8 weeks - every week has similar fundamental movements as these are key to overall grains - the weekly splits are different only via the minor, targeted exercises. Week 1's general workout theme is repeated in week 3, 5 and 7. Week 2's is repeated in weeks 4, 6 and 8.
 

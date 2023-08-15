@@ -2,7 +2,7 @@
 title: "Welcome"
 order: 1
 week: 4
-nextPage: 'week4-arms'
+nextPage: 'week4-arms-and-abs'
 previousPage: 'week3-cardio'
 ---
 You know the drill...IT'S WEEK 4 AND TIME TO GRIND 

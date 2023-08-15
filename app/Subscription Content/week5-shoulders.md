@@ -2,7 +2,7 @@
 title: "Shoulders"
 week: 5
 nextPage: 'week5-cardio'
-previousPage: 'week5-legs'
+previousPage: 'week5-legs-and-abs'
 ---
 
 <details>

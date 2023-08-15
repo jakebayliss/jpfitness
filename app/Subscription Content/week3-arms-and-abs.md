@@ -1,5 +1,5 @@
 ---
-title: "Arms"
+title: "Arms & Abs"
 order: 1
 week: 3
 nextPage: 'week3-chest-and-back'
@@ -71,35 +71,6 @@ previousPage: 'week3-welcome'
 - Currently on 16kg for 8 reps each arm
 
 </details>
-
-
-<details>
-<summary><b>Incline Bench Curls</b></summary
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/c2b7af0d-61fa-4786-971c-a21ee8eb86da" type="video/mp4">
-  </video>
-</figure>
-
-- Start with arms vertical, slowly curl upwards until you're at the natural 'top' of the rep as in video, slow release back down
-
-- Also great to pair with a chest exercise if you want a sneaky arm pump on chest day
-
-- Slow and controlled is key
-
-- Do less weight than you would normally curl, these are targeted and harder
-
-- Lock your elbows into the bench to establish a good pivot point for your arm
-
-- Roll shoulders back to isolate those biceps
-
-- Keep your upper arm as vertical as you can
-
-- I use 10-12kg dumbbells for 12 reps
-
-</details>
-
 
 <details>
 <summary><b>21s Superset</b></summary
@@ -189,3 +160,11 @@ previousPage: 'week3-welcome'
 - I'm do 10kg for overhead tricep extensions but this is limited by my minor left elbow injury, I'm sure you guys can do more!
 
 </details>
+
+<details>
+<summary><b>Abs</b></summary
+
+- [INSERT DAY 3 ABS HERE]
+
+
+

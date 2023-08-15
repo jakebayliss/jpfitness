@@ -1,13 +1,13 @@
 ---
-title: "Arms"
+title: "Arms & Abs"
 order: 1
-week: 4
-nextPage: 'week4-chest-and-back'
-previousPage: 'week4-welcome'
+week: 2
+nextPage: 'week2-chest-and-back'
+previousPage: 'week2-welcome'
 --- 
 
 <details>
-<summary><b>21s Superset</b></summary
+<summary><b>21's Superset</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -21,7 +21,7 @@ previousPage: 'week4-welcome'
   </video>
 </figure>
 
-- [WARM UP]
+[WARM UP]
 
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
@@ -40,44 +40,7 @@ previousPage: 'week4-welcome'
 </details>
 
 <details>
-<summary><b>V-Bar Pulldowns SS CG Curls</b></summary
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0a3e98b4-3e70-46c1-97f7-55d156d47b04" type="video/mp4">
-  </video>
-</figure>
-
-- Lock elbows for the duration of your set
-
-- Don't let your hands come too far above elbow height to ensure triceps are constantly engaged
-
-- Hold bar at the edge and push outwards at the bottom while you SQUEEZE
-
-- Ensure you're squeezing every rep - burn those triceps baby
-
-[WEIGHT]
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
-  </video>
-</figure>
-
-- Lock elbows as per!!
-
- -Try minimise upper-body rocking, I know it's hard but try!
-
- -Arms are spaced extremely close to one another, inside elbow-width apart with pinky fingers almost touching
-
-- Close grip curls are amazing for increasing the size of the peak of your bicep - which is what we're chasing baby!
-
-- As above, they're amazing to drop-set!
-
-</details>
-
-<details>
-<summary><b>Dips SS Hammers</b></summary
+<summary><b>Dips SS Hammer Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -115,12 +78,51 @@ previousPage: 'week4-welcome'
 
 - Currently on 16kg for 8 reps each arm
 
-[WEIGHT]
-
 </details>
 
 <details>
-<summary><b>Single-Arm Pulldowns SS Seated Curls</b></summary
+<summary><b>V-Bar pulldowns SS CG Curls</b></summary>
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0a3e98b4-3e70-46c1-97f7-55d156d47b04" type="video/mp4">
+  </video>
+</figure>
+
+- Lock elbows for the duration of your set
+
+- Don't let your hands come too far above elbow height to ensure triceps are constantly engaged
+
+- Hold bar at the edge and push outwards at the bottom while you SQUEEZE
+
+- Ensure you're squeezing every rep - burn those triceps baby
+
+[WEIGHT]
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
+  </video>
+</figure>
+
+- Lock elbows as per!!
+
+ -Try minimise upper-body rocking, I know it's hard but try!
+
+ -Arms are spaced extremely close to one another, inside elbow-width apart with pinky fingers almost touching
+
+- Close grip curls are amazing for increasing the size of the peak of your bicep - which is what we're chasing baby!
+
+- As above, they're amazing to drop-set!
+
+- [WEIGHT]
+
+
+</details>
+
+
+<details>
+<summary><b>Single Arm Extensions SS Seated Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -159,7 +161,7 @@ previousPage: 'week4-welcome'
 </details>
 
 <details>
-<summary><b>CG Pull-ups</b></summary
+<summary><b>Close-grip Pullups</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -176,5 +178,12 @@ previousPage: 'week4-welcome'
 - Go for failure every set, it doesn’t matter if this is 3, 6 or 20 reps - burn yourself out we're at the end of an amazing arms day here
 
 - Weight - N/A, each set til FAILURE BABY
+
+</details>
+
+<details>
+<summary><b>Notes for Abs</b></summary>
+
+- [INSERT DAY 3 ABS HERE]
 
 </details>

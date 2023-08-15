@@ -5,6 +5,10 @@ week: 1
 nextPage: 'week2-welcome'
 previousPage: 'week1-shoulders'
 ---
+
+<details>
+<summary><b>Notes</b></summary>
+
 Well here we are, the end of the week and some people's worst enemy. Don't worry, we're in this boat together - I'm not a fan of MOST versions of cardio. I can tolerate ones that are social, fitness mixed in with an activity, a sport etc.
 
 Firstly I would highly recommend signing up to a local sports team, maybe indoor soccer, basketball or local touch rugby team. These are essentially 'free' cardio because it requires minimal motivation on your end, much less than trying to convince yourself to go on a 30 minute run.

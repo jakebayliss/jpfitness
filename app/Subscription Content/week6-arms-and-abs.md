@@ -1,10 +1,31 @@
 ---
-title: "Arms"
+title: "Arms & Abs"
 order: 1
 week: 6
 nextPage: 'week6-chest-and-back'
 previousPage: 'week6-welcome'
 --- 
+
+<details>
+<summary><b>CG Pull-Ups</b></summary
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b21211bc-4dbc-489d-91e2-7d1f18c017e0" type="video/mp4">
+  </video>
+</figure>
+
+- Close grip doesn't necessarily mean pinky fingers touching like it does for other exercises, go shoulder width apart
+
+- I am well aware these are also targeting your upper-back and I still chose to do them because there's no such thing as doing too many pull-ups!
+
+- Use an assisted machine if you can't do them on their own - this is totally normal they're an extremely hard exercise!
+
+- Go for failure every set, it doesn’t matter if this is 3, 6 or 20 reps - burn yourself out we're at the end of an amazing arms day here
+
+- Weight - N/A, each set til FAILURE BABY
+
+</details>
 
 <details>
 <summary><b>V-Bar Pulldowns SS CG Curls</b></summary
@@ -159,23 +180,6 @@ previousPage: 'week6-welcome'
 
 </details>
 
-<details>
-<summary><b>CG Pull-Ups</b></summary
+- [INSERT DAY 3 ABS HERE]
 
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/b21211bc-4dbc-489d-91e2-7d1f18c017e0" type="video/mp4">
-  </video>
-</figure>
 
-- Close grip doesn't necessarily mean pinky fingers touching like it does for other exercises, go shoulder width apart
-
-- I am well aware these are also targeting your upper-back and I still chose to do them because there's no such thing as doing too many pull-ups!
-
-- Use an assisted machine if you can't do them on their own - this is totally normal they're an extremely hard exercise!
-
-- Go for failure every set, it doesn’t matter if this is 3, 6 or 20 reps - burn yourself out we're at the end of an amazing arms day here
-
-- Weight - N/A, each set til FAILURE BABY
-
-</details>

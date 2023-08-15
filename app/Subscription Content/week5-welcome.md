@@ -2,7 +2,7 @@
 title: "Welcome"
 order: 1
 week: 5
-nextPage: 'week5-arms'
+nextPage: 'week5-arms-and-abs'
 previousPage: 'week4-cardio'
 ---
 

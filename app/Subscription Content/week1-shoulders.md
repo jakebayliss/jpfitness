@@ -3,7 +3,7 @@ title: "Shoulders"
 pageNumber: 6
 week: 1
 nextPage: 'week1-cardio'
-previousPage: 'week1-legs'
+previousPage: 'week1-legs-and-abs'
 ---
 Shoulder day is hereeeee - because it's one of my favourite days I typically throw it in after legs as motivation to get through leg day hahah. As with all other days start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously.
 

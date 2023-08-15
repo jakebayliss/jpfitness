@@ -1,32 +1,10 @@
 ---
-title: "Arms"
-week: 7
-nextPage: 'week7-chest-and-back'
-previousPage: 'week7-welcome'
----
-
-<details>
-<summary><b>Preachers SS Long Negatives</b></summary
-
-<figure class="video_container">
-  <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0d63ceda-af2c-4b8f-a7a9-ae465842614d" type="video/mp4">
-  </video>
-</figure>
-
-- Slooooow negatives
-
-- Good tip is to set up the chair height perfectly for you. The height that feels best for me is demonstrated in the video and it's fairly low as I like my whole upper body locked in place
-
-- If you don't have a gym partner then do 8 exactly as I do in the video - 8 reps of normal preacher curls, 4-8 reps of slow, strong negatives
-
-- Weight is not so important here - more important is form and how slowly you can lower the bar each time
-
-- If you can get a friend/gym partner to resist (push down) while you try hold the negatives as long as possible this will have you both looking and feeling like superman/superwoman
-
-- I currently do 12.5kg on either side of the bar for 8 reps then 4-6 ultra long negatives to finish each set
-
-</details>
+title: "Arms & Abs"
+order: 1
+week: 4
+nextPage: 'week4-chest-and-back'
+previousPage: 'week4-welcome'
+--- 
 
 <details>
 <summary><b>21s Superset</b></summary
@@ -43,7 +21,7 @@ previousPage: 'week7-welcome'
   </video>
 </figure>
 
-[WARM UP]
+- [WARM UP]
 
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
@@ -62,21 +40,39 @@ previousPage: 'week7-welcome'
 </details>
 
 <details>
-<summary><b>Overhead Extensions</b></summary
+<summary><b>V-Bar Pulldowns SS CG Curls</b></summary
 
 <figure class="video_container">
   <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/8e4d663f-e2a4-4f3c-8817-53d058dc9ccd" type="video/mp4">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0a3e98b4-3e70-46c1-97f7-55d156d47b04" type="video/mp4">
   </video>
 </figure>
 
-- Start low weight and work on your form
+- Lock elbows for the duration of your set
 
-- Bring the weight all the way down stopping behind your head (be very careful NOT to overextend)
+- Don't let your hands come too far above elbow height to ensure triceps are constantly engaged
 
-- Alternate arms with no breaks inbetween
+- Hold bar at the edge and push outwards at the bottom while you SQUEEZE
 
-- I'm do 10kg for overhead tricep extensions but this is limited by my minor left elbow injury, I'm sure you guys can do more!
+- Ensure you're squeezing every rep - burn those triceps baby
+
+[WEIGHT]
+
+<figure class="video_container">
+  <video controls={true}>
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
+  </video>
+</figure>
+
+- Lock elbows as per!!
+
+ -Try minimise upper-body rocking, I know it's hard but try!
+
+ -Arms are spaced extremely close to one another, inside elbow-width apart with pinky fingers almost touching
+
+- Close grip curls are amazing for increasing the size of the peak of your bicep - which is what we're chasing baby!
+
+- As above, they're amazing to drop-set!
 
 </details>
 
@@ -119,47 +115,49 @@ previousPage: 'week7-welcome'
 
 - Currently on 16kg for 8 reps each arm
 
+[WEIGHT]
+
 </details>
 
 <details>
-<summary><b>Rope Pulldowns SS CG Curls</b></summary
+<summary><b>Single-Arm Pulldowns SS Seated Curls</b></summary
 
 <figure class="video_container">
   <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/d034ea62-251a-4606-b46e-96c21e475bd1" type="video/mp4">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/6d885fd2-8947-477a-a9b5-6361f29f0760" type="video/mp4">
   </video>
 </figure>
 
-- Killer superset, lock those fkn elbows!!
+- Amazing exercise for building that outer head and increasing arm thickness
 
-- Really pull OUTWARDS at the bottom of every rep to engage those tri's
+- Tip is to stand right in the centre of the cable and extend outwards at an angle
 
-- Don't let your arms come all the way up, stop roughly where I stop in the video
+- This means you'll already naturally be finishing each rep with your arm angled outwards, further targeting your lateral (outer) head
 
-- These are both unreal to dropset if you're feeling frisky!
+ -As with all tricep exercises SQUEEZE at the bottom
 
-- Weight for these is highly dependant on what kind of cable machine you use. Some of them I'm ~20kg for 8 reps, others I do around 40kg
+[WEIGHT]
 
 <figure class="video_container">
   <video controls={true}>
-    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/58898f86-2627-4639-836e-2b60f4ae02b1" type="video/mp4">
+    <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/900ed14c-567e-4fc8-ae96-d162e8d0f517" type="video/mp4">
   </video>
 </figure>
 
-- Lock elbows as per!!
+- Try perform these isolated curls on a bench right near your cable extensions
 
-- Try minimise upper-body rocking, I know it's hard but try!
+- Lock your elbow firmly into your leg and curl normally
 
-- Arms are spaced extremely close to one another, inside elbow-width apart with pinky fingers almost touching
+- Start low weight until you get the form correct then work your way up
 
-- Close grip curls are amazing for increasing the size of the peak of your bicep - which is what we're chasing baby!
+- These are a targeted exercise so don't over-do yourself weight wise
 
-- As above, they're amazing to dropset!
+- Squeeze at the top and slow release back down
 
-- [WEIGHT]
+- I typically rep 8-10kg and do 4 sets of the Superset
 
 </details>
 
-
+- [INSERT ABS DAY 3 HERE]
 
 

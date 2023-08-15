@@ -2,7 +2,7 @@
 title: "Welcome"
 order: 1
 week: 3
-nextPage: 'week3-arms'
+nextPage: 'week3-arms-and-abs'
 previousPage: 'week2-cardio'
 ---
 Congratulations on making it this far - 3 weeks in is a great milestone. This week is almost identical to Week 1 - as I've previously mentioned this is on purpose as you need to repeat exercises to see results. The primary difference is the order you do the exercises in - this is to keep things fresh while still ensuring you're doing all the key exercises!
