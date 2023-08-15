@@ -17,7 +17,6 @@ param sqlAdministratorLoginPassword string
 @description('Date timestamp of when this deployment was run - defaults to UtcNow()')
 param lastDeploymentDate string = utcNow('yyMMddHHmmss')
 
-@description('Resource tags for organizing / cost monitoring')
 var tags = {
   project: projectName
   lastDeploymentDate: lastDeploymentDate
