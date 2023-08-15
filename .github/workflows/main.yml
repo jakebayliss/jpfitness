@@ -50,7 +50,7 @@ jobs:
       - name: Build Api
         shell: pwsh
         run: |
-          pushd './.'
+          pushd '././FunctionApp'
           dotnet build --configuration Release --output ./api
           popd
       
