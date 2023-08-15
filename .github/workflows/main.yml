@@ -23,6 +23,10 @@ jobs:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
           enable-AzPSSession: true
 
+      - name: ls
+        shell: pwsh
+        run: ls
+
       - name: Build Bicep
         shell: pwsh
         run: .github/build.ps1
@@ -51,14 +55,15 @@ jobs:
         shell: pwsh
         run: |
           pushd '././FunctionApp'
-          dotnet build --configuration Release --output ./api
+          dotnet build --configuration Release
+          dotnet publish -c Release -o ../publish
           popd
       
       - name: Upload Artifact - Api
         uses: actions/upload-artifact@v3
         with:
-          name: api
-          path: ./api
+          name: functionApp
+          path: ./publish
           if-no-files-found: error
 
   deployDev:
@@ -79,10 +84,10 @@ jobs:
         shell: pwsh
         run: .github/deploy.ps1 -resourceGroup '${{ env.resourceGroup }}' -sqlAdministratorLoginPassword ${{ secrets.SQLADMINPASSWORD }} -deploy
 
-      - name: Download Artifact - Api
+      - name: Download Artifact - FunctionApp
         uses: actions/download-artifact@v3
         with:
-          name: api
+          name: functionApp
 
       - name: ls
         shell: pwsh
@@ -91,5 +96,5 @@ jobs:
       - name: Deploy Api
         uses: azure/webapps-deploy@v2
         with: 
-          app-name: ${{ env.resourceGroup }}-api
+          app-name: functions-Somthing
           package: .
