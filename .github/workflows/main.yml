@@ -97,4 +97,4 @@ jobs:
         uses: azure/webapps-deploy@v2
         with: 
           app-name: functions-3jmt
-          package: .
+          package: functionApp
