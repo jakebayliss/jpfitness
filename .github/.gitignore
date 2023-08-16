@@ -1,0 +1,7 @@
+bicep/*.json
+
+arm-Ttk/
+arm-Ttk.zip
+
+# could be created by deploy.ps1
+azuredeploy.parameters.json
