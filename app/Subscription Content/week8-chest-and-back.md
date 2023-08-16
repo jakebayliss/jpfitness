@@ -2,8 +2,8 @@
 title: "Chest & Back"
 order: 1
 week: 8
-nextPage: 'week8-legs'
-previousPage: 'week8-arms'
+nextPage: 'week8-legs-and-abs'
+previousPage: 'week8-arms-and-abs'
 ---
 
 <details>

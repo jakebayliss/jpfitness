@@ -2,7 +2,7 @@
 title: "The home stretch"
 order: 1
 week: 8
-nextPage: 'week8-arms'
+nextPage: 'week8-arms-and-abs'
 previousPage: 'week7-cardio'
 ---
 

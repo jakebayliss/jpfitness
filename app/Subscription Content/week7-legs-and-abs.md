@@ -1,5 +1,5 @@
 ---
-title: "Legs"
+title: "Legs & Abs"
 order: 1
 week: 7
 nextPage: 'week7-shoulders'
@@ -120,3 +120,5 @@ previousPage: 'week7-chest-and-back'
 - I'm currently doing 65kg to start with then dropping in increments of 8kg each time I drop set
 
 </details>
+
+- [INSERT DAY 3 HERE]

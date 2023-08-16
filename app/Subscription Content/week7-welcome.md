@@ -2,7 +2,7 @@
 title: "YOU GOT THIS"
 order: 1
 week: 7
-nextPage: 'week7-arms'
+nextPage: 'week7-arms-and-abs'
 previousPage: 'week6-cardio'
 ---
 Fantastic progress! You've reached Week 7, and I'm thrilled to see your dedication and hard work throughout this fitness journey.

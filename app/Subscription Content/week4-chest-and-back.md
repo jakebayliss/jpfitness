@@ -3,7 +3,7 @@ title: "Chest & Back"
 order: 1
 week: 4
 nextPage: 'week4-legs-and-abs'
-previousPage: 'week4-arms'
+previousPage: 'week4-arms-and-abs'
 ---
 
 <details>

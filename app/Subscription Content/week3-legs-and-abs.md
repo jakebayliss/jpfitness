@@ -1,5 +1,5 @@
 ---
-title: "Legs"
+title: "Legs & Abs"
 order: 1
 week: 3
 nextPage: 'week3-shoulders'

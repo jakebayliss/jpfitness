@@ -2,7 +2,7 @@
 title: "Let's get it!"
 order: 1
 week: 6
-nextPage: 'week6-arms'
+nextPage: 'week6-arms-and-abs'
 previousPage: 'week5-cardio'
 ---
 

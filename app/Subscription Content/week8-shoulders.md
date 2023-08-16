@@ -3,7 +3,7 @@ title: "Shoulders"
 order: 1
 week: 8
 nextPage: 'week8-cardio'
-previousPage: 'week8-legs'
+previousPage: 'week8-legs-and-abs'
 ---
 
 <details>
