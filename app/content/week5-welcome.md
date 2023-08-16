@@ -22,6 +22,6 @@ Week 5 leg day is a journey on its own. Lock in and grind. Dig deep, find that m
 
 As for Cardio Day - the program rotation brings us back to our swim. Our cardio is categorised as one 'easy' week and one 'hard' week. In Week 1, we swam 800m - this week we'll increase that. I'm in control of this up to the pilates day then it's entirely up to you guys which of her workouts you select.
 
-For our swim, we're adding 200m overall taking you up to 1km! So 8 more laps in total, snuck in throughout your routine. If you get your head down and lock in I guarantee you'll barely notice the extra laps.
+As for Cardio Day - the program rotation brings us back to our swim. If you started the program doing the easy swim then opt for the medium this week, and if you started on medium then try the hard version! Push yourself to do those extra laps and you'll surprise yourself with how much you can achieve! 
 
 If you've opted for an alternative this week then go for it, I've increased the difficulty on the HIIT program for this round so that should be just as challenging for all those of you electing not to swim. 

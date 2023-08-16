@@ -25,6 +25,6 @@ Stay motivated, stay hungry - LET'S MAKE SOME GAINS!
 
 My cardio recommendations don't change week to week - you just need to hold yourself accountable and make sure you're completing SOME form of cardio. I don't mind how you choose to do so, it could be a hike with friends, the stair machine at the gym, laps of a pool or a local sport - it's entirely up to you.
 
-Last week we focussed on a Pilates workout, this week the main event is a Fitness Class. I understand that a good portion of you won't want to sign up/aren't interested in a fitness class - therefore the usual alternatives are provided and I highly recommend repeating your Week 2 HIIT workout this week! 
+Last week we focussed on a Pilates workout, this week the main event is a run. I understand that running isn't for everyone so feel free to do one of the provided alternatives if you're not feeling it! 
 
 Let's get into it!!
