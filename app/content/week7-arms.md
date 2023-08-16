@@ -20,8 +20,6 @@ previousPage: 'week7-welcome'
   </video>
 </figure>
 
-[WARM UP]
-
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
 - Form is incredibly important to ensure your bi's are constantly engaged
@@ -140,8 +138,6 @@ previousPage: 'week7-welcome'
 - Close grip curls are amazing for increasing the size of the peak of your bicep - which is what we're chasing baby!
 
 - As above, they're amazing to dropset!
-
-- [WEIGHT]
 
 </details>
 

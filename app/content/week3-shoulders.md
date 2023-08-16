@@ -15,7 +15,7 @@ previousPage: 'week3-legs'
   </video>
 </figure>
 
-- [WARM UP]
+- 
 
 - Feet shoulder width apart and strong core - this strong foundation will set you up for a great set
 

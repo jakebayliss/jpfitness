@@ -14,9 +14,7 @@ Now, compared to other training programs you'll notice some things a bit differe
 
 Comprehensive exercise guidance is provided in the Tutorial Video for each workout, additional description is provided in the side bar next to the video.
 
-Finally, if you need help understanding anything, want my assistance or personalised advice then feel free to message me on Instagram. Make sure to include FITNESS PROGRAM as the first two words so I see your DM!
-
-Ok - now the boring stuff's out of the way - let's gym!!
+Finally, if you need help understanding anything, want my assistance or personalised advice then feel free to email me: painefit@gmail.com, make sure the subject is 'FITNESS PROGRAM' and I'll reply as quickly as I can! 
 
 <details>
 <summary><b>Diet</b></summary

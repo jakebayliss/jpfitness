@@ -16,7 +16,7 @@ previousPage: 'week3-arms'
   </video>
 </figure>
 
-- [WARM UP]
+- 
 
 - What a fkn start to Chest day - there's not much better in life than hitting flat-bench first up! 
 

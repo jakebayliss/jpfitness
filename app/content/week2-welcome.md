@@ -14,7 +14,7 @@ As with Week 1 comprehensive exercise guidance is provided in the Tutorial Video
 
 Week 2 is an essential motivation week. I understand that some days may be tougher than others - and a lot of people find these tough days popping up during the second week of consecutive training. You've given the first week everything you've got and now it's time to restart. On such days, remember why you started, why you purchased this program. Remember your fitness goals and go one step further - visualise the version of yourself you're training to become. Also, keep in mind that you're not alone in this journey. Reach out to me at any time, especially when you're feeling unmotivated. Also, take care of yourself inside and outside of the gym. Get enough rest, fuel your body with nutritious food and stay hydrated. All these factors play important roles in your fitness journey as they ensure longevity.
 
-As previously mentioned feel free to Email me at joshuawpaine@gmail.com - make sure to include FITNESS PROGAM as the subject so I see your email!
+As previously mentioned feel free to Email me: painefit@gmail.com - make sure to include FITNESS PROGAM as the subject so I see your email!
 
 <details>
 <summary><b>Warm-ups</b></summary

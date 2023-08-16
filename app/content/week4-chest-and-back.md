@@ -15,7 +15,7 @@ previousPage: 'week4-arms'
   </video>
 </figure>
 
-- [WARM UP]
+- 
 
 - We're back on Incline DB Press first up - you should be feeling some kinda strength gains by now!
 

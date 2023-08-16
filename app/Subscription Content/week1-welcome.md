@@ -34,7 +34,7 @@ Finally, if you need help understanding anything, want my assistance or personal
 
 - However, considering you guys grabbed the subscription bundle I will be doing Live cook-with-me sessions every month through our Telegram chat, which will cover meals I eat along with extra, live interaction time between you and me! All announcements regarding timings will be made through Telegram so keep your eyes peeled
 
-- Firstly, I need to address the importance of diet. The old gym saying is gains are made in the kitchen, not in the gym. Basically that you need to give just as much time, energy and effort in to eating correctly as you put into the exercise itself
+- Even though I'm not a pro, I can give some pointers and acknowledge just how important it is. The old gym saying is gains are made in the kitchen, not in the gym. Basically that you need to give just as much time, energy and effort in to eating correctly as you put into the exercise itself
 
 - Personally, I don't adhere to the strictest diet. Yes, I barely eat fast food, rarely drink and love to cook at the house but chocolate and snacks are unfortunately my downfall so I'm not in a position to give the best dietary advice
 
@@ -100,25 +100,6 @@ Finally, if you need help understanding anything, want my assistance or personal
 - Jot down your weights for each exercise in notes on your phone so you have it handy for your next session!
 
 Try all these tips and let me know how you go!
-
-</details>
-
-<details>
-<summary><b>Warm-Up videos</b></summary
-
-- [TO BE PUT IN ITS OWN SECTION]
-
-- Warming up is one of the most important parts of working out. It prevents injury and ensures you will be able to work out for many years to come.
-
-- With upper body, I find the most crucial warm up to be your rotator cuff exercises.
-
-- Your rotator cuff is a group of muslces and tendons in your shoulders that allow your shoulders to rotate.
-
-- It is fundamental for nearly all upper body exercises - healthy shoulders are so important for a long and prosperous gym career
-
-- Stretching is a requirement regardless of the day you're doing - obviously you'll be stretching different muscles for different days at the gym.
-
-Please follow the tutorial videos given below:
 
 </details>
 

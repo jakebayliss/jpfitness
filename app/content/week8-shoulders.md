@@ -15,7 +15,7 @@ previousPage: 'week8-legs'
   </video>
 </figure>
 
-- [WARM UP]
+- 
 
 - Starting with smith machine press today, I want 5 working sets (so excluding warm-up) with 6 reps max - GO HEAVY!
 

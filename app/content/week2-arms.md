@@ -30,7 +30,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
   </video>
 </figure>
 
-[WARM UP]
+
 
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
@@ -106,7 +106,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 
 - Ensure you're squeezing every rep - burn those triceps baby
 
-[WEIGHT]
+- I do 55kg for V-bar pulldowns
 
 <figure class="video_container">
   <video controls={true}>
@@ -124,7 +124,7 @@ Try increase (even by the smallest amount) the weight you did last week for the 
 
 - As above, they're amazing to drop-set!
 
-- [WEIGHT]
+- 42kg for 10-12 reps for CG curls!
 
 
 </details>
@@ -139,16 +139,16 @@ Try increase (even by the smallest amount) the weight you did last week for the 
   </video>
 </figure>
 
-(Pulldown)
 - Amazing exercise for building that outer head and increasing arm thickness
 
 - Tip is to stand right in the centre of the cable and extend outwards at an angle
 
 - This means you'll already naturally be finishing each rep with your arm angled outwards, further targeting your lateral (outer) head
 
- -As with all tricep exercises SQUEEZE at the bottom
+ - As with all tricep exercises SQUEEZE at the bottom
 
-[WEIGHT]
+ - Currently on 10kg for 10-12 reps each arm! 
+
 
 <figure class="video_container">
   <video controls={true}>

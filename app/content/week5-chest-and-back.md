@@ -15,7 +15,7 @@ previousPage: 'week5-arms'
   </video>
 </figure>
 
-- [WARM UP]
+- 
 
 - This week we're back to starting with Incline DB Press - if you're feeling that your lower chest isn't getting enough love then now's the perfect time to sub out incline DB press with decline DB press - as always be careful with how heavy you go if it's your first time!
 

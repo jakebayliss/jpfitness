@@ -16,6 +16,6 @@ Week 6 is a pivotal moment for motivation. I understand that some days can be to
 
 You're not alone in this journey. Reach out to me anytime, especially when you need that extra boost of motivation. I'm here to support and guide you every step of the way. Also, remember the importance of self-care inside and outside of the gym. Rest, nourish your body with nutritious food, and stay hydrated - all these factors contribute significantly to your long-term success.
 
-As always, feel free to email me at joshuawpaine@gmail.com - just include FITNESS PROGRAM as the subject, and I'll be sure to respond promptly.
+As always, feel free to email me at painefit@gmail.com - just include FITNESS PROGRAM as the subject, and I'll be sure to respond promptly.
 
 Alright, now let's set aside the boring stuff - it's time to hit the gym!!

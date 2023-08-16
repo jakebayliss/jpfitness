@@ -29,7 +29,7 @@ My main focus for arms is putting size on. However, I'm not looking to get enorm
   </video>
 </figure>
 
-[WARM UP]
+
 
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
@@ -150,7 +150,7 @@ My main focus for arms is putting size on. However, I'm not looking to get enorm
 
 - As above, they're amazing to dropset!
 
-- [WEIGHT]
+- I do 42kg for 10-12 reps for close-grip curls!
 
 </details>
 

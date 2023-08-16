@@ -13,6 +13,6 @@ Week 3 is all about taking Week 1's exercises to the next level. At a minimum I 
 
 If your motivation is diminishing for any reason then reach out to either myself, a key person in your life, or anyone in our Telegram Chat (if you're on the subscription service) to share your progress, discuss tips and tricks, adapt your workout strategy (mental or physical) and basically stay on track. Also, again just for those in our Telegram Chat, keep an eye out for one of my Live Workouts where I walk you guys through and actual gym session of mine providing more tips, more tricks and more motivation!!
 
-As previously mentioned feel free to Email me at joshuawpaine@gmail.com - make sure to include FITNESS PROGAM as the subject so I see your email!
+If your motivation's down or you need any advice regarding your fitness journey, or want to discuss anything program-related then feel free to DM me with FITNESS PROGRAM as the first two words and I'll get back to you as soon as I can! 
 
 You know the drill, let's gym!! 

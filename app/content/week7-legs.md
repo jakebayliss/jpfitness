@@ -15,7 +15,7 @@ previousPage: 'week7-chest-and-back'
   </video>
 </figure>
 
-- [WARM UP]
+- 
 
 - Warm-up set with body weight then straight into it
 

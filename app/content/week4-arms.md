@@ -21,8 +21,6 @@ previousPage: 'week4-welcome'
   </video>
 </figure>
 
-- [WARM UP]
-
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
 - Form is incredibly important to ensure your bi's are constantly engaged
@@ -56,7 +54,7 @@ previousPage: 'week4-welcome'
 
 - Ensure you're squeezing every rep - burn those triceps baby
 
-[WEIGHT]
+- I'm 55kg for V-Bars, can you beat it?!
 
 <figure class="video_container">
   <video controls={true}>
@@ -115,8 +113,6 @@ previousPage: 'week4-welcome'
 
 - Currently on 16kg for 8 reps each arm
 
-[WEIGHT]
-
 </details>
 
 <details>
@@ -136,7 +132,7 @@ previousPage: 'week4-welcome'
 
  -As with all tricep exercises SQUEEZE at the bottom
 
-[WEIGHT]
+- I'm on 10kg for single-arm pulldowns
 
 <figure class="video_container">
   <video controls={true}>

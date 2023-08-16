@@ -14,7 +14,7 @@ previousPage: 'week7-legs'
   </video>
 </figure>
 
-- [WARM UP]
+- 
 
 - My personal preference is the seated part of the bench slightly inclined and the back of the bench not directly upright but also slightly inclined
 

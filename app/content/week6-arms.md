@@ -14,8 +14,6 @@ previousPage: 'week6-welcome'
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0a3e98b4-3e70-46c1-97f7-55d156d47b04" type="video/mp4">
   </video>
 </figure>
-
-- [WARM UP]
   
 - Lock elbows for the duration of your set
 
@@ -24,8 +22,6 @@ previousPage: 'week6-welcome'
 - Hold bar at the edge and push outwards at the bottom while you SQUEEZE
 
 - Ensure you're squeezing every rep - burn those triceps baby
-
-[WEIGHT]
 
 <figure class="video_container">
   <video controls={true}>
@@ -62,7 +58,6 @@ previousPage: 'week6-welcome'
 
  -As with all tricep exercises SQUEEZE at the bottom
 
-[WEIGHT]
 
 <figure class="video_container">
   <video controls={true}>
@@ -123,8 +118,6 @@ previousPage: 'week6-welcome'
 - Start light and work your way up as form/strength improves
 
 - Currently on 16kg for 8 reps each arm
-
-[WEIGHT]
 
 </details>
 

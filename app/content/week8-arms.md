@@ -15,8 +15,6 @@ previousPage: 'week8-welcome'
   </video>
 </figure>
 
--[WARM UP]
-
 - Definitely start these on an assisted machine.
 
 - Start with your elbows locked and arms straight, then slowly lower yourself to 90 degrees (the forearm/upper arm angle I reach in the vid) then power back up to vertical
@@ -67,7 +65,6 @@ previousPage: 'week8-welcome'
 
 - Ensure you're squeezing every rep - burn those triceps baby
 
-[WEIGHT]
 
 <figure class="video_container">
   <video controls={true}>
@@ -85,7 +82,6 @@ previousPage: 'week8-welcome'
 
 - As above, they're amazing to drop-set!
 
-[WEIGHT]
 
 </details>
 
