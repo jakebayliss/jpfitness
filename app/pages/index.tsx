@@ -1,47 +1,45 @@
-import { promises as fs } from 'fs';
-import Link from 'next/link';
-import path from 'path';
-import matter, { FrontMatterResult } from 'front-matter';
-import { IWorkout } from '@/interfaces/IWorkout';
-import Header from '@/components/Header';
+import React, { useContext } from 'react';
+import { User, UserContext } from '../auth/UserContext';
+import { loginRequest } from '../auth/authConfig';
+import { AuthenticatedTemplate, UnauthenticatedTemplate, useMsal } from "@azure/msal-react";
+import Home from "./home";
 
-const Index = ({workouts}: {
-    workouts: {
-      data: FrontMatterResult<IWorkout>;
-      slug: string;
-    }[]
-  }) => {
+const Index = () => {
+  const { instance } = useMsal();
+  const { accounts } = useMsal();
+  const { user, setUser } = useContext<User>(UserContext);
+
   return (
-    <main className='p-5'>
-      <Header />
-      <h1 className='my-3 font-bold text-2xl'>Workouts</h1>
-      <div>
-        {workouts.sort(x => x.data.attributes.pageNumber).map((w, i) => (
-          <Link href={`/workouts/${w.slug}`} key={i}>
-            <h3>Week {w.data.attributes.week} - {w.data.attributes.title}</h3>
-          </Link>
-        ))}
-      </div>
-    </main>
+    <>
+      <UnauthenticatedTemplate>
+        <main>
+          <h1 className='page-title p-6 font-bold text-4xl text-white text-center'>Paine-Fit</h1>
+          <div>
+            <h3 className='text-center pt-6 font-bold'>Welcome to the start of your fitness journey!</h3>
+            <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white text-justify rounded-lg shadow-md'>
+              <p>If you have already purchased a program please sign in below</p>
+              <button className='px-6 py-3 secondary-colour rounded-lg font-bold'
+                onClick={() => instance.loginPopup(loginRequest).then((response) => setUser(response.account))}>
+                  SIGN IN
+              </button>
+              <p><b>Note:</b> When signing up ensure you sign up with the <b>SAME</b> email address you used to make your purchase</p>
+            </div>
+            <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white text-justify rounded-lg shadow-md'>
+              <p>If you haven't yet purchased a program please head over to our storefront to make the best decision future you could imagine!</p>
+              <a href='https://joshua-paine-fitness-program.dpdcart.com/' target='_blank'
+                className='px-6 py-3 secondary-colour rounded-lg font-bold'>STORE</a>
+            </div>
+            <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white text-justify rounded-lg shadow-md'>
+              <p>For support, enquiries or customer assitance please contact us via email: <b>painefit@gmail.com</b></p>
+            </div>
+          </div>
+        </main>
+      </UnauthenticatedTemplate>
+      <AuthenticatedTemplate>
+        <Home workouts={null} />
+      </AuthenticatedTemplate>
+    </>
   )
-}
- 
-export async function getStaticProps() {
-  const folder = path.join(process.cwd(), './content');
-  const filenames = await fs.readdir(folder);
-  const workouts = filenames.filter(async f => f.endsWith('.md')).map(async f => {
-    var content = (await fs.readFile(`./content/${f}`)).toString();
-    return {
-      data: matter(content) as FrontMatterResult<IWorkout>,
-      slug: f.replace('.md', '')
-    };
-  });
-
-  return {
-    props: {
-      workouts: await Promise.all(workouts),
-    },
-  }
 }
 
 export default Index;
