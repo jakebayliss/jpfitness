@@ -18,7 +18,6 @@ const Index = (props: any) => {
           <ReactMarkdown rehypePlugins={[rehypeRaw]}>{props.workout.content}</ReactMarkdown>
         </div>
       </div>
-      <Footer currentPageNumber={props.workout.pageNumber} nextPage={props.workout.nextPage} previousPage={props.workout.previousPage} />
     </main>
   )
 }

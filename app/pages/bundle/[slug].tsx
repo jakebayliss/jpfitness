@@ -13,7 +13,7 @@ const Index = (props: any) => {
     <main className='min-h-[calc(100vh-40px)]'>
       <div className='min-h-[calc(100vh-40px)]'>
         <Header />
-        <h1 className='page-title p-6 font-bold text-4xl text-white text-center'>Week {props.workout.week} - {props.workout.title}</h1>
+        <h1 className='page-title p-6 font-bold text-4xl text-white text-center'>{props.workout.title}</h1>
         <div className='prose p-3 text-justify'>
           <ReactMarkdown rehypePlugins={[rehypeRaw]}>{props.workout.content}</ReactMarkdown>
         </div>
@@ -37,7 +37,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
 }
 
 export const getWorkout = async (slug: string) => {
-  const content = (await fs.readFile(`./content/program/${slug}.md`)).toString();
+  const content = (await fs.readFile(`./content/bundle/${slug}.md`)).toString();
   const data = matter(content) as FrontMatterResult<IWorkout>;
 
   return {
@@ -47,7 +47,7 @@ export const getWorkout = async (slug: string) => {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const folder = path.join(process.cwd(), './content/program')
+  const folder = path.join(process.cwd(), './content/bundle')
   const filenames = await fs.readdir(folder);
   const slugs = filenames.map(s => s.replace('.md', ''));
 

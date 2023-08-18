@@ -37,7 +37,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
 }
 
 export const getWorkout = async (slug: string) => {
-  const content = (await fs.readFile(`./content/program/${slug}.md`)).toString();
+  const content = (await fs.readFile(`./content/subscription/${slug}.md`)).toString();
   const data = matter(content) as FrontMatterResult<IWorkout>;
 
   return {
@@ -47,7 +47,7 @@ export const getWorkout = async (slug: string) => {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const folder = path.join(process.cwd(), './content/program')
+  const folder = path.join(process.cwd(), './content/subscription')
   const filenames = await fs.readdir(folder);
   const slugs = filenames.map(s => s.replace('.md', ''));
 
