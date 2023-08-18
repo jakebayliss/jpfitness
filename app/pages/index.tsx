@@ -36,7 +36,7 @@ const Index = () => {
         </main>
       </UnauthenticatedTemplate>
       <AuthenticatedTemplate>
-        <Home workouts={null} />
+        <Home />
       </AuthenticatedTemplate>
     </>
   )
