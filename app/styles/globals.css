@@ -78,6 +78,12 @@ summary {
   background-color: #8497EB;
 }
 
+.content-page {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
 ul {
   padding-left: 8px !important;
 }

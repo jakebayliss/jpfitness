@@ -13,9 +13,11 @@ const Index = ({workouts}: {
   }) => {
   return (
     <main>
-      <Header />
-      <h1 className='page-title p-6 font-bold text-4xl text-white text-center'>Ab Workouts</h1>
-      <div>
+      <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
+        <h1>Ab Workouts</h1>
+        <Header />
+      </div>
+      <div className='content-page flex flex-col gap-4'>
         {workouts.sort(x => x.data.attributes.pageNumber).map((w, i) => (
           <Link href={`./abs/${w.slug}`} key={i}>
             <h3>{w.data.attributes.title}</h3>

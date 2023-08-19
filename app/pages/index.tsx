@@ -6,7 +6,6 @@ import Home from "./home";
 
 const Index = () => {
   const { instance } = useMsal();
-  const { accounts } = useMsal();
   const { user, setUser } = useContext<User>(UserContext);
 
   return (

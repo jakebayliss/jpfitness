@@ -53,5 +53,5 @@ export const msalConfig = {
 };
 
 export const loginRequest = {
-    scopes: ["https://painefit.onmicrosoft.com/api/read"]
+    scopes: ["https://painefit.onmicrosoft.com/api/.default"]
 };

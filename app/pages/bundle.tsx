@@ -13,9 +13,11 @@ const Index = ({workouts}: {
   }) => {
   return (
     <main>
-      <Header />
-      <h1 className='page-title p-6 font-bold text-4xl text-white text-center'>Bundle</h1>
-      <div>
+      <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
+        <h1>Bundle</h1>
+        <Header />
+      </div>
+      <div className='content-page'>
         {workouts.sort(x => x.data.attributes.pageNumber).map((w, i) => (
           <Link href={`./bundle/${w.slug}`} key={i}>
             <h3>Week {w.data.attributes.week} - {w.data.attributes.title}</h3>

@@ -3,7 +3,6 @@ import path from 'path';
 import { promises as fs } from 'fs';
 import matter, { FrontMatterResult } from 'front-matter';
 import { IWorkout } from '@/interfaces/IWorkout';
-import Footer from '@/components/Footer';
 import ReactMarkdown from 'react-markdown'
 import rehypeRaw from 'rehype-raw';
 import Header from '@/components/Header';
@@ -12,9 +11,11 @@ const Index = (props: any) => {
   return (
     <main className='min-h-[calc(100vh-40px)]'>
       <div className='min-h-[calc(100vh-40px)]'>
-        <Header />
-        <h1 className='page-title p-6 font-bold text-4xl text-white text-center'>{props.workout.title}</h1>
-        <div className='prose p-3 text-justify'>
+        <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
+          <h1>{props.workout.title}</h1>
+          <Header />
+        </div>
+        <div className='content-page prose p-3 text-justify'>
           <ReactMarkdown rehypePlugins={[rehypeRaw]}>{props.workout.content}</ReactMarkdown>
         </div>
       </div>

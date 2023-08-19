@@ -1,11 +1,9 @@
 ---
-title: "Welcome"
+title: "Day 1 - Welcome"
 week: 1
 pageNumber: 1
 nextPage: 'day1'
 ---
-
-# Welcome - Abs
 
 WELCOMEEEEEEE to the best Abs routine that you could have possibly found (jks it might not be but it's what works for me and therefore what should work for you guys too!) . The main thing I need to warn all you guys of is that this is not professional fitness advice, I don't have any personal training/fitness instructor courses under my belt - this is simply my best advice based entirely off what has worked for me for multiple years now. 
 
