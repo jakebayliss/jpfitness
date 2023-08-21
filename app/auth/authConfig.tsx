@@ -55,3 +55,23 @@ export const msalConfig = {
 export const loginRequest = {
     scopes: ["https://painefit.onmicrosoft.com/api/.default"]
 };
+
+export const acquireAccessToken = async (instance) => {
+    const activeAccount = instance.getActiveAccount(); // This will only return a non-null value if you have logic somewhere else that calls the setActiveAccount API
+    const accounts = instance.getAllAccounts();
+  
+    if (!activeAccount && accounts.length === 0) {
+        /*
+        * User is not signed in. Throw error or wait for user to login.
+        * Do not attempt to log a user in outside of the context of MsalProvider
+        */   
+    }
+    const request = {
+        scopes: loginRequest.scopes,
+        account: activeAccount || accounts[0],
+    };
+  
+    const authResult = await instance.acquireTokenSilent(request);
+  
+    return authResult;
+  };
