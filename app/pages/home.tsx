@@ -44,7 +44,7 @@ const Home = () => {
       <div className='content-page flex flex-col m-10 gap-4'>
         <div className='flex flex-col gap-4 px-6 py-3 bg-white rounded-lg text-center font-bold'>
           <p>Welcome back.</p>
-          <p>You know what time it is - it's time to grind!</p>
+          <p>You know what time it is - it&apos;s time to grind!</p>
         </div>
         {products && products.includes('Abs') && (
           <a href='./abs' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>ABS</a>
