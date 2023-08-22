@@ -24,7 +24,7 @@ const Index = () => {
               <p><b>Note:</b> When signing up ensure you sign up with the <b>SAME</b> email address you used to make your purchase</p>
             </div>
             <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white text-justify rounded-lg shadow-md'>
-              <p>If you haven't yet purchased a program please head over to our storefront to make the best decision future you could imagine!</p>
+              <p>If you haven&apos;t yet purchased a program please head over to our storefront to make the best decision future you could imagine!</p>
               <a href='https://joshua-paine-fitness-program.dpdcart.com/' target='_blank'
                 className='px-6 py-3 secondary-colour rounded-lg font-bold'>STORE</a>
             </div>
