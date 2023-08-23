@@ -7,7 +7,7 @@ previousPage: 'week4-shoulders'
 ---
 
 <details>
-<summary><b>Week 4: Outdoor Jogging</b></summary
+<summary><b>Outdoor Jogging</b></summary
 
 Warm-up:
 

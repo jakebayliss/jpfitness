@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-order: 1
+pagenumber: 14
 week: 3
 nextPage: 'week3-arms-and-abs'
 previousPage: 'week2-cardio'

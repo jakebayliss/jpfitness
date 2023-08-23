@@ -7,7 +7,7 @@ previousPage: 'week6-shoulders'
 ---
 
 <details>
-<summary><b>Week 6: HIIT Workout</b></summary
+<summary><b>HIIT Workout</b></summary
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 

@@ -1,3 +1,10 @@
+---
+title: "Warm-Ups"
+week: 1
+pageNumber: 1
+nextPage: 'week1-welcome'
+---
+
 <details>
 <summary><b>Notes</b></summary
 

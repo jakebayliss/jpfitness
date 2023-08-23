@@ -1,6 +1,6 @@
 ---
 title: "Shoulders"
-order: 1
+pagenumber: 12
 week: 2
 nextPage: 'week2-cardio'
 previousPage: 'week2-legs-and-abs'

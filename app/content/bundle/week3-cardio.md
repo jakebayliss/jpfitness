@@ -11,7 +11,7 @@ Week 3's Day 5 is centred around Pilates! It has countless benefits and you leav
 
 
 <details>
-<summary><b>Week 3: Online Pilates Class</b></summary
+<summary><b>Online Pilates Class</b></summary
 
 - I recommend Move With Nicole on Youtube: https://www.youtube.com/@MoveWithNicole
 

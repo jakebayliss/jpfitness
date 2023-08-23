@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 week: 1
-pageNumber: 1
+pageNumber: 2
 nextPage: 'week1-arms-and-abs'
 ---
 

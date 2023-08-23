@@ -7,7 +7,7 @@ previousPage: 'week7-shoulders'
 ---
 
 <details>
-<summary><b>Week 7: Swim</b></summary
+<summary><b>Swim</b></summary
 
 Aaaaaand we're back in the pool! Try and jump up a tier of workout difficulty. So if you've been sticking to the easy one hit the intermediate (same if you've been playing it safe with intermediate). It'll be considerably harder but you'll be feeling so fkn good walking away from the pool afterwards!
 

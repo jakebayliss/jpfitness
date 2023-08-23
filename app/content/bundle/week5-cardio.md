@@ -7,7 +7,7 @@ previousPage: 'week5-shoulders'
 ---
 
 <details>
-<summary><b>Week 5: Swim</b></summary
+<summary><b>Swim</b></summary
 
 As you can see in the title this week we're back around to our swim. As always, there are alternatives below if you don't have access to a pool/don't want to swim!
 

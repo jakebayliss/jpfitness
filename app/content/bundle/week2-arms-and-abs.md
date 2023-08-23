@@ -1,6 +1,6 @@
 ---
 title: "Arms & Abs"
-order: 1
+pagenumber: 9
 week: 2
 nextPage: 'week2-chest-and-back'
 previousPage: 'week2-welcome'

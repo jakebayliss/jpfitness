@@ -1,6 +1,6 @@
 ---
 title: "Arms & Abs"
-order: 1
+pagenumber: 15
 week: 3
 nextPage: 'week3-chest-and-back'
 previousPage: 'week3-welcome'
@@ -14,8 +14,6 @@ previousPage: 'week3-welcome'
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/0d63ceda-af2c-4b8f-a7a9-ae465842614d" type="video/mp4">
   </video>
 </figure>
-
-- 
 
 - Slooooow negatives
 

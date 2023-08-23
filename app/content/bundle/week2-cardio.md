@@ -1,6 +1,6 @@
 ---
 title: "Cardio & Extras"
-order: 1
+pagenumber: 13
 week: 2
 nextPage: 'week3-welcome'
 previousPage: 'week2-shoulders'
@@ -14,7 +14,7 @@ Unlike last week none of you should have a valid excuse to skip this one ;)
 Let's get into it!!
 
 <details>
-<summary><b>Week 2: HIIT Workout</b></summary>
+<summary><b>HIIT Workout</b></summary>
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 

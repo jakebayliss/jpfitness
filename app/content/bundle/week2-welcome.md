@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
-order: 1
 week: 2
+pagenumber: 8
 nextPage: 'week2-arms-and-abs'
 previousPage: 'week1-cardio'
 ---

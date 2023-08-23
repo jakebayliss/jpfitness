@@ -1,6 +1,6 @@
 ---
 title: "Legs & Abs"
-order: 1
+pagenumber: 11
 week: 2
 nextPage: 'week2-shoulders'
 previousPage: 'week2-chest-and-back'
