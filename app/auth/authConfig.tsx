@@ -6,15 +6,15 @@ export const b2cPolicies = {
     },
     authorities: {
         signUpSignIn: {
-            authority: "https://mindexb2c.b2clogin.com/mindexb2c.onmicrosoft.com/B2C_1_signup_signin",
+            authority: "https://painefit.b2clogin.com/painefit.onmicrosoft.com/B2C_1_signup_signin",
         },
     },
-    authorityDomain: "mindexb2c.b2clogin.com"
+    authorityDomain: "painefit.b2clogin.com"
 }
 
 export const msalConfig = {
     auth: {
-        clientId: "7a4b572c-6712-4cc3-9229-12fdd3b9a903", 
+        clientId: "aa2dcb21-2256-4e78-9eb2-1580f9cd6a3d", 
         authority: b2cPolicies.authorities.signUpSignIn.authority, 
         knownAuthorities: [b2cPolicies.authorityDomain], 
         redirectUri: "/",
@@ -53,5 +53,25 @@ export const msalConfig = {
 };
 
 export const loginRequest = {
-    scopes: ["https://mindexb2c.onmicrosoft.com/api/read"]
+    scopes: ["https://painefit.onmicrosoft.com/api/.default"]
 };
+
+export const acquireAccessToken = async (instance) => {
+    const activeAccount = instance.getActiveAccount(); // This will only return a non-null value if you have logic somewhere else that calls the setActiveAccount API
+    const accounts = instance.getAllAccounts();
+  
+    if (!activeAccount && accounts.length === 0) {
+        /*
+        * User is not signed in. Throw error or wait for user to login.
+        * Do not attempt to log a user in outside of the context of MsalProvider
+        */   
+    }
+    const request = {
+        scopes: loginRequest.scopes,
+        account: activeAccount || accounts[0],
+    };
+  
+    const authResult = await instance.acquireTokenSilent(request);
+  
+    return authResult;
+  };

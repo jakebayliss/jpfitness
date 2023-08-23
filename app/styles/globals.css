@@ -20,6 +20,10 @@ body {
   background: #EFF2FF;
 }
 
+.secondary-colour {
+  background-color: #EFF2FF;
+}
+
 .burger::before, .burger::after {
   content: '';
   display: block;
@@ -72,6 +76,12 @@ summary {
 
 .page-title {
   background-color: #8497EB;
+}
+
+.content-page {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 0 20px;
 }
 
 ul {

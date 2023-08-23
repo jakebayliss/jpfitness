@@ -1,6 +1,6 @@
 ---
 title: "Day 2"
-pageNumber: 1
+pageNumber: 3
 nextPage: 'day3'
 previousPage: 'day1'
 ---
