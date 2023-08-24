@@ -5,6 +5,7 @@ week: 1
 nextPage: 'week1-cardio'
 previousPage: 'week1-legs-and-abs'
 ---
+
 Shoulder day is hereeeee - because it's one of my favourite days I typically throw it in after legs as motivation to get through leg day hahah. As with all other days start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously.
 
 Shoulders have probably been my weakest (looks & strength wise) muscle group for my whole gym career, particularly at the start. Due to this, I would hit them x2 a week in the early stages of my gym career to catch them up with the rest of my body. During this process they quickly became one of my favourite body parts to train. This paid off tremendously when I picked up surfing as shoulder strength (and back) are key to paddling technique! They're also one of the main features visible in t-shirts so they're key to having a great physique.

@@ -1,12 +1,14 @@
-import { promises as fs } from 'fs';
-import Link from 'next/link';
+import { GetStaticProps, GetStaticPaths  } from 'next';
 import path from 'path';
+import { promises as fs } from 'fs';
 import matter, { FrontMatterResult } from 'front-matter';
 import { IWorkout } from '@/interfaces/IWorkout';
+import ReactMarkdown from 'react-markdown'
+import rehypeRaw from 'rehype-raw';
 import Header from '@/components/Header';
+import Link from 'next/link';
 
-const Index = (props) => {
-  console.log(props.folders);
+const Index = (props: any) => {
   return (
     <main>
       <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
@@ -23,16 +25,18 @@ const Index = (props) => {
     </main>
   )
 }
- 
-export async function getStaticProps() {
-  const folder = path.join(process.cwd(), './content/bundle');
-  const filenames = await fs.readdir(folder);
 
-  console.log(filenames);
+export const getStaticPaths: GetStaticPaths = async () => {
+  const folder = path.join(process.cwd(), './content/bundle/Week4')
+  const filenames = await fs.readdir(folder);
+  const slugs = filenames.map(s => s.replace('.md', ''));
+
   return {
-    props: {
-      folders: filenames,
-    },
+    paths: slugs.map(s => ({
+      params: {
+        slug: s
+      }})),
+    fallback: false
   }
 }
 

@@ -1,4 +1,3 @@
-
 ---
 title: "Welcome"
 week: 1

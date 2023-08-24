@@ -38,7 +38,7 @@ const Home = () => {
     <main>
       <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center '>
         <h1>Paine-Fit</h1>
-        <Header links={null}/>
+        <Header />
       </div>
       <div className='content-page flex flex-col m-10 gap-4'>
         <div className='flex flex-col gap-4 px-6 py-3 bg-white rounded-lg text-center font-bold'>
