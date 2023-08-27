@@ -264,7 +264,6 @@ export class ApiException extends Error {
 }
 
 function throwException(message: string, status: number, response: string, headers: { [key: string]: any; }, result?: any): any {
-    debugger;
     if (result !== null && result !== undefined)
         throw result;
     else
