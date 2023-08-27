@@ -14,7 +14,7 @@ const Index = (props: any) => {
       </div>
       <div className='content-page'>
         {props.workouts.sort((a,b)=>a.order-b.order).map((workout, i) => (
-          <Link href={`./week1/${workout.title}`} key={i}>
+          <Link href={`./week1/${workout.link}`} key={i}>
             <h3>{workout.title}</h3>
           </Link>
         ))}
@@ -29,7 +29,7 @@ export async function getStaticProps() {
   const slugs = filenames.map(async s => {
     const content = (await fs.readFile(`./content/bundle/week1/${s}`)).toString();
     const data = matter(content) as FrontMatterResult<IWorkout>;
-    return {title: data.attributes.title, order: data.attributes.pageNumber};
+    return {title: data.attributes.title, link:s.replace('.md', ''), order: data.attributes.pageNumber};
   });
 
   return {

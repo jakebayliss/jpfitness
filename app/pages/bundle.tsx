@@ -6,7 +6,6 @@ import { IWorkout } from '@/interfaces/IWorkout';
 import Header from '@/components/Header';
 
 const Index = (props) => {
-  console.log(props.folders);
   return (
     <main>
       <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
@@ -14,9 +13,9 @@ const Index = (props) => {
         <Header />
       </div>
       <div className='content-page'>
-        {props.folders.map((folder, i) => (
-          <Link href={`./bundle/${folder}`} key={i}>
-            <h3>{folder}</h3>
+        {props.workouts.map((workout, i) => (
+          <Link href={`./bundle/${workout.folder}`} key={i}>
+            <h3>{workout.title}</h3>
           </Link>
         ))}
       </div>
@@ -28,11 +27,22 @@ export async function getStaticProps() {
   const folder = path.join(process.cwd(), './content/bundle');
   const filenames = await fs.readdir(folder);
 
-  console.log(filenames);
   return {
     props: {
-      folders: filenames,
-    },
+      workouts: filenames.map((filename) => {
+          const capitalisedFirstLetter = filename.charAt(0).toUpperCase() + filename.slice(1);
+          if(filename.includes('.md')) {
+            return {
+              title: capitalisedFirstLetter.replace('.md', ''),
+              folder: filename
+            }
+          };
+          return {
+            title:capitalisedFirstLetter.substring(0, 4) + " " + capitalisedFirstLetter.substring(4),
+            folder: filename
+          }
+      })
+    }
   }
 }
 

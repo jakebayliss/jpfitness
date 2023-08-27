@@ -1,10 +1,7 @@
-import { GetStaticProps, GetStaticPaths  } from 'next';
 import path from 'path';
 import { promises as fs } from 'fs';
 import matter, { FrontMatterResult } from 'front-matter';
 import { IWorkout } from '@/interfaces/IWorkout';
-import ReactMarkdown from 'react-markdown'
-import rehypeRaw from 'rehype-raw';
 import Header from '@/components/Header';
 import Link from 'next/link';
 
@@ -16,9 +13,9 @@ const Index = (props: any) => {
         <Header />
       </div>
       <div className='content-page'>
-        {props.folders.map((folder, i) => (
-          <Link href={`./bundle/${folder}`} key={i}>
-            <h3>{folder}</h3>
+        {props.workouts.sort((a,b)=>a.order-b.order).map((workout, i) => (
+          <Link href={`./week3/${workout.link}`} key={i}>
+            <h3>{workout.title}</h3>
           </Link>
         ))}
       </div>
@@ -26,17 +23,19 @@ const Index = (props: any) => {
   )
 }
 
-export const getStaticPaths: GetStaticPaths = async () => {
-  const folder = path.join(process.cwd(), './content/bundle/Week3')
+export async function getStaticProps() {
+  const folder = path.join(process.cwd(), './content/bundle/week3');
   const filenames = await fs.readdir(folder);
-  const slugs = filenames.map(s => s.replace('.md', ''));
+  const slugs = filenames.map(async s => {
+    const content = (await fs.readFile(`./content/bundle/week3/${s}`)).toString();
+    const data = matter(content) as FrontMatterResult<IWorkout>;
+    return {title: data.attributes.title, link:s.replace('.md', ''), order: data.attributes.pageNumber};
+  });
 
   return {
-    paths: slugs.map(s => ({
-      params: {
-        slug: s
-      }})),
-    fallback: false
+    props: {
+      workouts: await Promise.all(slugs),
+    },
   }
 }
 
