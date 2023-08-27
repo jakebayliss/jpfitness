@@ -1,8 +1,6 @@
 import { promises as fs } from 'fs';
 import Link from 'next/link';
 import path from 'path';
-import matter, { FrontMatterResult } from 'front-matter';
-import { IWorkout } from '@/interfaces/IWorkout';
 import Header from '@/components/Header';
 
 const Index = (props) => {

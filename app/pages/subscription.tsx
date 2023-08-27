@@ -1,26 +1,19 @@
 import { promises as fs } from 'fs';
 import Link from 'next/link';
 import path from 'path';
-import matter, { FrontMatterResult } from 'front-matter';
-import { IWorkout } from '@/interfaces/IWorkout';
 import Header from '@/components/Header';
 
-const Index = ({workouts}: {
-    workouts: {
-      data: FrontMatterResult<IWorkout>;
-      slug: string;
-    }[]
-  }) => {
+const Index = (props) => {
   return (
     <main>
       <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
-        <h1>Subscription</h1>
+        <h1>Bundle</h1>
         <Header />
       </div>
       <div className='content-page'>
-        {workouts.sort(x => x.data.attributes.pageNumber).map((w, i) => (
-          <Link href={`./subscription/${w.slug}`} key={i}>
-            <h3>Week {w.data.attributes.week} - {w.data.attributes.title}</h3>
+        {props.workouts.map((workout, i) => (
+          <Link href={`./subscription/${workout.folder}`} key={i}>
+            <h3>{workout.title}</h3>
           </Link>
         ))}
       </div>
@@ -31,18 +24,23 @@ const Index = ({workouts}: {
 export async function getStaticProps() {
   const folder = path.join(process.cwd(), './content/subscription');
   const filenames = await fs.readdir(folder);
-  const workouts = filenames.filter(async f => f.endsWith('.md')).map(async f => {
-    var content = (await fs.readFile(`./content/subscription/${f}`)).toString();
-    return {
-      data: matter(content) as FrontMatterResult<IWorkout>,
-      slug: f.replace('.md', '')
-    };
-  });
 
   return {
     props: {
-      workouts: await Promise.all(workouts),
-    },
+      workouts: filenames.map((filename) => {
+          const capitalisedFirstLetter = filename.charAt(0).toUpperCase() + filename.slice(1);
+          if(filename.includes('.md')) {
+            return {
+              title: capitalisedFirstLetter.replace('.md', ''),
+              folder: filename
+            }
+          };
+          return {
+            title:capitalisedFirstLetter.substring(0, 4) + " " + capitalisedFirstLetter.substring(4),
+            folder: filename
+          }
+      })
+    }
   }
 }
 
