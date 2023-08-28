@@ -1,6 +1,6 @@
 ---
 title: "Let's get it!"
-pagenumber: 1
+pageNumber: 1
 week: 6
 nextPage: 'week6-arms'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Chest & Back"
-pagenumber: 3
+pageNumber: 3
 week: 6
 nextPage: 'week6-legs'
 previousPage: 'week6-arms'

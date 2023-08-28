@@ -1,9 +1,10 @@
 ---
 title: "YOU GOT THIS"
-pagenumber: 1
+pageNumber: 1
 week: 7
 nextPage: 'week7-arms'
 ---
+
 Fantastic progress! You've reached Week 7, and I'm thrilled to see your dedication and hard work throughout this fitness journey.
 
 As promised, Week 7 follows a similar structure to Weeks 3 and 5 but with some exciting modifications. Congratulations on making it this far; you're well on your way to achieving your fitness goals!

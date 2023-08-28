@@ -1,6 +1,6 @@
 ---
 title: "Cardio & Extras"
-pagenumber: 6
+pageNumber: 6
 week: 7
 previousPage: 'week7-shoulders'
 ---

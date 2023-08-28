@@ -1,6 +1,6 @@
 ---
 title: "Legs"
-pagenumber: 4
+pageNumber: 4
 week: 7
 nextPage: 'week7-shoulders'
 previousPage: 'week7-chest-and-back'
