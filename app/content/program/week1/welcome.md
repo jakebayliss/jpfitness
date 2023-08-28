@@ -2,7 +2,6 @@
 title: "Welcome"
 pageNumber: 1
 week: 1
-pageNumber: 1
 nextPage: 'week1-arms'
 ---
 
