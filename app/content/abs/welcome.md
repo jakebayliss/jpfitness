@@ -1,5 +1,5 @@
 ---
-title: "Day 1 - Welcome"
+title: "Welcome"
 week: 1
 pageNumber: 1
 nextPage: 'day1'
