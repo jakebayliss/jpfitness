@@ -22,6 +22,8 @@ nextPage: 'week1-welcome'
 
 - ENSURE YOU'RE WARMING UP BEFORE EVERY SINGLE WORKOUT and please follow the tutorial videos provided! 
 
+</details>
+
 <details>
 <summary><b>Arms</b></summary>
 
