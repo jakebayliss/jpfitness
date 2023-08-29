@@ -14,7 +14,6 @@ export class UsersClient implements IUsersClient {
     }
 
     getJPUserFromEmail(userId: string, token: string): Promise<JPUserDto> {
-        debugger;
         let url_ = this.baseUrl + "/jpusers/{userId}";
         if (userId === undefined || userId === null)
             throw new Error("The parameter 'userId' must be defined.");
@@ -37,7 +36,6 @@ export class UsersClient implements IUsersClient {
     protected processGetJPUserFromEmail(response: Response): Promise<JPUserDto> {
         const status = response.status;
         let _headers: any = {}; if (response.headers && response.headers.forEach) { response.headers.forEach((v: any, k: any) => _headers[k] = v); };
-        debugger;
         if (status === 200) {
             return response.text().then((_responseText) => {
             let result200: any = null;
@@ -266,7 +264,6 @@ export class ApiException extends Error {
 }
 
 function throwException(message: string, status: number, response: string, headers: { [key: string]: any; }, result?: any): any {
-    debugger;
     if (result !== null && result !== undefined)
         throw result;
     else

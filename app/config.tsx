@@ -1,1 +1,1 @@
-export const BASE_API_URL: string = "https://localhost:7213";
+export const BASE_API_URL: string = "https://dev-mindex-api.azurewebsites.net";

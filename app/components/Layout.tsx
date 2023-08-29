@@ -12,9 +12,10 @@ interface LayoutProps {
 
 const Layout = ({children}: LayoutProps) => {
   const [user, setUser] = useState<AccountInfo | null>(null);
+  const [products, setProducts] = useState<string[]>([]);
 
   return (
-    <UserContext.Provider value={{user, setUser}}>
+    <UserContext.Provider value={{user, setUser, products, setProducts}}>
       <MsalProvider instance={msalInstance}>
         {children}
       </MsalProvider>
