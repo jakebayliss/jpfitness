@@ -17,7 +17,7 @@ Comprehensive exercise guidance is provided in the Tutorial Video for each worko
 Finally, if you need help understanding anything, want my assistance or personalised advice then feel free to email me: painefit@gmail.com, make sure to the subject is FITNESS PROGRAM so it's guaranteed that I see and respond to your enquiry!
 
 <details>
-<summary><b>Abs</b></summary
+<summary><b>Abs</b></summary>
 
 - As you'll see as you progress through the program there are 3 ab routines which I rotate between 
 
@@ -26,7 +26,7 @@ Finally, if you need help understanding anything, want my assistance or personal
 - Considering the cardio day we all do on Day 5 of the program I'm only going to make you do abs twice a week, at the end of Day 1 - Arms and Day 3 - Legs. This is done strategically so that you're effectively working abs 3 times per week, with the last time being on cardio day
 
 <details>
-<summary><b>Diet</b></summary
+<summary><b>Diet</b></summary>
 
 - You'll notice I don't have any dietary advice in this workout program as I don't consider myself knowledgeable enough in the field to provide comprehensive enough advice
 
@@ -45,14 +45,14 @@ Finally, if you need help understanding anything, want my assistance or personal
 </details>
 
 <details>
-<summary><b>Weight Recommendations</b></summary
+<summary><b>Weight Recommendations</b></summary>
 
 - The framework I've found best over the years is starting with a weight you can barely hit 8 reps with, then stay on that weight til you're COMFORTABLY getting 10 reps, then increase weight so you barely hit 8 reps again, stay on them til you hit 10 and repeat repeat repeat!
 
 - This framework is to be applied only once you've got your form near-perfect in every exercise. Don't hurt yourself with poor form - it will completely hinder your workout career
 
 <details>
-<summary><b>Terminology</b></summary
+<summary><b>Terminology</b></summary>
 
 - Rep: Repitition, means one single up/down/forward/back movement (1 bicep curl is 1 rep)
 
@@ -69,7 +69,7 @@ Finally, if you need help understanding anything, want my assistance or personal
 </details>
 
 <details>
-<summary><b>Tips</b></summary
+<summary><b>Tips</b></summary>
 
 - WARM UP: Warm-up tutorial videos are provided in the WARM-UP tab. Follow the corresponding video depending on which body area you're focussing on AND MAKE SURE YOU DO IT BEFORE EVERY WORKOUT!!
 

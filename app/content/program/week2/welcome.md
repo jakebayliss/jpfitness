@@ -16,7 +16,7 @@ Week 2 is an essential motivation week. I understand that some days may be tough
 As previously mentioned feel free to Email me: painefit@gmail.com - make sure to include FITNESS PROGAM as the subject so I see your email!
 
 <details>
-<summary><b>Warm-ups</b></summary
+<summary><b>Warm-ups</b></summary>
 
 Warming up is one of the most important parts of working out. It prevents injury and ensures you will be able to work out for many years to come.
 

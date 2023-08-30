@@ -7,7 +7,7 @@ previousPage: 'week8-legs'
 ---
 
 <details>
-<summary><b>Smith Machine Press</b></summary
+<summary><b>Smith Machine Press</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -32,7 +32,7 @@ previousPage: 'week8-legs'
 </details>
 
 <details>
-<summary><b>Front & Side Head SS</b></summary
+<summary><b>Front & Side Head SS</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -53,7 +53,7 @@ previousPage: 'week8-legs'
 </details>
 
 <details>
-<summary><b>Face-Pulls</b></summary
+<summary><b>Face-Pulls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -78,7 +78,7 @@ previousPage: 'week8-legs'
 </details>
 
 <details>
-<summary><b>Cable Lateral Raises</b></summary
+<summary><b>Cable Lateral Raises</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -101,7 +101,7 @@ previousPage: 'week8-legs'
 </details>
 
 <details>
-<summary><b>DB Press</b></summary
+<summary><b>DB Press</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

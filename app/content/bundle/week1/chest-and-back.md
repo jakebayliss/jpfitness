@@ -39,7 +39,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>Incline flys</b></summary
+<summary><b>Incline flys</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -58,7 +58,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>T-bar Rows</b></summary
+<summary><b>T-bar Rows</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -77,7 +77,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>Cables up & down</b></summary
+<summary><b>Cables up & down</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -116,7 +116,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 - I do 10.5kg for 8 reps in this direction
 
 <details>
-<summary><b>Lat Pulldowns</b></summary
+<summary><b>Lat Pulldowns</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -135,7 +135,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>Bench</b></summary
+<summary><b>Bench</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -154,7 +154,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 </details>
 
 <details>
-<summary><b>Pull-ups</b></summary
+<summary><b>Pull-ups</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

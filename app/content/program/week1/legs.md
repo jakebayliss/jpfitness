@@ -7,7 +7,7 @@ previousPage: 'week1-chest-and-back'
 ---
 
 <details>
-<summary><b>Notes</b></summary
+<summary><b>Notes</b></summary>
 
 The dreaded leg day has come round. As with Day 1, start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously.
 
@@ -16,7 +16,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Lunges SS Free-weight Squats</b></summary
+<summary><b>Lunges SS Free-weight Squats</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -49,7 +49,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Extensions</b></summary
+<summary><b>Leg Extensions</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -70,7 +70,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Press SS Calf Raises</b></summary
+<summary><b>Leg Press SS Calf Raises</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -93,7 +93,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Hamstring Machine</b></summary
+<summary><b>Hamstring Machine</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -112,7 +112,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Extension Machine</b></summary
+<summary><b>Leg Extension Machine</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

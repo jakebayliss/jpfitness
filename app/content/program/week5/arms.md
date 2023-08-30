@@ -7,7 +7,7 @@ previousPage: 'week5-welcome'
 ---
 
 <details>
-<summary><b>21s Superset</b></summary
+<summary><b>21s Superset</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -38,7 +38,7 @@ previousPage: 'week5-welcome'
 </details>
 
 <details>
-<summary><b>Dips SS Hammers</b></summary
+<summary><b>Dips SS Hammers</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -79,7 +79,7 @@ previousPage: 'week5-welcome'
 </details>
 
 <details>
-<summary><b>Incline Bench Curls</b></summary
+<summary><b>Incline Bench Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -106,7 +106,7 @@ previousPage: 'week5-welcome'
 </details>
 
 <details>
-<summary><b>Rope Extensions SS CG Curls</b></summary
+<summary><b>Rope Extensions SS CG Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -144,7 +144,7 @@ previousPage: 'week5-welcome'
 - Can you beat me? Currently repping 45kg for 8 reps on CG curls
 
 <details>
-<summary><b>Preacher Curls SS Long Negatives</b></summary
+<summary><b>Preacher Curls SS Long Negatives</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -165,7 +165,7 @@ previousPage: 'week5-welcome'
 - I currently do 12.5kg on either side of the bar for 8 reps then 4-6 ultra long negatives to finish each set
 
 <details>
-<summary><b>Overhead Extensions</b></summary
+<summary><b>Overhead Extensions</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

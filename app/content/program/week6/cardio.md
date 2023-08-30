@@ -6,7 +6,7 @@ previousPage: 'week6-shoulders'
 ---
 
 <details>
-<summary><b>Week 6: HIIT Workout</b></summary
+<summary><b>Week 6: HIIT Workout</b></summary>
 
 - [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 
@@ -55,7 +55,7 @@ Cool-down:
 </details>
 
 <details>
-<summary><b>Alternatives</b></summary
+<summary><b>Alternatives</b></summary>
 
 Swim:
 

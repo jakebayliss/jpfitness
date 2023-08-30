@@ -7,7 +7,7 @@ previousPage: 'week3-welcome'
 ---
 
 <details>
-<summary><b>Preacher Curls SS Long Negatives</b></summary
+<summary><b>Preacher Curls SS Long Negatives</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -30,7 +30,7 @@ previousPage: 'week3-welcome'
 </details>
 
 <details>
-<summary><b>Dips SS Hammer Curls</b></summary
+<summary><b>Dips SS Hammer Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -71,7 +71,7 @@ previousPage: 'week3-welcome'
 </details>
 
 <details>
-<summary><b>21s Superset</b></summary
+<summary><b>21s Superset</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -102,7 +102,7 @@ previousPage: 'week3-welcome'
 </details>
 
 <details>
-<summary><b>Rope Pulldowns SS CG Curls</b></summary
+<summary><b>Rope Pulldowns SS CG Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -141,7 +141,7 @@ previousPage: 'week3-welcome'
 </details>
 
 <details>
-<summary><b>Overhead Tricep Extensions</b></summary
+<summary><b>Overhead Tricep Extensions</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

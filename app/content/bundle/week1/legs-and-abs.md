@@ -16,7 +16,7 @@ As with Day 1, start by watching and listening to the tutorial videos carefully.
 For many years after my lower back injury (which happened while squatting) my legs seriously lacked size, and I lacked motivation to train them. Firstly, I was scared my back would give way again, and I was reluctant to train them without including squats. However, they're now a part of my weekly routine and I'm learning to love training them once more. For those of you that would like to squat during my program I've included a section to next week (replacing your lunges next week with squats).
 
 <details>
-<summary><b>Lunges SS Free-weight Squats</b></summary
+<summary><b>Lunges SS Free-weight Squats</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -49,7 +49,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Extensions</b></summary
+<summary><b>Leg Extensions</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -70,7 +70,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Press SS Calf Raises</b></summary
+<summary><b>Leg Press SS Calf Raises</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -93,7 +93,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Hamstring Machine</b></summary
+<summary><b>Hamstring Machine</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -112,7 +112,7 @@ For many years after my lower back injury (which happened while squatting) my le
 </details>
 
 <details>
-<summary><b>Leg Extension Machine</b></summary
+<summary><b>Leg Extension Machine</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

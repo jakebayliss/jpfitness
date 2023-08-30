@@ -7,7 +7,7 @@ previousPage: 'week5-chest-and-back'
 ---
 
 <details>
-<summary><b>Lunges SS Free-Weight Squats</b></summary
+<summary><b>Lunges SS Free-Weight Squats</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -40,7 +40,7 @@ previousPage: 'week5-chest-and-back'
 </details>
 
 <details>
-<summary><b>Leg Extensions</b></summary
+<summary><b>Leg Extensions</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -61,7 +61,7 @@ previousPage: 'week5-chest-and-back'
 </details>
 
 <details>
-<summary><b>Leg Press SS Calf Raises</b></summary
+<summary><b>Leg Press SS Calf Raises</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -84,7 +84,7 @@ previousPage: 'week5-chest-and-back'
 </details>
 
 <details>
-<summary><b>Hamstring Machine</b></summary
+<summary><b>Hamstring Machine</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

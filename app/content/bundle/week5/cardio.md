@@ -6,7 +6,7 @@ previousPage: 'week5-shoulders'
 ---
 
 <details>
-<summary><b>Swim</b></summary
+<summary><b>Swim</b></summary>
 
 As you can see in the title this week we're back around to our swim. As always, there are alternatives below if you don't have access to a pool/don't want to swim!
 
@@ -109,7 +109,7 @@ Cool down:
 </details>
 
 <details>
-<summary><b>Alternatives</b></summary
+<summary><b>Alternatives</b></summary>
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 

@@ -6,7 +6,7 @@ previousPage: 'week4-shoulders'
 ---
 
 <details>
-<summary><b>Week 4: Outdoor Jogging</b></summary
+<summary><b>Week 4: Outdoor Jogging</b></summary>
 
 Warm-up:
 
@@ -33,7 +33,7 @@ Cooldown:
 </details>
 
 <details>
-<summary><b>Alternatives</b></summary
+<summary><b>Alternatives</b></summary>
 
 HIIT Class:
 

@@ -7,7 +7,7 @@ previousPage: 'week8-arms'
 ---
 
 <details>
-<summary><b>Incline DB Press</b></summary
+<summary><b>Incline DB Press</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -30,7 +30,7 @@ previousPage: 'week8-arms'
 </details>
 
 <details>
-<summary><b>T-Bar Rows</b></summary
+<summary><b>T-Bar Rows</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -49,7 +49,7 @@ previousPage: 'week8-arms'
 </details>
 
 <details>
-<summary><b>Flat DB Press SS Burners</b></summary
+<summary><b>Flat DB Press SS Burners</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -70,7 +70,7 @@ previousPage: 'week8-arms'
 </details>
 
 <details>
-<summary><b>Row Machine</b></summary
+<summary><b>Row Machine</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -89,7 +89,7 @@ previousPage: 'week8-arms'
 </details>
 
 <details>
-<summary><b>Pull-Ups</b></summary
+<summary><b>Pull-Ups</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -106,7 +106,7 @@ previousPage: 'week8-arms'
 - As many bodyweight reps as you can for 3 sets!
 
 <details>
-<summary><b>Bench</b></summary
+<summary><b>Bench</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -125,7 +125,7 @@ previousPage: 'week8-arms'
 </details>
 
 <details>
-<summary><b>Cables (Up & Down)</b></summary
+<summary><b>Cables (Up & Down)</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

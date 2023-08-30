@@ -7,7 +7,7 @@ previousPage: 'week7-arms'
 ---
 
 <details>
-<summary><b>Bench</b></summary
+<summary><b>Bench</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -28,7 +28,7 @@ previousPage: 'week7-arms'
 </details>
 
 <details>
-<summary><b>Incline DB Press</b></summary
+<summary><b>Incline DB Press</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -51,7 +51,7 @@ previousPage: 'week7-arms'
 </details>
 
 <details>
-<summary><b>T-Bar Rows</b></summary
+<summary><b>T-Bar Rows</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -70,7 +70,7 @@ previousPage: 'week7-arms'
 </details>
 
 <details>
-<summary><b>Incline Flys</b></summary
+<summary><b>Incline Flys</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -89,7 +89,7 @@ previousPage: 'week7-arms'
 </details>
 
 <details>
-<summary><b>Lat Pulldowns</b></summary
+<summary><b>Lat Pulldowns</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -108,7 +108,7 @@ previousPage: 'week7-arms'
 </details>
 
 <details>
-<summary><b>Cables (Up & Down)</b></summary
+<summary><b>Cables (Up & Down)</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -147,7 +147,7 @@ previousPage: 'week7-arms'
 </details>
 
 <details>
-<summary><b>Pull-Ups</b></summary
+<summary><b>Pull-Ups</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

@@ -6,7 +6,7 @@ previousPage: 'week8-shoulders'
 ---
 
 <details>
-<summary><b>HIIT Workout</b></summary
+<summary><b>HIIT Workout</b></summary>
 
 - HIIT Workout to finish your 8 week journey - this one's an absolute killer!!!! 
 
@@ -57,7 +57,7 @@ Cool-down:
 </details>
 
 <details>
-<summary><b>Alternatives</b></summary
+<summary><b>Alternatives</b></summary>
 
 Swim:
 

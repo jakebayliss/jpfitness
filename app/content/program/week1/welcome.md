@@ -5,7 +5,7 @@ week: 1
 nextPage: 'week1-arms'
 ---
 <details>
-<summary><b>Week 1</b></summary
+<summary><b>Week 1</b></summary>
 
 WELCOME!!!! Thanks for making the amazing decision to buy my first fitness program. The main thing I need to warn all you guys of is that this is not professional fitness advice, I don't have any personal training/fitness instructor courses under my belt - this is simply my best advice based entirely off what has worked for me for multiple years now. Also, I have a pretty bad lower back, it pops out nearly every single time I do any kind of weighted squats or any deadlifts so I've adapted my regime to not include either of those exercises and I'm extremely careful with my form on particular back exercises/when picking up heavy weights. The majority of you won't have such a problem so feel free to add in squats & deadlifts as you see fit on their respective days.
 
@@ -20,7 +20,7 @@ Finally, if you need help understanding anything, want my assistance or personal
 </details>
 
 <details>
-<summary><b>Diet</b></summary
+<summary><b>Diet</b></summary>
 
 - You'll notice I don't have any dietary advice in this workout program as I don't consider myself knowledgeable enough in the field to provide comprehensive enough advice
 
@@ -41,14 +41,14 @@ Finally, if you need help understanding anything, want my assistance or personal
 </details>
 
 <details>
-<summary><b>Weight Recommendations</b></summary
+<summary><b>Weight Recommendations</b></summary>
 
 - The framework I've found best over the years is starting with a weight you can barely hit 8 reps with, then stay on that weight til you're COMFORTABLY getting 10 reps, then increase weight so you barely hit 8 reps again, stay on them til you hit 10 and repeat repeat repeat!
 
 - This framework is to be applied only once you've got your form near-perfect in every exercise. Don't hurt yourself with poor form - it will completely hinder your workout career
 
 <details>
-<summary><b>Terminology</b></summary
+<summary><b>Terminology</b></summary>
 
 - Rep: Repitition, means one single up/down/forward/back movement (1 bicep curl is 1 rep)
 
@@ -65,7 +65,7 @@ Finally, if you need help understanding anything, want my assistance or personal
 </details>
 
 <details>
-<summary><b>Tips</b></summary
+<summary><b>Tips</b></summary>
 
 - WARM UP: Warm-up tutorial videos are provided in the WARM-UP tab. Follow the corresponding video depending on which body area you're focussing on and MAKE SURE YOU DO IT BEFORE EVERY WORKOUT
 

@@ -7,7 +7,7 @@ previousPage: 'week7-welcome'
 ---
 
 <details>
-<summary><b>21s Superset</b></summary
+<summary><b>21s Superset</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -38,7 +38,7 @@ previousPage: 'week7-welcome'
 </details>
 
 <details>
-<summary><b>Incline Bench Curls</b></summary
+<summary><b>Incline Bench Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -65,7 +65,7 @@ previousPage: 'week7-welcome'
 </details>
 
 <details>
-<summary><b>Dips SS Hammers</b></summary
+<summary><b>Dips SS Hammers</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -106,7 +106,7 @@ previousPage: 'week7-welcome'
 </details>
 
 <details>
-<summary><b>Rope Pulldowns SS CG Curls</b></summary
+<summary><b>Rope Pulldowns SS CG Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -143,7 +143,7 @@ previousPage: 'week7-welcome'
 </details>
 
 <details>
-<summary><b>Overhead Extensions</b></summary
+<summary><b>Overhead Extensions</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
@@ -162,7 +162,7 @@ previousPage: 'week7-welcome'
 </details>
 
 <details>
-<summary><b>Preachers SS Long Negatives</b></summary
+<summary><b>Preachers SS Long Negatives</b></summary>
 
 <figure class="video_container">
   <video controls={true}>

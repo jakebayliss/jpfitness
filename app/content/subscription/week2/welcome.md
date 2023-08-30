@@ -16,7 +16,7 @@ Week 2 is an essential motivation week. I understand that some days may be tough
 As previously mentioned feel free to message me on Insta if you have any questions or just want to chat regarding anything program-related. Make sure you start the DM with FITNESS PROGRAM so I see it!
 
 <details>
-<summary><b>Tips</b></summary 
+<summary><b>Tips</b></summary> 
 
 Arms:
 

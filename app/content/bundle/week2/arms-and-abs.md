@@ -190,7 +190,7 @@ As with both other Ab days, it's a continuous circuit. You do your set of Obliqu
 
 <details>
 
-<summary><b>Oblique Climbers</b></summary
+<summary><b>Oblique Climbers</b></summary>
 
 <figure class="video_container">
   <video controls="true">

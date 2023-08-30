@@ -1,5 +1,5 @@
 <details>
-<summary><b>Notes</b></summary
+<summary><b>Notes</b></summary>
 
 - Warming up is one of the most important parts of working out. It prevents injury by increasing your muscle temperature, which makes them more flexible hence less prone to injury. This ensures you will be able to work out for many years to come.
 
