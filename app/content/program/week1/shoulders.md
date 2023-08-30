@@ -24,8 +24,6 @@ Shoulders have probably been my weakest (looks & strength wise) muscle group for
   </video>
 </figure>
 
-- 
-
 - My personal preference is the seated part of the bench slightly inclined and the back of the bench not directly upright but also slightly inclined
 
 - This makes my movements feel a lot less restricted and puts less direct pressure on my joints

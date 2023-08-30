@@ -27,14 +27,8 @@ As the weeks progress we will explore all these options together - how exciting!
 On Cardio day I'm going to make suggestions based on what I do but I completely understand that not everyone has the same access to facilities as I do (swimming pool, fitness classes etc). Thus, unlike the other days of the program, you do not need to follow this section exactly. If you don't like swimming or aren't signed up to a pool, or if you don't want to fork out money for a fitness class then you don't have to - there are plenty of alternative options available (as listed above). Something as simple as a 30 minute run or long hike with friends will do the same trick (depending on your fitness goals).
 
 <details>
-<summary><b>Swim</b></summary>
+<summary><b>Swim Tips</b></summary>
 
-Tips
-
-- Get into a breathing rhythm - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
-
-- If you don't breathe out all of the air in your lungs while underwater then this leaves space for half as much air to be inhaled on your breath in, it also leaves a build up of waste gases in your lungs making you feel more out of breath. So relax underwater and breath out all the oxygen in your lungs in a slow and controlled manner 
-  
 - Extended, long arm movement forward, as your palm hits the water sweep your arm backwards and down so your forearm is vertical underwater
 
 - Pull your arm all the way backwards, don't give up on that stroke once your hand passes your face
@@ -43,21 +37,34 @@ Tips
 
 - Look down and slightly forward and kick with your toes pointed! 
 
-Easy Swim Workout:
+- Get into a breathing rhythm - breath out for 2 strokes while underwater then rotate your head and breath in on the 3rd stroke and repeat
+
+- Get used to rotating your head both ways when breathing
+
+- If you don't breathe out all of the air in your lungs while underwater then this leaves space for half as much air to be inhaled on your breath in, it also leaves a build up of waste gases in your lungs making you feel more out of breath. So relax underwater and breath out all the oxygen in your lungs in a slow and controlled manner 
+
+</details>
+
+<details>
+<summary><b>Easy Swim</b></summary>
 
 Warm-up:
 
-- Swim 4 lengths of freestyle (up and back in a 25m pool) without stopping.
+- Swim 2 lengths of freestyle (up and back in a 25m pool) without stopping.
 
 - 45-second rest.
+
+Endurance: 
+
+- Swim 4 lengths of freestyle (up and back) without stopping
   
 Speed and Endurance Set (2 sets of slow up, fast back):
 
-- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+- Swim 1 length up at a normal pace, then 1 length back at a fast pace.
   
 - 45-second rest.
   
-- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+- Swim 1 length up at a normal pace, then 1 length back at a fast pace.
   
 - 45-second rest.
 
@@ -65,13 +72,22 @@ Cooldown:
 
 Swim 4 lengths at a relaxed pace to finish.
 
-Intermediate Swim Workout:
+</details>
+
+<details>
+<summary><b>Intermediate Swim</b></summary>
 
 Warm-up:
 
-- Swim 10 lengths of freestyle (one length is 25m) without stopping
+- Swim 4 lengths of freestyle (one length is 25m) without stopping
 
 - 30-second rest
+
+Endurance:
+
+- Swim 8 lengths of freestyle (up and back) without stopping
+
+- 60 second rest
   
 Speed and Endurance Set (3 sets of slow up, fast back):
 
@@ -91,25 +107,34 @@ Cool down:
 
 - Swim 4 lengths at a relaxed pace to finish
 
-Hard Swim Workout:
+</details>
+
+<details>
+<summary><b>Hard Swim</b></summary>
 
 Warm-up:
 
-- Swim 12 lengths of freestyle (up and back in a 25m pool) without stopping.
+- Swim 4 lengths of freestyle (up and back in a 25m pool) without stopping.
   
 - 20-second rest.
-  
-Speed and Endurance Set (3 sets of slow up, fast back):
 
-- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+Endurance:
+
+- Swim 16 lengths of freestyle (up and back) without stopping
+
+- 45 second rest
+  
+Speed and Endurance Set (3 sets of normal up, fast back):
+
+- Swim 1 length up the pool, then immediately 1 length back as fast as you can
 
 - 20-second rest
 
-- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+- Swim 1 length up the pool, then immediately 1 length back as fast as you can
   
 - 20-second rest
 
-- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+- Swim 1 length up the pool, then immediately 1 length back as fast as you can
   
 - 20-second rest
 

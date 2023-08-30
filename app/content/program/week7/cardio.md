@@ -6,16 +6,15 @@ previousPage: 'week7-shoulders'
 ---
 
 <details>
-<summary><b>Week 7: Swim</b></summary>
+<summary><b>Swim</b></summary>
 
 Aaaaaand we're back in the pool! Try and jump up a tier of workout difficulty. So if you've been sticking to the easy one hit the intermediate (same if you've been playing it safe with intermediate). It'll be considerably harder but you'll be feeling so fkn good walking away from the pool afterwards!
 
-Tips
+</details>
 
-- Get into a breathing rhythm - breath out for 3 strokes while underwater then breathe in and repeat, rotating your head (breathing) on both sides of your body
+<details>
+<summary><b>Tips</b></summary>
 
-- If you don't breathe out all of the air in your lungs while underwater then this leaves space for half as much air to be inhaled on your breath in, it also leaves a build up of waste gases in your lungs making you feel more out of breath. So relax underwater and breath out all the oxygen in your lungs in a slow and controlled manner 
-  
 - Extended, long arm movement forward, as your palm hits the water sweep your arm backwards and down so your forearm is vertical underwater
 
 - Pull your arm all the way backwards, don't give up on that stroke once your hand passes your face
@@ -24,21 +23,34 @@ Tips
 
 - Look down and slightly forward and kick with your toes pointed! 
 
-Easy Swim Workout:
+- Get into a breathing rhythm - breath out for 2 strokes while underwater then rotate your head and breath in on the 3rd stroke and repeat
+
+- Get used to rotating your head both ways when breathing
+
+- If you don't breathe out all of the air in your lungs while underwater then this leaves space for half as much air to be inhaled on your breath in, it also leaves a build up of waste gases in your lungs making you feel more out of breath. So relax underwater and breath out all the oxygen in your lungs in a slow and controlled manner 
+
+</details>
+
+<details>
+<summary><b>Easy Swim</b></summary>
 
 Warm-up:
 
-- Swim 4 lengths of freestyle (up and back in a 25m pool) without stopping.
+- Swim 2 lengths of freestyle (up and back in a 25m pool) without stopping.
 
 - 45-second rest.
+
+Endurance: 
+
+- Swim 4 lengths of freestyle (up and back) without stopping
   
 Speed and Endurance Set (2 sets of slow up, fast back):
 
-- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+- Swim 1 length up at a normal pace, then 1 length back at a fast pace.
   
 - 45-second rest.
   
-- Swim 1 slow length up the pool, then 1 length back at a comfortable pace.
+- Swim 1 length up at a normal pace, then 1 length back at a fast pace.
   
 - 45-second rest.
 
@@ -46,13 +58,22 @@ Cooldown:
 
 Swim 4 lengths at a relaxed pace to finish.
 
-Intermediate Swim Workout:
+</details>
+
+<details>
+<summary><b>Intermediate Swim</b></summary>
 
 Warm-up:
 
-- Swim 10 lengths of freestyle (one length is 25m) without stopping
+- Swim 4 lengths of freestyle (one length is 25m) without stopping
 
 - 30-second rest
+
+Endurance:
+
+- Swim 8 lengths of freestyle (up and back) without stopping
+
+- 60 second rest
   
 Speed and Endurance Set (3 sets of slow up, fast back):
 
@@ -72,25 +93,34 @@ Cool down:
 
 - Swim 4 lengths at a relaxed pace to finish
 
-Hard Swim Workout:
+</details>
+
+<details>
+<summary><b>Hard Swim</b></summary>
 
 Warm-up:
 
-- Swim 12 lengths of freestyle (up and back in a 25m pool) without stopping.
+- Swim 4 lengths of freestyle (up and back in a 25m pool) without stopping.
   
 - 20-second rest.
-  
-Speed and Endurance Set (3 sets of slow up, fast back):
 
-- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+Endurance:
+
+- Swim 16 lengths of freestyle (up and back) without stopping
+
+- 45 second rest
+  
+Speed and Endurance Set (3 sets of normal up, fast back):
+
+- Swim 1 length up the pool, then immediately 1 length back as fast as you can
 
 - 20-second rest
 
-- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+- Swim 1 length up the pool, then immediately 1 length back as fast as you can
   
 - 20-second rest
 
-- Swim 1 slow length up the pool, then immediately 1 length back as fast as you can
+- Swim 1 length up the pool, then immediately 1 length back as fast as you can
   
 - 20-second rest
 
@@ -99,7 +129,7 @@ Cool down:
 - Swim 6 lengths at a relaxed pace to finish
 
 </details>
-
+  
 <details>
 <summary><b>Alternatives</b></summary>
   
@@ -136,7 +166,6 @@ Cooldown:
 - Static stretching for major muscle groups (quads, hamstrings, calves, etc.) for 5-7 minutes.
 
 - Aim for a total workout time of 30-45 mins
-
 
 HIIT Workout:
 
@@ -183,5 +212,3 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
-
-</details>
