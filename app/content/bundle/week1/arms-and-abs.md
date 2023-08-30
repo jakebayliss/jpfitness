@@ -117,7 +117,7 @@ You guys are also hitting abs today after arms so make sure you're ready to grin
 </details>
 
 <details>
-<summary><b>Rope Pulldowns Superset Close-grip Curls</b></summary>
+<summary><b>Rope Pulldowns SS Close-grip Curls</b></summary>
 
 <figure class="video_container">
   <video controls={true}>
