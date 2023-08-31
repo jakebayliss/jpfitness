@@ -14,7 +14,7 @@ const Index = (props: any) => {
       </div>
       <div className='content-page'>
         {props.workouts.sort((a,b)=>a.order-b.order).map((workout, i) => (
-          <Link href={`./${workout.link}`} key={i}>
+          <Link href={`./abs/${workout.link}`} key={i}>
             <h3>{workout.title}</h3>
           </Link>
         ))}
