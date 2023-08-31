@@ -35,10 +35,6 @@ const Home = () => {
     })();
   }, [usersClient]);
 
-  useEffect(() => {
-    console.log(products);
-  }, [products]);
-
   return (
     <main>
       <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center '>

@@ -30,7 +30,7 @@ const Index = (props) => {
             ))
           ) : (
             <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white rounded-lg shadow-md'>
-              <p>Looks like you haven't bought this product yet!</p>
+              <p>Looks like you haven&apos;t bought this product yet!</p>
               <p>Head to our store front below to make the purchase.</p>
               <a href='https://joshua-paine-fitness-program.dpdcart.com/' target='_blank'
                 className='px-6 py-3 secondary-colour rounded-lg font-bold'>STORE</a>
