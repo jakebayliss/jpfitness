@@ -8,7 +8,7 @@ previousPage: 'welcome'
 <details>
 <summary><b>Notes</b></summary>
 
-Here we go!! First Ab exercise for you guys - as always, start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously. The girl who runs the online Pilates classes I do does this during her sessions and it helps more than you can imagine. I've also provided a written description if you'd rather read it before each set.
+Here we go!! First Ab day for you guys. As always, start by watching and listening to the tutorial videos carefully. I explain everything I'm thinking/doing during the actual set which I find helps tremendously. The girl who runs the online Pilates classes I do does this during her sessions and it helps more than you can imagine. I've also provided a written description if you'd rather read it before each set.
 
 Ab circuit explanation: 
 
