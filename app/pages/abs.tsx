@@ -4,14 +4,42 @@ import matter, { FrontMatterResult } from 'front-matter';
 import { IWorkout } from '@/interfaces/IWorkout';
 import Header from '@/components/Header';
 import Link from 'next/link';
-import { useContext } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import { User, UserContext } from '@/auth/UserContext';
+import { acquireAccessToken } from '@/auth/authConfig';
+import { UsersClient } from '@/api-client';
+import { BASE_API_URL } from '@/config';
+import { useMsal } from '@azure/msal-react';
 
 const Index = (props) => {
-  const { user, products } = useContext<User>(UserContext);
+  const { user, setUser, products, setProducts } = useContext<User>(UserContext);
+  const [usersClient, setUsersClient] = useState<UsersClient>();
+  const { instance, accounts } = useMsal();
+  const b2cUser = accounts[0];
   
   let access = user !== null;
   let hasBoughtProduct = products.some(product => product === 'Abs');
+  console.log(user, access, products, hasBoughtProduct);
+
+  useEffect(() => {
+    (async () => {
+      setUsersClient(new UsersClient(BASE_API_URL));
+    })();
+  }, []);
+  
+  useEffect(() => {
+    (async () => {
+      if (usersClient && b2cUser && !user) {
+        var token = await acquireAccessToken(instance);
+        const user = await usersClient.getJPUserFromEmail(b2cUser.username, token.idToken);
+        if(user) {
+          setUser(b2cUser);
+          setProducts(user.products);
+        }
+      }
+    })();
+  }, [usersClient]);
+  
   return (
     <main>
       <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>

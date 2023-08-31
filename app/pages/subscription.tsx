@@ -2,14 +2,42 @@ import { promises as fs } from 'fs';
 import Link from 'next/link';
 import path from 'path';
 import Header from '@/components/Header';
-import { useContext } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import { User, UserContext } from '@/auth/UserContext';
+import { UsersClient } from '@/api-client';
+import { useMsal } from '@azure/msal-react';
+import { BASE_API_URL } from '@/config';
+import { acquireAccessToken } from '@/auth/authConfig';
 
 const Index = (props) => {
-  const { user, products } = useContext<User>(UserContext);
-   
+  const { user, setUser, products, setProducts } = useContext<User>(UserContext);
+  const [usersClient, setUsersClient] = useState<UsersClient>();
+  const { instance, accounts } = useMsal();
+  const b2cUser = accounts[0];
+  
   let access = user !== null;
   let hasBoughtProduct = products.some(product => product === 'Subscription');
+  console.log(user, access, products, hasBoughtProduct);
+
+  useEffect(() => {
+    (async () => {
+      setUsersClient(new UsersClient(BASE_API_URL));
+    })();
+  }, []);
+  
+  useEffect(() => {
+    (async () => {
+      if (usersClient && b2cUser && !user) {
+        var token = await acquireAccessToken(instance);
+        const user = await usersClient.getJPUserFromEmail(b2cUser.username, token.idToken);
+        if(user) {
+          setUser(b2cUser);
+          setProducts(user.products);
+        }
+      }
+    })();
+  }, [usersClient]);
+  
   return (
     <main>
       <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
