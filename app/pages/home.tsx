@@ -8,6 +8,7 @@ import { UsersClient } from '@/api-client';
 import { BASE_API_URL } from '../config';
 import { acquireAccessToken } from '@/auth/authConfig';
 import { User, UserContext } from '@/auth/UserContext';
+import Link from 'next/link';
 
 const Home = () => {
   
@@ -27,12 +28,12 @@ const Home = () => {
       if (usersClient && b2cUser) {
         var token = await acquireAccessToken(instance);
         const user = await usersClient.getJPUserFromEmail(b2cUser.username, token.idToken);
-        if(user){
+        if(user) {
           setProducts(user.products);
         }
       }
     })();
-  }, [usersClient])
+  }, [usersClient]);
 
   return (
     <main>
@@ -46,16 +47,16 @@ const Home = () => {
           <p>You know what time it is - it&apos;s time to grind!</p>
         </div>
         {products && products.includes('Abs') && (
-          <a href='./abs' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>ABS</a>
+          <Link href='./abs' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>ABS</Link>
         )}
         {products && products.includes('Program') && (
-          <a href='./program' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>PROGRAM</a>
+          <Link href='./program' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>PROGRAM</Link>
         )}
         {products && products.includes('Bundle') && (
-          <a href='./bundle' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>BUNDLE</a>
+          <Link href='./bundle' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>BUNDLE</Link>
         )}
         {products && products.includes('Subscription') && (
-          <a href='./subscription' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>SUBSCRIPTION</a>
+          <Link href='./subscription' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>SUBSCRIPTION</Link>
         )}
       </div>
     </main>

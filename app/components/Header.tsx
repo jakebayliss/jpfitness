@@ -1,9 +1,13 @@
+import { User, UserContext } from "@/auth/UserContext";
+import { loginRequest } from "@/auth/authConfig";
 import { useMsal } from "@azure/msal-react";
 import Link from "next/link"
-import { useRef } from "react";
+import { useContext, useRef } from "react";
 
 const Header = () => {
-    const { instance } = useMsal();
+    const { instance, accounts } = useMsal();
+    var user = accounts[0];
+    const { setUser } = useContext<User>(UserContext);
     const burgerRef = useRef(null);
     const menuRef = useRef(null);
     const closeRef = useRef(null);
@@ -42,12 +46,21 @@ const Header = () => {
                                 Home
                             </Link>
                         </li>
-                        <li className="mb-1">
-                            <button className="text-end p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
-                                onClick={() => instance.logout()}>
-                                Logout
-                            </button>
-                        </li>
+                        {user !== null ? (
+                            <li className="mb-1">
+                                <button className="text-end p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
+                                    onClick={() => instance.logout()}>
+                                    Logout
+                                </button>
+                            </li>
+                        ) : (
+                            <li className="mb-1">
+                                <button className="text-end p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
+                                    onClick={() => instance.loginPopup(loginRequest).then((response) => setUser(response.account))}>
+                                    Login
+                                </button>
+                            </li>
+                        )}
                     </ul>
                 </nav>
             </div>
