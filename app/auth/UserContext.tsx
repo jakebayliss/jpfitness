@@ -8,4 +8,9 @@ export type User = {
   setProducts: (products: string[]) => void
 };
 
-export const UserContext = createContext<User>({user: null, setUser: (value) => {}, products: [], setProducts: (value) => {}});
+export const UserContext = createContext<User>({
+  user: null, 
+  setUser: (value) => {value}, 
+  products: [], 
+  setProducts: (value) => {value}
+});
