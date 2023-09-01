@@ -16,6 +16,7 @@ const Home = () => {
   const { instance, accounts } = useMsal();
   const b2cUser = accounts[0];
   const { user, setUser, products, setProducts } = useContext<User>(UserContext);
+  const [name, setName] = useState<string>('');
 
   useEffect(() => {
     (async () => {
@@ -31,6 +32,7 @@ const Home = () => {
         if(user) {
           setUser(b2cUser);
           setProducts(user.products);
+          setName(user.name);
         }
       }
     })();
@@ -44,7 +46,7 @@ const Home = () => {
       </div>
       <div className='content-page flex flex-col m-10 gap-4'>
         <div className='flex flex-col gap-4 px-6 py-3 bg-white rounded-lg text-center font-bold'>
-          <p>Welcome back {b2cUser.idTokenClaims.given_name as string}</p>
+          <p>Welcome back {name}</p>
           <p>You know what time it is - it&apos;s time to grind!</p>
         </div>
         {products && products.includes('Abs') && (
