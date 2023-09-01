@@ -15,7 +15,7 @@ const Home = () => {
   const [usersClient, setUsersClient] = useState<UsersClient>();
   const { instance, accounts } = useMsal();
   const b2cUser = accounts[0];
-  const { products, setProducts } = useContext<User>(UserContext);
+  const { user, setUser, products, setProducts } = useContext<User>(UserContext);
 
   useEffect(() => {
     (async () => {
@@ -29,6 +29,7 @@ const Home = () => {
         var token = await acquireAccessToken(instance);
         const user = await usersClient.getJPUserFromEmail(b2cUser.username, token.idToken);
         if(user) {
+          setUser(b2cUser);
           setProducts(user.products);
         }
       }
@@ -43,7 +44,7 @@ const Home = () => {
       </div>
       <div className='content-page flex flex-col m-10 gap-4'>
         <div className='flex flex-col gap-4 px-6 py-3 bg-white rounded-lg text-center font-bold'>
-          <p>Welcome back.</p>
+          <p>Welcome back {b2cUser.idTokenClaims.given_name as string}</p>
           <p>You know what time it is - it&apos;s time to grind!</p>
         </div>
         {products && products.includes('Abs') && (

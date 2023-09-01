@@ -18,7 +18,7 @@ const Index = () => {
             <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white text-justify rounded-lg shadow-md'>
               <p>If you have already purchased a program please sign in below</p>
               <button className='px-6 py-3 secondary-colour rounded-lg font-bold'
-                onClick={() => instance.loginPopup(loginRequest).then((response) => setUser(response.account))}>
+                onClick={() => instance.loginRedirect(loginRequest)}>
                   SIGN IN
               </button>
               <p><b>Note:</b> When signing up ensure you sign up with the <b>SAME</b> email address you used to make your purchase</p>

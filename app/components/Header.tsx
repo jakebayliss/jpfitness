@@ -56,7 +56,7 @@ const Header = () => {
                         ) : (
                             <li className="mb-1">
                                 <button className="text-end p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
-                                    onClick={() => instance.loginPopup(loginRequest).then((response) => setUser(response.account))}>
+                                    onClick={() => instance.loginRedirect(loginRequest)}>
                                     Login
                                 </button>
                             </li>
