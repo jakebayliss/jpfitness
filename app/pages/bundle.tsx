@@ -17,7 +17,6 @@ const Index = (props) => {
   
   let access = user !== null;
   let hasBoughtProduct = products.some(product => product === 'Bundle');
-  console.log(user, access, products, hasBoughtProduct);
 
   useEffect(() => {
     (async () => {
@@ -92,7 +91,3 @@ export async function getStaticProps() {
 }
 
 export default Index;
-
-function setUsersClient(arg0: any) {
-  throw new Error('Function not implemented.');
-}

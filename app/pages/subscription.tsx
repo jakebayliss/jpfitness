@@ -17,7 +17,6 @@ const Index = (props) => {
   
   let access = user !== null;
   let hasBoughtProduct = products.some(product => product === 'Subscription');
-  console.log(user, access, products, hasBoughtProduct);
 
   useEffect(() => {
     (async () => {
