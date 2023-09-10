@@ -10,6 +10,8 @@ import { UsersClient } from '@/api-client';
 import { useMsal } from '@azure/msal-react';
 import { BASE_API_URL } from '@/config';
 import { acquireAccessToken } from '@/auth/authConfig';
+import matter, { FrontMatterResult } from 'front-matter';
+import { IWorkout } from '@/interfaces/IWorkout';
 
 const Index = (props) => {
     const { user, setUser, products, setProducts } = useContext<User>(UserContext);
@@ -18,7 +20,7 @@ const Index = (props) => {
     const b2cUser = accounts[0];
     
     let access = user !== null;
-    let hasBoughtProduct = products.some(product => product === 'Abs');
+    let hasBoughtProduct = products.some(product => product.toLowerCase() === props.product.toLowerCase());
 
     useEffect(() => {
         (async () => {
@@ -49,9 +51,13 @@ const Index = (props) => {
                 {!access 
                     ? <h3 className='text-center'>Please sign in to view this content</h3>
                     : (hasBoughtProduct 
-                        ? props.slugs.map((s, i) => (
-                            <Link href={`./${props.product}/weeks/${s}`} key={i}>
-                                <h3>{s}</h3>
+                        ? props.slugs.map((s: string, i: number) => (
+                            s == 'warm-ups' 
+                            ? <Link href={`./${props.product}/exercises/${s.toLowerCase()}`} key={i}>
+                                <h3 className='first-letter:uppercase'>{s}</h3>
+                            </Link>
+                            : <Link href={`./${props.product}/weeks/${s.toLowerCase()}`} key={i}>
+                                <h3 className='first-letter:uppercase'>{s}</h3>
                             </Link>
                         )) 
                         : <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white rounded-lg shadow-md'>
@@ -93,5 +99,16 @@ export const getStaticProps: GetStaticProps = async (context) => {
       },
     }
 }
+
+export const getWorkout = async (product: string, week: string, exercise: string) => {
+    const content = (await fs.readFile(`./content/${product}/${week}/${exercise}.md`)).toString();
+    const data = matter(content) as FrontMatterResult<IWorkout>;
+  
+    return {
+        ...data.attributes,
+        exercise,
+        content: data.body
+    }
+  }
 
 export default Index;

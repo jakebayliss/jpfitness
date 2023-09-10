@@ -19,7 +19,7 @@ const Index = (props) => {
   const b2cUser = accounts[0];
   
   let access = user !== null;
-  let hasBoughtProduct = products.some(product => product === 'Abs');
+  let hasBoughtProduct = products.some(product => product.toLowerCase() === props.product.toLowerCase());
 
   useEffect(() => {
     (async () => {
@@ -44,11 +44,11 @@ const Index = (props) => {
     <main className='min-h-[calc(100vh-40px)]'>
       <div className='min-h-[calc(100vh-40px)]'>
         <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
-          <h1>{props.product}</h1>
+          <h1 className='first-letter:uppercase'>{props.product}</h1>
           <Header />
         </div>
         <div className='content-page'>
-          <h3>{props.week}</h3>
+          <h3 className='first-letter:uppercase'>{props.week}</h3>
           {!access 
             ? <h3 className='text-center'>Please sign in to view this content</h3>
             : (hasBoughtProduct 
@@ -75,7 +75,6 @@ const Index = (props) => {
 }
 
 export const getStaticProps: GetStaticProps = async (context) => {
-  console.log(context);
     const folder = path.join(process.cwd(), `./content/${context.params.product}/${context.params.week}`)
     const filenames = await fs.readdir(folder);
     const slugs = filenames.map(s => s.replace('.md', ''));
@@ -90,6 +89,7 @@ export const getStaticProps: GetStaticProps = async (context) => {
         week: context.params.week,
         workouts
       },
+      revalidate: 60
     }
 }
 

@@ -65,16 +65,16 @@ const Home = () => {
             <p>You know what time it is - it&apos;s time to grind!</p>
           </div>
           {products && products.includes('Abs') && (
-            <Link href='./abs' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>ABS</Link>
+            <Link href='./products/abs' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>ABS</Link>
           )}
           {products && products.includes('Program') && (
-            <Link href='./program' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>PROGRAM</Link>
+            <Link href='./products/program' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>PROGRAM</Link>
           )}
           {products && products.includes('Bundle') && (
-            <Link href='./bundle' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>BUNDLE</Link>
+            <Link href='./products/bundle' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>BUNDLE</Link>
           )}
           {products && products.includes('Subscription') && (
-            <Link href='./subscription' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>SUBSCRIPTION</Link>
+            <Link href='./products/subscription' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>SUBSCRIPTION</Link>
           )}
         </div>
       )}
