@@ -99,7 +99,8 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return {
     paths: slugs.map(s => ({
       params: {
-        product: s
+        product: s,
+        exercise: ''
       }})),
     fallback: true
   }

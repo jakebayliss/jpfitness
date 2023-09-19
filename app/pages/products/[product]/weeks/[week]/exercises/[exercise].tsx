@@ -18,6 +18,7 @@ const Index = (props) => {
     const [usersClient, setUsersClient] = useState<UsersClient>();
     const { instance, accounts } = useMsal();
     const b2cUser = accounts[0];
+    console.log(props);
     
     let access = user !== null;
     let hasBoughtProduct = products.some(product => product.toLowerCase() === props.product.toLowerCase());
@@ -100,7 +101,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return {
     paths: slugs.map(s => ({
       params: {
-        product: s
+        product: s,
+        week: '',
+        exercise: ''
       }})),
     fallback: true
   }
