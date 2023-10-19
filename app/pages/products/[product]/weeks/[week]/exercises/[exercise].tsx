@@ -113,26 +113,15 @@ async function generatePaths(currentFolder: string) {
       // weeks
       for(const weekEntry of weekEntries) {
         var weekEntryPath = path.join(entryPath, weekEntry);
-        const stats = await fs.lstat(weekEntryPath);
-        if(stats.isDirectory()) {
-          const exercises = await fs.readdir(weekEntryPath);
-          // exercises
-          for(const exercise of exercises) {
-            console.log(entry, weekEntry, exercise);
-            const params = {
-              product: entry,
-              week: weekEntry,
-              exercise: exercise.replace('.md', ''),
-              workout: await getWorkout(entry, weekEntry, exercise.replace('.md', ''))
-            }
-            paths.push({params});
-          }
-        }
-        else {
+        const exercises = await fs.readdir(weekEntryPath);
+        // exercises
+        for(const exercise of exercises) {
+          console.log(entry, weekEntry, exercise);
           const params = {
             product: entry,
-            week: '',
-            exercise: weekEntry.replace('.md', '')
+            week: weekEntry,
+            exercise: exercise.replace('.md', ''),
+            workout: await getWorkout(entry, weekEntry, exercise.replace('.md', ''))
           }
           paths.push({params});
         }
