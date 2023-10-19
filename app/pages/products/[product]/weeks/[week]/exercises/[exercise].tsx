@@ -23,9 +23,9 @@ const Index = (props) => {
     let hasBoughtProduct = products.some(product => product.toLowerCase() === props.product.toLowerCase());
 
     useEffect(() => {
-        (async () => {
+      (async () => {
         setUsersClient(new UsersClient(BASE_API_URL));
-        })();
+      })();
     }, []);
     
     useEffect(() => {
@@ -92,41 +92,55 @@ export const getWorkout = async (product: string, week: string, exercise: string
   }
 }
 
-export const getStaticPaths: GetStaticPaths = async () => {
-  const contentDir = path.join(process.cwd(), 'content');
-
-  const getSlugs = async (dir, prefix = []) => {
-    const entries = await fs.readdir(dir);
-
-    const slugs = await Promise.all(entries.map(async (entry) => {
-      const entryPath = path.join(dir, entry);
-      const stats = await fs.lstat(entryPath);
-
-      if (stats.isDirectory()) {
-        return getSlugs(entryPath, [...prefix, entry]);
-      } else {
-        return [...prefix, entry.replace('.md', '')];
-      }
-    }));
-
-    return slugs.flat();
-  };
-
-  const slugs = await getSlugs(contentDir);
+export const getStaticPaths = async () => {
+  const baseFolder = path.join(process.cwd(), '/content');
+  const paths = await generatePaths(baseFolder);
 
   return {
-    paths: slugs.map((slugParts) => {
-      const [product, week, exercise] = slugParts;
-      return {
-        params: {
-          product,
-          week,
-          exercise,
-        },
-      };
-    }),
+    paths,
     fallback: true,
   };
 };
+
+async function generatePaths(currentFolder: string) {
+  const entries = await fs.readdir(currentFolder);
+  const paths = [];
+  // products
+  for (const entry of entries) {
+    const entryPath = path.join(currentFolder, entry);
+    if(entry != 'abs') {
+      const weekEntries = await fs.readdir(entryPath);
+      // weeks
+      for(const weekEntry of weekEntries) {
+        var weekEntryPath = path.join(entryPath, weekEntry);
+        const stats = await fs.lstat(weekEntryPath);
+        if(stats.isDirectory()) {
+          const exercises = await fs.readdir(weekEntryPath);
+          // exercises
+          for(const exercise of exercises) {
+            console.log(entry, weekEntry, exercise);
+            const params = {
+              product: entry,
+              week: weekEntry,
+              exercise: exercise.replace('.md', ''),
+              workout: await getWorkout(entry, weekEntry, exercise.replace('.md', ''))
+            }
+            paths.push({params});
+          }
+        }
+        else {
+          const params = {
+            product: entry,
+            week: '',
+            exercise: weekEntry.replace('.md', '')
+          }
+          paths.push({params});
+        }
+      }
+    }
+  }
+
+  return paths;
+}
 
 export default Index;

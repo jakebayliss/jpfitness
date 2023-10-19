@@ -106,7 +106,6 @@ export const getWorkout = async (product: string, week: string, exercise: string
 
 export const getStaticPaths = async () => {
   const baseFolder = path.join(process.cwd(), '/content');
-  debugger;
   const paths = await generatePaths(baseFolder);
 
   return {
