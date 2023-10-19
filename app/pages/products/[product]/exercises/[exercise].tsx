@@ -91,19 +91,54 @@ export const getWorkout = async (product: string, exercise: string) => {
   }
 }
 
+async function getExercisePaths(productPath, parentParams = {}) {
+  const exercisePaths = [];
+  const productStats = await fs.lstat(productPath);
+
+  if (productStats.isDirectory()) {
+    const product = path.basename(productPath);
+
+    // Read exercise directories inside the product directory
+    const exerciseDir = path.join(productPath, 'Exercises');
+    try {
+      const exerciseFiles = await fs.readdir(exerciseDir);
+      const exercises = exerciseFiles.map((exercise) => {
+        return {
+          params: {
+            ...parentParams,
+            product,
+            exercise: exercise.replace('.md', ''),
+          },
+        };
+      });
+      exercisePaths.push(...exercises);
+    } catch (err) {
+      console.error(err);
+    }
+
+    // Recursively process subdirectories
+    const subdirs = await fs.readdir(productPath);
+    for (const subdir of subdirs) {
+      const subdirPath = path.join(productPath, subdir);
+      const subdirStats = await fs.lstat(subdirPath);
+      if (subdirStats.isDirectory()) {
+        exercisePaths.push(...await getExercisePaths(subdirPath, { product }));
+      }
+    }
+  }
+
+  return exercisePaths;
+}
+
 export const getStaticPaths: GetStaticPaths = async () => {
-  const folder = path.join(process.cwd(), './content')
-  const filenames = await fs.readdir(folder);
-  const slugs = filenames.map(s => s.replace('.md', ''));
+  const contentDir = path.join(process.cwd(), 'content');
+
+  const paths = await getExercisePaths(contentDir);
 
   return {
-    paths: slugs.map(s => ({
-      params: {
-        product: s,
-        exercise: ''
-      }})),
-    fallback: true
-  }
+    paths: paths,
+    fallback: true,
+  };
 }
 
 export default Index;

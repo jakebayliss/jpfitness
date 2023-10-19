@@ -104,19 +104,36 @@ export const getWorkout = async (product: string, week: string, exercise: string
   }
 }
 
-export const getStaticPaths: GetStaticPaths = async () => {
-  const folder = path.join(process.cwd(), './content')
-  const filenames = await fs.readdir(folder);
-  const slugs = filenames.map(s => s.replace('.md', ''));
+export const getStaticPaths = async () => {
+  const baseFolder = path.join(process.cwd(), 'content'); // Replace with your base folder
+  const paths = await generatePaths(baseFolder);
 
   return {
-    paths: slugs.map(s => ({
-      params: {
-        product: s,
-        week: ''
-      }})),
-    fallback: true
+    paths,
+    fallback: true,
+  };
+};
+
+async function generatePaths(currentFolder, parentParams = {}) {
+  const entries = await fs.readdir(currentFolder);
+  const paths = [];
+
+  for (const entry of entries) {
+    const entryPath = path.join(currentFolder, entry);
+    const stats = await fs.lstat(entryPath);
+
+    if (stats.isDirectory()) {
+      const params = { ...parentParams, product: entry };
+
+      const weekEntries = await generatePaths(entryPath, params);
+      paths.push(...weekEntries);
+    } else if (path.extname(entry) === '.md') {
+      const params = { ...parentParams, week: entry.replace('.md', '') };
+      paths.push({ params });
+    }
   }
+
+  return paths;
 }
 
 export default Index;

@@ -18,7 +18,6 @@ const Index = (props) => {
     const [usersClient, setUsersClient] = useState<UsersClient>();
     const { instance, accounts } = useMsal();
     const b2cUser = accounts[0];
-    console.log(props);
     
     let access = user !== null;
     let hasBoughtProduct = products.some(product => product.toLowerCase() === props.product.toLowerCase());
@@ -94,19 +93,40 @@ export const getWorkout = async (product: string, week: string, exercise: string
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const folder = path.join(process.cwd(), './content')
-  const filenames = await fs.readdir(folder);
-  const slugs = filenames.map(s => s.replace('.md', ''));
+  const contentDir = path.join(process.cwd(), 'content');
+
+  const getSlugs = async (dir, prefix = []) => {
+    const entries = await fs.readdir(dir);
+
+    const slugs = await Promise.all(entries.map(async (entry) => {
+      const entryPath = path.join(dir, entry);
+      const stats = await fs.lstat(entryPath);
+
+      if (stats.isDirectory()) {
+        return getSlugs(entryPath, [...prefix, entry]);
+      } else {
+        return [...prefix, entry.replace('.md', '')];
+      }
+    }));
+
+    return slugs.flat();
+  };
+
+  const slugs = await getSlugs(contentDir);
 
   return {
-    paths: slugs.map(s => ({
-      params: {
-        product: s,
-        week: '',
-        exercise: ''
-      }})),
-    fallback: true
-  }
-}
+    paths: slugs.map((slugParts) => {
+      const [product, week, exercise] = slugParts;
+      return {
+        params: {
+          product,
+          week,
+          exercise,
+        },
+      };
+    }),
+    fallback: true,
+  };
+};
 
 export default Index;
