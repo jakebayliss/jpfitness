@@ -105,7 +105,8 @@ export const getWorkout = async (product: string, week: string, exercise: string
 }
 
 export const getStaticPaths = async () => {
-  const baseFolder = path.join(process.cwd(), 'content'); // Replace with your base folder
+  const baseFolder = path.join(process.cwd(), '/content');
+  debugger;
   const paths = await generatePaths(baseFolder);
 
   return {
@@ -114,22 +115,39 @@ export const getStaticPaths = async () => {
   };
 };
 
-async function generatePaths(currentFolder, parentParams = {}) {
+async function generatePaths(currentFolder: string) {
   const entries = await fs.readdir(currentFolder);
   const paths = [];
-
+  // products
   for (const entry of entries) {
     const entryPath = path.join(currentFolder, entry);
-    const stats = await fs.lstat(entryPath);
-
-    if (stats.isDirectory()) {
-      const params = { ...parentParams, product: entry };
-
-      const weekEntries = await generatePaths(entryPath, params);
-      paths.push(...weekEntries);
-    } else if (path.extname(entry) === '.md') {
-      const params = { ...parentParams, week: entry.replace('.md', '') };
-      paths.push({ params });
+    if(entry != 'abs') {
+      const weekEntries = await fs.readdir(entryPath);
+      // weeks
+      for(const weekEntry of weekEntries) {
+        var weekEntryPath = path.join(entryPath, weekEntry);
+        const stats = await fs.lstat(weekEntryPath);
+        if(stats.isDirectory()) {
+          const exercises = await fs.readdir(weekEntryPath);
+          // exercises
+          for(const exercise of exercises) {
+            const params = {
+              product: entry,
+              week: weekEntry,
+              exercise: exercise.replace('.md', ''),
+            }
+            paths.push({params});
+          }
+        }
+        else {
+          const params = {
+            product: entry,
+            week: '',
+            exercise: weekEntry.replace('.md', ''),
+          }
+          paths.push({params});
+        }
+      }
     }
   }
 
