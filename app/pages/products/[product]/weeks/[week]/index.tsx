@@ -57,7 +57,7 @@ const Index = (props) => {
                         pathname: '/products/[product]/weeks/[week]/exercises/[exercise]',
                         query: { product: props.product, week: props.week, exercise: workout.exercise },
                     }} key={i}>
-                    <h3>{workout.title}</h3>
+                    <h3>{workout?.title ?? ''}</h3>
                   </Link>
                 ))
                 : <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white rounded-lg shadow-md'>

@@ -49,7 +49,7 @@ const Index = (props) => {
           <Header />
         </div>
         <div className='content-page prose p-3 text-justify'>
-            <h3 className='first-letter:uppercase'>{props.week} - {props.workout.title}</h3>
+            <h3 className='first-letter:uppercase'>{props.week} - {props?.workout?.title ?? ''}</h3>
             {!access 
                 ? <h3 className='text-center'>Please sign in to view this content</h3>
                 : (hasBoughtProduct 
@@ -121,7 +121,7 @@ async function generatePaths(currentFolder: string) {
             product: entry,
             week: weekEntry,
             exercise: exercise.replace('.md', ''),
-            workout: await getWorkout(entry, weekEntry, exercise.replace('.md', ''))
+            //workout: await getWorkout(entry, weekEntry, exercise.replace('.md', ''))
           }
           paths.push({params});
         }

@@ -49,7 +49,7 @@ const Index = (props) => {
           <Header />
         </div>
         <div className='content-page prose p-3 text-justify'>
-            <h3 className='first-letter:uppercase'>{props.workout.title}</h3>
+            <h3 className='first-letter:uppercase'>{props?.workout?.title ?? ''}</h3>
             {!access 
                 ? <h3 className='text-center'>Please sign in to view this content</h3>
                 : (hasBoughtProduct 
