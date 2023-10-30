@@ -15,8 +15,6 @@ previousPage: 'week3-welcome'
   </video>
 </figure>
 
-- 
-
 - Slooooow negatives
 
 - Good tip is to set up the chair height perfectly for you. The height that feels best for me is demonstrated in the video and it's fairly low as I like my whole upper body locked in place

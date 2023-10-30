@@ -21,8 +21,6 @@ previousPage: 'week5-welcome'
   </video>
 </figure>
 
-
-
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
 - Form is incredibly important to ensure your bi's are constantly engaged
@@ -102,6 +100,7 @@ previousPage: 'week5-welcome'
 
 - As above, they're amazing to dropset!
 
+</details>
 
 <details>
 <summary><b>Preacher Curls SS Long Negatives</b></summary>
@@ -123,6 +122,8 @@ previousPage: 'week5-welcome'
 - If you can get a friend/gym partner to resist (push down) while you try hold the negatives as long as possible this will have you both looking and feeling like superman/superwoman
 
 - I currently do 12.5kg on either side of the bar for 8 reps then 4-6 ultra long negatives to finish each set
+
+</details>
 
 <details>
 <summary><b>Dips SS Hammers</b></summary>
@@ -164,8 +165,8 @@ previousPage: 'week5-welcome'
 - Currently on 16kg for 8 reps each arm
 
 </details>
-<details>
 
+<details>
 <summary><b>Oblique Climbers</b></summary>
 
 <figure class="video_container">

@@ -5,8 +5,6 @@ week: 3
 nextPage: 'week3-legs-and-abs'
 previousPage: 'week3-arms-and-abs'
 ---
-
-
 <details>
 <summary><b>Bench</b></summary>
 
@@ -15,8 +13,6 @@ previousPage: 'week3-arms-and-abs'
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/3a4c57f0-350e-4f34-ac68-8f31df85b063" type="video/mp4">
   </video>
 </figure>
-
-- 
 
 - What a fkn start to Chest day - there's not much better in life than hitting flat-bench first up! 
 
@@ -147,7 +143,6 @@ previousPage: 'week3-arms-and-abs'
 - I do 10.5kg for 8 reps in this direction
 
 </details>
-
 
 <details>
 <summary><b>Pull-Ups</b></summary>

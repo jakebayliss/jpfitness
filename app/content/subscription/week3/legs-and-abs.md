@@ -15,8 +15,6 @@ previousPage: 'week3-chest-and-back'
   </video>
 </figure>
 
-- 
-
 - Warm-up set with body weight then straight into it
 
 - Don't over-stride - keep stride length reasonable so you're not over extending, losing balance
