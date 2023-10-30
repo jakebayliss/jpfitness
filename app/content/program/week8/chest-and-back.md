@@ -105,6 +105,8 @@ previousPage: 'week8-arms'
 
 - As many bodyweight reps as you can for 3 sets!
 
+</details>
+
 <details>
 <summary><b>Bench</b></summary>
 

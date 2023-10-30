@@ -10,6 +10,8 @@ previousPage: 'week7-shoulders'
 
 Aaaaaand we're back in the pool! Try and jump up a tier of workout difficulty. So if you've been sticking to the easy one hit the intermediate (same if you've been playing it safe with intermediate). It'll be considerably harder but you'll be feeling so fkn good walking away from the pool afterwards!
 
+</details>
+
 <details>
 <summary><b>Tips</b></summary>
 
@@ -210,3 +212,5 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
+
+</details>

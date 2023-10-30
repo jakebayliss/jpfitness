@@ -15,8 +15,6 @@ previousPage: 'week7-arms-and-abs'
   </video>
 </figure>
 
-- 
-
 - What a fkn start to Chest day - there's not much better in life than hitting flat-bench first up! 
 
 - Slow and controlled, come down to just above your chest every rep, don't bounce the bar off it but make sure you get full range of motion

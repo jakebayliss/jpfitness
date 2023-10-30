@@ -15,6 +15,8 @@ As with Day 1, start by watching and listening to the tutorial videos carefully.
 
 For many years after my lower back injury (which happened while squatting) my legs seriously lacked size, and I lacked motivation to train them. Firstly, I was scared my back would give way again, and I was reluctant to train them without including squats. However, they're now a part of my weekly routine and I'm learning to love training them once more. For those of you that would like to squat during my program I've included a section to next week (replacing your lunges next week with squats).
 
+</details>
+
 <details>
 <summary><b>Lunges SS Free-weight Squats</b></summary>
 
@@ -133,6 +135,8 @@ For many years after my lower back injury (which happened while squatting) my le
 
 Today's ab session is a continuous circuit - you do the first exercise, then the next, then the next all the way up until the last and that counts as 1 set. Repeat 4 times and that's your abs routine conquered for the day! 
 
+</details>
+
 <details>
 <summary><b>Bicycle Kicks</b></summary>
 
@@ -222,8 +226,6 @@ Today's ab session is a continuous circuit - you do the first exercise, then the
 - I aim for 10 taps each arm, 20 taps total 
 
 </details>
-
-- [ADD ANOTHER EXERCISE]
 
 
 

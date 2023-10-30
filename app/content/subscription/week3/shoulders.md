@@ -15,8 +15,6 @@ previousPage: 'week3-legs-and-abs'
   </video>
 </figure>
 
-- 
-
 - Feet shoulder width apart and strong core - this strong foundation will set you up for a great set
 
 - Hands placed just outside shoulder width apart - one thumb length away from the shiny part of the bar

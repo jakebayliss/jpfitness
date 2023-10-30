@@ -14,7 +14,7 @@ previousPage: 'week8-shoulders'
 
 - Go to your local park (if weather permits) and do the following:
 
-- Warm-up:
+Warm-up:
 
 - Light jog around the park (roughly 3-5 mins)
 

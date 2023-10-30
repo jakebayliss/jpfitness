@@ -5,6 +5,8 @@ week: 4
 nextPage: 'week4-arms'
 ---
 
+<details>
+
 You know the drill...IT'S WEEK 4 AND TIME TO GRIND 
 
 At the end of this week you'll be half way through, look at you go - annihilating it! Week 4's focus is STRENGTH - so we're lowering the reps and increasing the weight throughout. The swim session will be harder and will require more effort on your end than Week 1's which is to be expected as you're now all seasoned fitness experts!
@@ -28,3 +30,5 @@ My cardio recommendations don't change week to week - you just need to hold your
 Last week we focussed on a Pilates workout, this week the main event is a run. I understand that running isn't for everyone so feel free to do one of the provided alternatives if you're not feeling it! 
 
 Let's get into it!!
+
+</details>

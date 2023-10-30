@@ -15,8 +15,6 @@ previousPage: 'week5-legs'
   </video>
 </figure>
 
-- 
-
 - My personal preference is the seated part of the bench slightly inclined and the back of the bench not directly upright but also slightly inclined
 
 - This makes my movements feel a lot less restricted and puts less direct pressure on my joints
@@ -70,6 +68,8 @@ previousPage: 'week5-legs'
 - Front raises: Slow and controlled movement, arms slightly angled, bring plate to at least head height if not higher - don't sway your movements, pull with your front delts
 
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
+
+</details>
 
 <details>
 <summary><b>Standind Press</b></summary>

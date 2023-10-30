@@ -18,7 +18,6 @@ If you're swimming this week then I want you to think back to Week 1. How hard w
 
 </details>
 
-
 <details>
 <summary><b>Tips</b></summary>
 
@@ -142,13 +141,16 @@ Cool down:
   
 I've listed alternatives below (which will be replacing the swim in following week's cardio sessions) for those of you without lap-pool access.
 
-Online Pilates:
+<summary><b>Online Pilates</b></summary>
 
 - I recommend Move With Nicole on Youtube:
 
 - [MoveWithNicole](https://www.youtube.com/@MoveWithNicole)
 
 She has great workouts for the whole body, legs, abs, upper body, lower body and stretching - I like to try incorporate minimum one workout per week
+
+<details>
+<summary><b>Outdoor Jogging Pilates</b></summary>
 
 Outdoor Jogging:
 
@@ -174,7 +176,10 @@ Cooldown:
 
 - Aim for a total workout time of 30-45 mins
 
-HIIT Workout:
+</details>
+
+<details>
+<summary><b>HIIT Workout</b></summary>
 
 [ITEMS REQUIRED]: Water bottle, phone (timer), markers (I use my hat and a water bottle)
 
@@ -219,3 +224,5 @@ REPEAT 3 TIMES
 Cool-down:
 
 - Go for a well-deserved walk/lap around the park. I like to listen to relaxing music, walk slowly and enjoy mother nature before heading home - well done!!
+
+</details>

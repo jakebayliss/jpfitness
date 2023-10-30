@@ -46,7 +46,7 @@ previousPage: 'week6-arms-and-abs'
 
 - Currently on 2 20kg plates and one 5 kg plate going for 12 reps per set
 
-</detials>
+</details>
 
 <details>
 <summary><b>Flat DB Press SS Burners</b></summary>

@@ -15,8 +15,6 @@ previousPage: 'week5-arms-and-abs'
   </video>
 </figure>
 
-- 
-
 - This week we're back to starting with Incline DB Press - if you're feeling that your lower chest isn't getting enough love then now's the perfect time to sub out incline DB press with decline DB press - as always be careful with how heavy you go if it's your first time!
 
 - Careful with your form picking up heavy dumbbells, I know better than most about annoying back pain caused from the gym
@@ -106,7 +104,7 @@ previousPage: 'week5-arms-and-abs'
 
 - I do 10.5kg for 8 reps in this direction
 
-<details>
+</details>
 
 <details>
 <summary><b>Lat Pulldowns</b></summary>

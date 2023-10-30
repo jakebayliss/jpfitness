@@ -16,6 +16,8 @@ If you're swimming this week then I want you to think back to Week 1. How hard w
 
 - As with week 1, I've provided 3 different swimming workouts (easy, intermediate and hard). Feel free to choose which ever will be good for you. If you've never swam for fitness before then please start with the easy workout and work your way up to more difficult ones as the program progresses (as you repeat it). If you're a strong swimmer then please proceed with either the intermediate or hard workout!! 
 
+</details>
+
 <details>
 <summary><b>Tips</b></summary>
 

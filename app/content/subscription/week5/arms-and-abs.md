@@ -21,8 +21,6 @@ previousPage: 'week5-welcome'
   </video>
 </figure>
 
-
-
 - Start with your arms fully relaxed, then curl up to half way up your arm or a 90 degree arm-forearm angle - rep 7 times like this, then 7 in the upper half and 7 complete curls
 
 - Form is incredibly important to ensure your bi's are constantly engaged
@@ -102,6 +100,7 @@ previousPage: 'week5-welcome'
 
 - As above, they're amazing to dropset!
 
+</details>
 
 <details>
 <summary><b>Preacher Curls SS Long Negatives</b></summary>

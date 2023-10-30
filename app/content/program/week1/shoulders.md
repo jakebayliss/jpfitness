@@ -78,7 +78,7 @@ Shoulders have probably been my weakest (looks & strength wise) muscle group for
 
 - I rep 12kg for lateral raises and typically do front raises with a 20kg plate
 
-</details
+</details>
 
 <details>
 <summary><b>Standing Press</b></summary>

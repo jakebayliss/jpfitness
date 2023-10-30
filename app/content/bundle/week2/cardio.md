@@ -4,6 +4,10 @@ pageNumber: 6
 week: 2
 previousPage: 'week2-shoulders'
 ---
+
+<details>
+<summary><b>Notes</b></summary>
+
 My cardio recommendations don't change week to week - you just need to hold yourself accountable and make sure you're completing SOME form of cardio. I don't mind how you choose to do so, it could be a hike with friends, the stair machine at the gym, laps of a pool or a local sport - it's entirely up to you.
 
 Last week we focussed on swimming, this week the main event is a park (or similar environment) HIIT workout. I understand that some of you may have done this workout last week as you opted for it instead of the swim. If so, feel free to switch it up (to one of the listed alternatives below) or to repeat the same workout. There's certainly no harm in doing the same HIIT workout twice - its list of benefits are endless so go for gold!!!
@@ -11,6 +15,8 @@ Last week we focussed on swimming, this week the main event is a park (or simila
 Unlike last week none of you should have a valid excuse to skip this one ;)
 
 Let's get into it!!
+
+</details>
 
 <details>
 <summary><b>HIIT Workout</b></summary>

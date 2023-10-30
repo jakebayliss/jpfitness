@@ -31,9 +31,9 @@ previousPage: 'week6-welcome'
 
 - Lock elbows as per!!
 
- -Try minimise upper-body rocking, I know it's hard but try!
+- Try minimise upper-body rocking, I know it's hard but try!
 
- -Arms are spaced extremely close to one another, inside elbow-width apart with pinky fingers almost touching
+- Arms are spaced extremely close to one another, inside elbow-width apart with pinky fingers almost touching
 
 - Close grip curls are amazing for increasing the size of the peak of your bicep - which is what we're chasing baby!
 

@@ -47,6 +47,8 @@ Finally, if you need help understanding anything, want my assistance or personal
 
 - This framework is to be applied only once you've got your form near-perfect in every exercise. Don't hurt yourself with poor form - it will completely hinder your workout career
 
+</details>
+
 <details>
 <summary><b>Terminology</b></summary>
 

@@ -97,8 +97,6 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 
 - I do 12.5kg in downward flys for 10 reps
 
-</details>
-
 <figure class="video_container">
   <video controls={true}>
     <source src="https://github.com/jakebayliss/jpfitness/assets/101162903/da2a3c73-eb8f-4ac2-ab6d-24fca3e48929" type="video/mp4">
@@ -115,6 +113,7 @@ I'm using this program to fill out my Chest & Back. I love the look of a full ch
 
 - I do 10.5kg for 8 reps in this direction
 
+</details>
 <details>
 <summary><b>Lat Pulldowns</b></summary>
 

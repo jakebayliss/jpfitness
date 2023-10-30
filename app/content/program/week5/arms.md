@@ -114,7 +114,6 @@ previousPage: 'week5-welcome'
   </video>
 </figure>
 
-
 - Killer superset, lock those fkn elbows!!
 
 - Really pull OUTWARDS at the bottom of every rep to engage those tri's
@@ -142,6 +141,8 @@ previousPage: 'week5-welcome'
 - As above, they're amazing to dropset!
 
 - Can you beat me? Currently repping 45kg for 8 reps on CG curls
+
+</details>
 
 <details>
 <summary><b>Preacher Curls SS Long Negatives</b></summary>
