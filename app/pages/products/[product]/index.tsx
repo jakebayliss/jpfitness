@@ -57,7 +57,7 @@ const Index = (props) => {
                                 <h3 className='first-letter:uppercase px-6 py-3 bg-white rounded-lg text-center font-bold'>{s}</h3>
                             </Link>
                             : <Link href={`./${props.product}/weeks/${s.toLowerCase()}`} key={i}>
-                                <h3 className='first-letter:uppercase px-6 py-3 bg-white rounded-lg text-center font-bold'>{s.replace('week', 'week ')}</h3>
+                                <h3 className='first-letter:uppercase px-6 py-3 bg-white rounded-lg text-center font-bold'>{s?.replace('week', 'week ')}</h3>
                             </Link>
                         )) 
                         : <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white rounded-lg shadow-md'>

@@ -48,7 +48,7 @@ const Index = (props) => {
           <Header />
         </div>
         <div className='flex flex-col m-10 gap-4'>
-          <h3 className='first-letter:uppercase font-bold text-xl'>{props.product} - {props.week.replace('week', 'Week ')}</h3>
+          <h3 className='first-letter:uppercase font-bold text-xl'>{props.product} - {props.week?.replace('week', 'Week ')}</h3>
           {!access 
             ? <h3 className='text-center'>Please sign in to view this content</h3>
             : (hasBoughtProduct 
