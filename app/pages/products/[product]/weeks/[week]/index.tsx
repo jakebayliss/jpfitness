@@ -43,21 +43,21 @@ const Index = (props) => {
   return (
     <main className='min-h-[calc(100vh-40px)]'>
       <div className='min-h-[calc(100vh-40px)]'>
-        <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
-          <h1 className='first-letter:uppercase'>{props.product}</h1>
+        <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center '>
+          <h1>Paine-Fit</h1>
           <Header />
         </div>
-        <div className='content-page'>
-          <h3 className='first-letter:uppercase'>{props.week}</h3>
+        <div className='flex flex-col m-10 gap-4'>
+          <h3 className='first-letter:uppercase font-bold text-xl'>{props.product} - {props.week.replace('week', 'Week ')}</h3>
           {!access 
             ? <h3 className='text-center'>Please sign in to view this content</h3>
             : (hasBoughtProduct 
-                ? props?.workouts?.map((workout, i) => (
+                ? props?.workouts?.sort((a, b) => a.pageNumber - b.pageNumber)?.map((workout, i) => (
                   <Link href={{
                         pathname: '/products/[product]/weeks/[week]/exercises/[exercise]',
                         query: { product: props.product, week: props.week, exercise: workout.exercise },
                     }} key={i}>
-                    <h3>{workout?.title ?? ''}</h3>
+                      <h3 className='first-letter:uppercase px-6 py-3 bg-white rounded-lg text-center font-bold'>{workout?.title ?? ''}</h3>
                   </Link>
                 ))
                 : <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white rounded-lg shadow-md'>

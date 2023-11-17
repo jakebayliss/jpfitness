@@ -45,11 +45,11 @@ const Index = (props) => {
     <main className='min-h-[calc(100vh-40px)]'>
       <div className='min-h-[calc(100vh-40px)]'>
         <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center'>
-          <h1 className='first-letter:uppercase'>{props.product}</h1>
+          <h1>Paine-Fit</h1>
           <Header />
         </div>
-        <div className='content-page prose p-3 text-justify'>
-            <h3 className='first-letter:uppercase'>{props.week} - {props?.workout?.title ?? ''}</h3>
+        <div className='content-page prose p-3'>
+            <h3 className='first-letter:uppercase'>{props.product} - {props.week.replace('week', 'Week ')} - {props?.workout?.title ?? ''}</h3>
             {!access 
                 ? <h3 className='text-center'>Please sign in to view this content</h3>
                 : (hasBoughtProduct 
@@ -120,8 +120,7 @@ async function generatePaths(currentFolder: string) {
           const params = {
             product: entry,
             week: weekEntry,
-            exercise: exercise.replace('.md', ''),
-            //workout: await getWorkout(entry, weekEntry, exercise.replace('.md', ''))
+            exercise: exercise.replace('.md', '')
           }
           paths.push({params});
         }

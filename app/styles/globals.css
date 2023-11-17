@@ -70,12 +70,12 @@ details {
 }
 
 summary {
-  color: #8497EB;
+  /* color: #8497EB; */
   font-size: 20px;
 }
 
 .page-title {
-  background-color: #8497EB;
+  background-color: rgb(55, 57, 63);
 }
 
 .content-page {

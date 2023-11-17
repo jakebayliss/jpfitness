@@ -42,7 +42,7 @@ const Home = () => {
   }, [usersClient]);
 
   return (
-    <main>
+    <main className='min-h-screen'>
       <div className='page-title flex justify-between p-6 font-bold text-4xl text-white text-center '>
         <h1>Paine-Fit</h1>
         <Header />
@@ -59,23 +59,26 @@ const Home = () => {
             </div>
           </div>
       ) : (
-        <div className='content-page flex flex-col m-10 gap-4'>
-          <div className='flex flex-col gap-4 px-6 py-3 bg-white rounded-lg text-center font-bold'>
-            <p>Welcome back {name}</p>
+        <div className='flex flex-col m-10 gap-4'>
+          <div>
+            <h3 className='font-bold text-xl'>Welcome back {name}</h3>
             <p>You know what time it is - it&apos;s time to grind!</p>
           </div>
-          {products && products.includes('Abs') && (
-            <Link href='./products/abs' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>ABS</Link>
-          )}
-          {products && products.includes('Program') && (
-            <Link href='./products/program' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>PROGRAM</Link>
-          )}
-          {products && products.includes('Bundle') && (
-            <Link href='./products/bundle' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>BUNDLE</Link>
-          )}
-          {products && products.includes('Subscription') && (
-            <Link href='./products/subscription' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>SUBSCRIPTION</Link>
-          )}
+          <div className='flex flex-col'>
+            <p className='my-4'>Your products:</p>
+            {products && products.includes('Abs') && (
+              <Link href='./products/abs' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>ABS</Link>
+            )}
+            {products && products.includes('Program') && (
+              <Link href='./products/program' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>PROGRAM</Link>
+            )}
+            {products && products.includes('Bundle') && (
+              <Link href='./products/bundle' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>BUNDLE</Link>
+            )}
+            {products && products.includes('Subscription') && (
+              <Link href='./products/subscription' className='px-6 py-3 bg-white rounded-lg text-center font-bold'>SUBSCRIPTION</Link>
+            )}
+          </div>
         </div>
       )}
     </main>

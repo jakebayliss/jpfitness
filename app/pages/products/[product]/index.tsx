@@ -47,17 +47,17 @@ const Index = (props) => {
                 <h1>Paine-Fit</h1>
                 <Header />
             </div>
-            <div className='content-page'>
+            <div className='flex flex-col m-10 gap-4'>
                 {!access 
                     ? <h3 className='text-center'>Please sign in to view this content</h3>
                     : (hasBoughtProduct 
                         ? props.slugs.map((s: string, i: number) => (
                             s == 'warm-ups' 
                             ? <Link href={`./${props.product}/exercises/${s.toLowerCase()}`} key={i}>
-                                <h3 className='first-letter:uppercase'>{s}</h3>
+                                <h3 className='first-letter:uppercase px-6 py-3 bg-white rounded-lg text-center font-bold'>{s}</h3>
                             </Link>
                             : <Link href={`./${props.product}/weeks/${s.toLowerCase()}`} key={i}>
-                                <h3 className='first-letter:uppercase'>{s}</h3>
+                                <h3 className='first-letter:uppercase px-6 py-3 bg-white rounded-lg text-center font-bold'>{s.replace('week', 'week ')}</h3>
                             </Link>
                         )) 
                         : <div className='flex flex-col items-center gap-2 m-6 px-6 py-4 bg-white rounded-lg shadow-md'>
