@@ -17,7 +17,7 @@ export const msalConfig = {
         clientId: "aa2dcb21-2256-4e78-9eb2-1580f9cd6a3d", 
         authority: b2cPolicies.authorities.signUpSignIn.authority, 
         knownAuthorities: [b2cPolicies.authorityDomain], 
-        redirectUri: "/",
+        redirectUri: "https://victorious-desert-066b9db10.3.azurestaticapps.net/",
         postLogoutRedirectUri: "/",
         navigateToLoginRequestUrl: false, 
     },
